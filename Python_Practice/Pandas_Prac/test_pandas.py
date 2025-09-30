@@ -1,0 +1,11 @@
+import pandas as pd
+df=pd.read_excel("Pandas_Prac/Book.xlsx")
+dl= pd.read_csv("Pandas_Prac/Book_CSV.csv")
+ds= pd.read_json("Pandas_Prac/emp.json")
+print(df)
+print("printed df=excel")
+print(dl)
+print("printed dl=csv")
+print(ds)
+print("printed ds=json")
+print("pandas is successfully imported")

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Premashree Verma",
+    "role": "Associate Data Engineer",
+    "skills": ["Python", "Pandas", "Reltio MDM"],
+    "location": "Hyderabad"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "role": "Data Analyst",
+    "skills": ["SQL", "Tableau", "Excel"],
+    "location": "Bangalore"
+  },
+  {
+    "id": 3,
+    "name": "Sneha Iyer",
+    "role": "ML Engineer",
+    "skills": ["Python", "Scikit-learn", "TensorFlow"],
+    "location": "Pune"
+  }
+]

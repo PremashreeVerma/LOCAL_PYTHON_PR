@@ -1,0 +1,29 @@
+[
+    {
+        "id": 101,
+        "name": "Alice",
+        "department": "IT",
+        "skills": [
+            "Python",
+            "SQL"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Bob",
+        "department": "HR",
+        "skills": [
+            "Recruitment",
+            "AWS"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Prema",
+        "department": "developer",
+        "skills": [
+            "ETL",
+            "RELTIO"
+        ]
+    }
+]
