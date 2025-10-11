@@ -28,20 +28,14 @@ balance_types = [
     "Market Value", "Book Value", "Principal Owed"
 ]
 
+num_records = 1000
+
+# ✅ Generate a pool of unique account numbers
+account_numbers = random.sample(range(1000000000, 9999999999), num_records)
+
 records = []
 
-# Keep track of used account numbers
-used_account_numbers = set()
-
-def generate_unique_account_number():
-    while True:
-        acc_num = random.randint(1000000000, 9999999999)
-        if acc_num not in used_account_numbers:
-            used_account_numbers.add(acc_num)
-            return str(acc_num)
-
-# Generate 1000 records
-for i in range(1, 1001):
+for i in range(num_records):
     acc_type = random.choice(list(account_type_map.keys()))
     acc_code = account_type_map[acc_type]
     acc_status = random.choice(account_statuses)
@@ -64,7 +58,7 @@ for i in range(1, 1001):
         "BankID": f"BANK{random.randint(1000, 9999)}",  # can repeat
         "BankName": fake.company(),                       # can repeat
         "AccountName": fake.name(),
-        "AccountNumber": generate_unique_account_number(),  # unique
+        "AccountNumber": str(account_numbers[i]),        # guaranteed unique
         "AccountType": acc_type,
         "AccountTypeCode": acc_code,
         "AccountStatus": acc_status,
@@ -95,7 +89,8 @@ for i in range(1, 1001):
 
     records.append(record)
 
-# Save to CSV in current folder
+# Save CSV
 df = pd.DataFrame(records)
-df.to_csv("new_generated_account_records_1k.csv", index=False)
-print("✅ CSV file 'generated_account_records_1k.csv' created successfully!")
+df.to_csv("generated_account_records_1k.csv", index=False)
+print("✅ CSV file 'generated_account_records_1k.csv' created successfully with 100% unique AccountNumbers!")
+
