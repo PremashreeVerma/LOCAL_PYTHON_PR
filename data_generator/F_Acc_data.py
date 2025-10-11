@@ -91,6 +91,6 @@ for i in range(num_records):
 
 # Save CSV
 df = pd.DataFrame(records)
-df.to_csv("generated_account_records_1k.csv", index=False)
+df.to_csv("new1k.csv", index=False)
 print("✅ CSV file 'generated_account_records_1k.csv' created successfully with 100% unique AccountNumbers!")
 
