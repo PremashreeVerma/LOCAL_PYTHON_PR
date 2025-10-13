@@ -1,0 +1,1001 @@
+Name,CompanyType,Address,Phone_Type,Phone_Number,ValidationStatus,Email_Type,Email_Value,Email_Active,TaxID,Identifiers_Type,Identifiers_Value,Identifiers_Status
+"Harvey, Gilmore and Marsh",Non-Profit,"69945 Martinez Neck, East Danielstad, NY, USA - 21749-4353",Home,(835)500-7508,In Review,Sales,diana38@example.com,False,TAX22436,TIN,AW70980,Active
+Velazquez-Franklin,Public,"62721 Hill Square Suite 126, Hamptonfurt, AR, USA - 75035-9850",Office,(437)663-3650x782,Pending,HR,raymondacosta@example.org,True,TAX62753,LEI,Iw32680,Active
+Snyder Inc,Private,"05529 Gallagher Meadows Suite 546, Lake Theresafort, FM, USA - 80553-2599",Fax,418.530.0149,Rejected,HR,xwhitaker@example.net,True,TAX75227,GST,oV33891,Inactive
+Mercado Inc,Non-Profit,"179 Cross Point, New Lauratown, OK, USA - 22840-4014",Mobile,9102137092,Pending,Support,chasehardin@example.org,True,TAX82809,PAN,Ir70821,Inactive
+"Flynn, Miller and Benton",Partnership,"18201 Tiffany Skyway, South Chelseafort, CO, USA - 84360-4609",Fax,4368954118,Approved,Personal,travisjoann@example.com,False,TAX28206,TIN,uW36666,Inactive
+Hunt Inc,Non-Profit,"451 Mendoza Causeway Suite 615, South John, MN, USA - 26014-2288",Office,+1-696-298-5844x04807,In Review,Personal,barnesdeborah@example.org,True,TAX38839,GST,Mi02346,Active
+"Hood, Jackson and Fleming",Private,"764 Ricky Lights Suite 770, East Harry, NJ, USA - 78336-3522",Mobile,863.690.5008x8754,Approved,Business,zlopez@example.org,False,TAX35170,LEI,Qm87007,Inactive
+Benton PLC,Private,"2928 Johnson Mews, Lake Michaeltown, MO, USA - 27642-9572",Mobile,001-382-915-4040x47951,Approved,Support,lisajordan@example.net,False,TAX88481,TIN,Wb05685,Inactive
+"Cooke, Lawson and Sellers",Non-Profit,"71079 Amy Park, Port Codyport, ME, USA - 77625-7865",Mobile,001-733-671-3621,Approved,HR,cody64@example.net,False,TAX34182,PAN,Gl17040,Inactive
+"Stephens, Porter and Jones",Non-Profit,"1164 Cain Mill Suite 624, North Arthurberg, NV, USA - 15734-6954",Fax,252-674-1146x461,Pending,Support,lmoss@example.org,False,TAX96012,GST,Vd30691,Inactive
+Fuentes-Cole,Private,"857 King Key Apt. 395, Brianborough, SC, USA - 71773-3561",Mobile,+1-514-934-1554,Pending,Sales,colleenpope@example.org,True,TAX48032,GST,zT77076,Inactive
+Michael-Bird,Government,"4879 John Pine Apt. 660, Lake David, DC, USA - 42839-4777",Home,001-332-201-0543,Approved,HR,oburns@example.net,False,TAX88972,PAN,VZ29429,Active
+Patterson-Hess,Private,"142 Sutton Overpass, Robinsonfort, CO, USA - 74592-3152",Home,(518)297-8454x95214,Validated,Personal,rmendoza@example.com,False,TAX56530,DUNS,Lp65656,Inactive
+"Washington, Myers and Bruce",Non-Profit,"35223 Taylor Way Suite 218, Danielton, SD, USA - 57157-9044",Mobile,449.779.9861x48162,Pending,Support,hwright@example.org,True,TAX32327,GST,ig43900,Inactive
+"Jennings, Foley and Raymond",LLC,"949 Linda Light, Reyesview, GU, USA - 61865-3606",Home,001-733-339-2396,Approved,Personal,ryanwright@example.net,False,TAX25735,DUNS,ZW85131,Inactive
+"Phillips, Anderson and Munoz",LLC,"6474 Macias Course Apt. 980, Howellside, ME, USA - 46372-6250",Home,(311)647-4918x8620,Validated,Support,roseapril@example.com,True,TAX70612,EIN,fp29793,Active
+Copeland-Castillo,Public,"91909 Duncan Oval Apt. 029, Mooreton, PW, USA - 42632-6385",Office,(973)756-8014x70357,Approved,HR,morriscarol@example.net,True,TAX94776,GST,vu32164,Inactive
+Andrews-Smith,Private,"0392 Dawn Station, Rebeccaton, AS, USA - 65087-9494",Fax,744-887-0371,Validated,Business,gilbertnovak@example.net,False,TAX55253,GST,ba82679,Inactive
+"Ball, Collins and Gentry",Government,"18386 Katherine Highway, North Kristen, WI, USA - 75324-8603",Mobile,7876615292,Approved,Personal,davenportbreanna@example.net,True,TAX85030,TIN,og03003,Inactive
+Oliver-Mendez,Non-Profit,"5596 Smith Road, East Richardville, MD, USA - 96211-6169",Office,(678)603-8028,Pending,Personal,jonesmichael@example.org,False,TAX91901,PAN,FO00481,Inactive
+Myers and Sons,Government,"57237 Cassandra Ports, Lake Charles, NV, USA - 97963-1847",Office,455.615.6328x3737,Validated,Support,kimberlypatterson@example.net,True,TAX19167,TIN,JO47764,Inactive
+"Preston, Rice and Pruitt",Non-Profit,"6438 Stephen Cliffs Apt. 388, East Valerie, GA, USA - 53493-8248",Office,001-424-676-5667x601,Validated,Support,swilliams@example.net,False,TAX87281,EIN,tf26315,Active
+Meyer-Mckee,Public,"004 Smith Manors, North Brianmouth, OR, USA - 43628-1639",Fax,671.596.2263x4774,Validated,HR,arobinson@example.com,True,TAX20627,EIN,fX91863,Inactive
+Williams-Yoder,LLC,"84924 Victor Views Suite 567, Williamstown, MS, USA - 98441-6706",Office,743-342-9328,Validated,HR,jasminetanner@example.net,True,TAX45097,TIN,Po90403,Inactive
+"Chaney, Smith and Brown",LLC,"8133 Francis Wall Suite 070, East Melissa, MT, USA - 11613-8360",Mobile,(460)271-0148,Approved,Personal,emilyzavala@example.net,True,TAX40516,PAN,ki72539,Active
+Lee Ltd,Government,"142 David Ridge Apt. 780, Kristymouth, NY, USA - 75422-7291",Office,001-608-896-0168,Rejected,Support,uclark@example.com,False,TAX28252,EIN,ag08876,Inactive
+"Martin, Moreno and Dillon",Partnership,"9030 Rodgers Junction, Richardshire, TN, USA - 34655-3723",Mobile,001-445-415-1648,In Review,Business,gharmon@example.net,True,TAX33272,TIN,VX87115,Inactive
+"Bell, Miller and Walls",LLC,"2758 Steven Club, New Samantha, NM, USA - 58559-6250",Office,+1-636-924-8098x781,Approved,Personal,samuel43@example.net,False,TAX63921,GST,VZ31670,Inactive
+Gutierrez-Best,Private,"7448 Park Shoals Apt. 339, South Troyside, MH, USA - 30946-5208",Home,001-966-892-2684x71342,Rejected,Support,fstephenson@example.net,False,TAX62302,EIN,to62464,Inactive
+"Kent, Ray and Barr",LLC,"675 Yolanda Isle, Port Catherine, VI, USA - 59998-5313",Mobile,(263)777-1587,Pending,Personal,porteraudrey@example.net,False,TAX47599,GST,Tq70583,Inactive
+Shea-Williams,LLC,"4246 Jonathan Inlet Apt. 089, Stephenmouth, MT, USA - 73960-6062",Home,+1-928-298-0398x988,Validated,Personal,benjaminharper@example.com,False,TAX48003,TIN,vm70378,Active
+"Rivera, Allen and Higgins",Government,"791 Gibson Camp, Marissamouth, ND, USA - 82514-3706",Fax,+1-279-755-8459,In Review,Personal,pamelamorales@example.net,True,TAX48333,PAN,ox57843,Inactive
+Peterson Ltd,Private,"138 Michael Cove Suite 413, Davidmouth, OH, USA - 33942-1733",Office,837.841.3374x85875,Rejected,HR,kristen50@example.org,False,TAX42577,PAN,eh47177,Inactive
+"Moore, Miller and Hayden",Non-Profit,"92584 Harrison Square, Anthonymouth, VA, USA - 23662-4052",Office,557.219.1998x923,Rejected,HR,allenbrandi@example.org,True,TAX33387,PAN,eJ87183,Active
+"Mcfarland, Medina and Mendoza",Government,"26949 Sutton Hill, Bridgetfurt, MT, USA - 94662-4015",Home,(711)499-3322x132,Pending,Support,ann06@example.net,True,TAX64216,DUNS,oP36577,Inactive
+"Wolfe, Mitchell and Young",Public,"5846 Jonathan Bypass Suite 443, Lake Robinfort, NC, USA - 67161-6373",Home,001-752-241-9775,Approved,Sales,colleengoodman@example.net,False,TAX46529,PAN,HV73160,Inactive
+"Conner, Cooke and Miller",Private,"2579 Jones Squares, South Charleshaven, MN, USA - 85865-8182",Fax,(835)414-4530,Approved,HR,zpeterson@example.org,False,TAX64473,EIN,JW03693,Active
+"Kelly, Jarvis and Jackson",Private,"8064 Ruben Knoll Apt. 958, Port Tiffany, KY, USA - 37154-5246",Home,+1-770-387-4153,Rejected,Sales,rsmith@example.net,True,TAX73020,PAN,Jq54657,Inactive
+"Galvan, Rice and Ruiz",LLC,"30272 Price Square Apt. 729, Mccarthyshire, FM, USA - 49798-1615",Fax,246-975-1553,Pending,Sales,laurenwheeler@example.org,True,TAX61868,PAN,DB29763,Inactive
+Davis Group,LLC,"403 Jennifer Lock, East Loriburgh, NE, USA - 16135-7615",Mobile,001-880-949-1495x8111,Pending,Sales,william73@example.net,True,TAX94088,TIN,UU98810,Inactive
+Thomas LLC,Public,"160 Moody Fords, Tylerland, ND, USA - 19610-1873",Office,225.702.7402,In Review,Support,amccoy@example.com,True,TAX12790,DUNS,cc55361,Inactive
+"Dudley, Gross and Faulkner",Non-Profit,"45441 Rios Trail Apt. 154, Lake Laura, MH, USA - 53779-1187",Home,+1-590-752-2156x350,Rejected,Business,tcarter@example.com,False,TAX61674,EIN,sY00219,Inactive
+Martin-Rogers,Partnership,"23730 Jessica Lodge, Smithfort, AS, USA - 79804-2499",Fax,697-730-2446,Rejected,Sales,chelsey09@example.org,False,TAX37506,LEI,oQ28537,Active
+"Beck, Thomas and Reyes",Non-Profit,"451 Molly Cliff, Casemouth, UT, USA - 52509-7253",Office,+1-376-661-9987,Rejected,Sales,blackjonathan@example.net,True,TAX68267,LEI,pq96873,Active
+"Castaneda, Bradshaw and Marquez",LLC,"87324 Ramirez Flats, Christiechester, NY, USA - 27621-3342",Office,+1-574-789-1264x01548,In Review,Business,haileywilkinson@example.org,True,TAX40210,TIN,dV50338,Active
+Smith-Potter,LLC,"3450 Hayes Landing, Port Thomas, IN, USA - 92952-3009",Office,001-510-366-6174x29776,Approved,Sales,jacobmolina@example.net,False,TAX71888,DUNS,Nm70588,Active
+Nguyen-Clark,Non-Profit,"8195 Julie Views Apt. 558, West Zachary, TN, USA - 22591-2754",Mobile,668.643.7712x438,Validated,Personal,shannonparsons@example.net,True,TAX11262,TIN,rM43350,Inactive
+Taylor PLC,Non-Profit,"287 Bobby Creek, East Kaitlynchester, SD, USA - 30329-3934",Home,(316)333-1106,Pending,Personal,hahnandrew@example.org,False,TAX64279,EIN,fi92392,Active
+Graves Group,Public,"6284 Andrade Isle Apt. 768, Smithview, OK, USA - 24696-3210",Office,(335)434-7322x129,In Review,Support,dmorales@example.com,True,TAX14028,DUNS,vE19348,Active
+Brown Group,Government,"618 Andrea Square, West Johnburgh, FM, USA - 99044-9707",Office,(281)505-6703x99220,Approved,Personal,bettymorgan@example.com,True,TAX68185,TIN,iI34785,Inactive
+"Morgan, Richardson and Webb",LLC,"43383 Laurie Avenue, Veronicafurt, AS, USA - 61968-6545",Office,(610)851-9081,Approved,Support,otaylor@example.net,False,TAX67900,GST,Os31540,Active
+Fisher PLC,Private,"5386 Daniels Tunnel, West Wayne, TX, USA - 62342-4026",Home,565.653.9208x8969,In Review,Support,patelkimberly@example.com,False,TAX14782,PAN,tM85897,Inactive
+"Freeman, Rogers and Hudson",Non-Profit,"6345 Cervantes Row, Justinberg, HI, USA - 71765-9784",Fax,001-411-934-1698x99597,Validated,Sales,rogersrandy@example.com,False,TAX85673,GST,iJ83666,Inactive
+Cross PLC,Government,"50659 Turner Shoals Suite 278, West Jennifer, VT, USA - 66608-8471",Mobile,493.814.1777x0814,Approved,Support,byang@example.net,True,TAX85207,EIN,xl74379,Inactive
+Carlson-Vasquez,Public,"85586 Madeline Brook Apt. 475, South Pamelaport, DC, USA - 91948-8726",Home,892-615-3522,Validated,Business,lindseycaitlyn@example.org,True,TAX58704,GST,Yd60978,Active
+"Becker, Moore and Bernard",Public,"2230 Martha Mountains Apt. 265, South Lee, MT, USA - 21087-2577",Office,+1-985-407-9267x2306,Rejected,Business,david56@example.net,True,TAX59084,GST,KD27224,Active
+"Bradford, Fleming and Stewart",Private,"600 Darren Passage, Bauerfurt, NJ, USA - 85293-8419",Home,314-961-1020,Pending,Business,yjones@example.com,False,TAX98132,LEI,cQ37317,Active
+Rangel-Lawrence,Government,"4183 Butler Club Suite 285, New Sarahtown, NY, USA - 89378-5714",Fax,001-841-257-1220x1748,Approved,Support,granthannah@example.net,True,TAX56320,EIN,Yj66091,Active
+"Scott, Guzman and Brown",Government,"14504 Crane Point Suite 117, New Haroldchester, MO, USA - 18103-2724",Fax,001-288-796-7593x738,Rejected,HR,jose46@example.org,True,TAX88244,TIN,LE50315,Active
+"Beard, Hopkins and Dean",Non-Profit,"33075 Stephen Glens, Lake Ashley, WI, USA - 36947-2606",Mobile,001-250-642-1060,Rejected,Support,aestrada@example.net,True,TAX43683,TIN,xJ97525,Active
+Hood PLC,Non-Profit,"49989 Susan Radial Suite 407, Port Richard, AK, USA - 95144-3167",Office,001-912-516-5718x307,Pending,HR,epeterson@example.com,True,TAX70707,PAN,vN68170,Inactive
+Barker-Davis,Private,"264 Conrad Streets Suite 931, Josephton, IN, USA - 61263-6356",Fax,414.732.7804x4722,Rejected,Support,dwayne85@example.org,False,TAX74620,DUNS,XB68073,Active
+"Murphy, Reed and Schaefer",Partnership,"8194 Victor Fields, Anthonyfort, VT, USA - 66567-8954",Fax,(280)735-7912,Validated,Business,mnolan@example.com,False,TAX15469,EIN,ph13845,Active
+Long PLC,Non-Profit,"19413 Reed Trace Apt. 683, Millerfurt, ID, USA - 81238-9786",Mobile,001-376-918-1077,Pending,Sales,jennifer01@example.net,True,TAX46402,TIN,Gd30859,Inactive
+Jensen and Sons,Private,"770 Stacy Drive Suite 960, Copelandport, ND, USA - 61777-3297",Office,001-882-928-7938x29165,Rejected,HR,walkerjohn@example.com,True,TAX35827,PAN,nd01875,Inactive
+Richards PLC,Non-Profit,"2323 Mahoney Garden, Roseshire, NJ, USA - 28977-7516",Mobile,273.361.1061,In Review,Support,stephen83@example.net,True,TAX37381,EIN,Hz33734,Inactive
+Crawford-Melton,LLC,"72216 Evans Flats Suite 948, Jensenbury, MO, USA - 28496-6363",Mobile,001-591-757-7480x1883,Validated,Sales,donriggs@example.org,False,TAX81662,GST,Iy85092,Active
+Howell-Harvey,Public,"32992 Bradley Ridge, South Grace, AS, USA - 29533-5178",Mobile,+1-299-422-8950x230,Rejected,Personal,laurie17@example.com,False,TAX35345,GST,Ks37146,Inactive
+Mccullough-Garner,Public,"244 Allen Glens, North Brandonmouth, VI, USA - 99991-9482",Home,(326)368-5239,In Review,Sales,brownmatthew@example.com,True,TAX21616,PAN,vZ70089,Active
+Ford Inc,Public,"3367 Allen Circles, Kimberlyville, MI, USA - 20590-3764",Mobile,(744)341-6619x92802,Approved,Sales,josephsimon@example.net,False,TAX13394,GST,Fm53929,Inactive
+Gomez-Smith,LLC,"076 Roy Forges, Port Denise, MT, USA - 13597-4165",Fax,001-525-940-5151x38666,Approved,Business,wkerr@example.org,False,TAX94437,DUNS,wQ01324,Inactive
+"Silva, Miller and Simpson",LLC,"01556 Waller Parkways, North Stephanie, MP, USA - 14078-7053",Mobile,001-310-925-3464x041,Pending,Personal,dcook@example.com,True,TAX44983,EIN,uM86374,Inactive
+Hernandez Group,LLC,"2146 Best Skyway, Donnashire, CT, USA - 59667-5228",Office,(472)453-5505x4059,In Review,Business,rrodriguez@example.org,False,TAX26635,PAN,MR13603,Active
+"Ferguson, Dixon and Carroll",Public,"5840 Catherine Mews Suite 945, Riceborough, PR, USA - 79991-9539",Fax,9439740476,Rejected,Personal,robertsryan@example.org,False,TAX40097,PAN,bA25697,Active
+Rush Inc,Public,"381 Douglas Plaza Apt. 145, South Aaronberg, DC, USA - 38322-9538",Fax,723.546.7892x376,Validated,Support,kinggabrielle@example.com,True,TAX26401,EIN,TX24160,Inactive
+Johnson-Williams,LLC,"19624 Yu Port, Lake Matthewborough, RI, USA - 92821-9068",Fax,001-875-769-3008x980,In Review,Support,monica97@example.com,True,TAX45658,LEI,Ha69767,Active
+Parker Inc,LLC,"46371 Cardenas Views Apt. 444, West Erikashire, KS, USA - 56539-9320",Mobile,+1-748-212-9009x86755,In Review,Sales,maldonadodaniel@example.net,False,TAX44201,TIN,qA42247,Active
+Leblanc-Sanchez,LLC,"3903 Norris Center, Brianchester, OH, USA - 67474-7270",Fax,+1-820-325-6441,Pending,Support,claudiaevans@example.com,False,TAX72216,GST,eN10165,Active
+"Love, Owens and Jackson",Partnership,"3738 Joseph Junction, North John, PW, USA - 24854-5084",Mobile,975.586.5039x088,Approved,Personal,austin86@example.org,True,TAX70929,DUNS,BK11979,Inactive
+Copeland Group,Non-Profit,"46646 Baker Summit, Jonestown, KS, USA - 48648-2258",Mobile,658.474.5145x22927,Approved,HR,qmoran@example.org,False,TAX87802,LEI,nK04787,Active
+Jones-Gutierrez,Private,"2675 Wade Knolls Suite 684, Kathrynside, OK, USA - 35036-2331",Fax,549-638-3824x1800,Pending,Business,christophermejia@example.net,True,TAX91639,PAN,Gx65220,Inactive
+"Oconnor, Gutierrez and Tran",Non-Profit,"27190 Bryan Flat, North Lisatown, NC, USA - 84181-9426",Mobile,276.519.2685,Pending,HR,jessica93@example.com,True,TAX43101,EIN,bg80591,Active
+Wells-Good,Public,"28837 Stephanie Station, West Lisaburgh, RI, USA - 86136-4907",Office,(502)604-2338,Approved,Personal,david74@example.com,True,TAX99913,DUNS,lz88762,Inactive
+"Francis, Johnson and Cowan",Partnership,"1452 Jennifer Cliffs, Port Joseph, MH, USA - 40038-1308",Office,+1-513-922-9065x329,Pending,Business,williamblack@example.net,True,TAX40298,LEI,wv75587,Active
+"Tran, Little and Mason",Non-Profit,"437 Cain Prairie, Martinburgh, AR, USA - 38219-5865",Mobile,+1-813-321-3576x088,Pending,HR,michelle98@example.org,True,TAX41991,GST,bv67405,Inactive
+"Bell, Shaw and King",Private,"040 Jason Brooks Apt. 726, Smithport, AZ, USA - 16798-1880",Mobile,+1-973-562-2303x700,In Review,Support,angela97@example.org,True,TAX29823,DUNS,iZ73458,Inactive
+Howe-Andrews,Public,"895 Sabrina Estates Suite 683, North Charlesmouth, MH, USA - 91635-9206",Home,001-792-697-4657x5067,Rejected,HR,fhudson@example.org,True,TAX77845,TIN,pa88840,Inactive
+Swanson-Jackson,Non-Profit,"4495 Castillo Drive Apt. 279, Duartemouth, AR, USA - 15253-2582",Home,001-689-692-4575x9729,In Review,Support,zdominguez@example.net,False,TAX11568,PAN,nJ14854,Inactive
+"Stevenson, Williams and Strong",Government,"833 Gentry Trail, Tylerbury, AK, USA - 59530-5521",Fax,001-886-841-2860x693,In Review,Personal,sean00@example.org,False,TAX71999,GST,nF35721,Inactive
+"Valdez, Baker and Roberts",LLC,"3930 Katie Mills, Johnsonberg, WV, USA - 14860-6704",Home,771-487-7445x78296,Validated,Business,xbates@example.org,False,TAX80221,GST,ai95720,Active
+"Anderson, Gallegos and Owens",Public,"538 Perez Greens Apt. 477, Lake Brett, AR, USA - 64238-9160",Mobile,(649)368-1141,In Review,HR,christine27@example.net,True,TAX16259,EIN,va45498,Inactive
+Arroyo PLC,Partnership,"23465 Harris Roads, West Chrisbury, MP, USA - 54735-2004",Office,501-949-9635,Rejected,HR,tbishop@example.net,False,TAX17071,PAN,ex13885,Active
+Miller LLC,Public,"9473 Snyder Villages Apt. 528, Lake Ethan, NH, USA - 21722-1713",Mobile,+1-824-808-0816x578,Approved,Business,stephaniepaul@example.net,True,TAX25880,LEI,Hs48872,Active
+Castillo-Gomez,Public,"324 April Haven Suite 769, Lucasmouth, CT, USA - 70484-7694",Fax,481.349.2200x719,Validated,Support,nicholassmith@example.net,False,TAX48590,LEI,de05142,Inactive
+"Barron, Miranda and Carson",Private,"64353 Johnston Plains Suite 356, South Elizabethberg, WA, USA - 32697-4583",Home,332-422-7297x502,Pending,HR,njackson@example.com,False,TAX61033,TIN,rm17527,Active
+Nicholson-Watson,LLC,"5974 William Parks, South John, FL, USA - 84582-8902",Fax,405.448.4732x638,Rejected,Business,nmartin@example.org,True,TAX76730,GST,Vb38557,Inactive
+Thomas-Baker,Non-Profit,"646 Jonathan Mills Apt. 959, East Jeanstad, TN, USA - 33952-2185",Mobile,+1-912-494-2494x2155,Approved,HR,rfischer@example.org,False,TAX55241,GST,Yz72924,Inactive
+Taylor-Moreno,LLC,"7775 Paul Pine Apt. 164, Reedshire, CA, USA - 42273-7984",Home,819-253-3299,Rejected,Support,brendabrown@example.com,False,TAX78604,GST,FN13341,Active
+Hernandez Ltd,Private,"612 Crystal Mission Apt. 756, North Janiceborough, AL, USA - 94340-1886",Mobile,001-632-222-8903x47557,Validated,HR,ithomas@example.net,False,TAX27772,LEI,jH24652,Active
+Mcknight-Hester,Non-Profit,"730 Lee Villages, Christopherfurt, NY, USA - 83019-8200",Mobile,2786703569,Rejected,Sales,christy53@example.org,True,TAX59047,PAN,pY82177,Active
+Franco Inc,Public,"529 Jacob Circle, South Karenview, MH, USA - 88594-8212",Fax,(618)715-4027x77474,Approved,Personal,cbutler@example.org,True,TAX28113,EIN,ao89209,Inactive
+Romero-Thompson,Government,"28461 Bradford Estate Apt. 284, South Tylerfurt, NE, USA - 46405-3819",Fax,707.900.5689x358,Rejected,Support,andrewgarcia@example.org,False,TAX99124,PAN,Ty95603,Active
+Hodges-Mccullough,LLC,"6503 Gomez Viaduct, Virginialand, VT, USA - 71568-7142",Home,270-233-5013x4616,Pending,Support,pcastillo@example.net,True,TAX98873,LEI,gB97977,Active
+Murillo-Bean,Government,"5233 Smith Camp, Kristibury, LA, USA - 81225-5417",Mobile,(583)926-9859,In Review,HR,jonesjim@example.org,False,TAX43545,LEI,ac69866,Inactive
+"Frank, Huff and Sanchez",Non-Profit,"9966 Walker Groves, Larsonport, MT, USA - 47366-5954",Mobile,001-960-252-5252x844,Approved,HR,terrelljoshua@example.com,True,TAX57468,TIN,JV81677,Inactive
+Johnson Ltd,Private,"8846 Mccarthy Isle Apt. 548, Derekside, KS, USA - 44220-5719",Home,216.901.4746x918,Rejected,Personal,peter72@example.net,False,TAX45612,LEI,sC54415,Inactive
+Stone-Johnson,Non-Profit,"727 Moore Crest Suite 705, Jenkinsview, VI, USA - 63124-3458",Office,+1-834-895-6365,Pending,Business,nnewton@example.com,True,TAX32557,TIN,ng84225,Inactive
+"Moore, Williamson and Wilson",Public,"7783 Chandler Stream Apt. 365, Toddbury, MI, USA - 55098-3626",Home,9929575633,Approved,Sales,michael83@example.com,False,TAX88595,LEI,St45372,Inactive
+Smith-Simpson,Partnership,"8866 Kevin Brook, Lake Christianstad, KY, USA - 19037-4978",Office,(543)447-0062x66160,Validated,Business,vhickman@example.org,False,TAX41571,EIN,Sb51811,Active
+Peterson LLC,Private,"6507 William Spur Suite 849, New Mary, WA, USA - 69938-5366",Office,630-981-1866,In Review,Sales,fbenson@example.net,False,TAX24777,DUNS,GP74233,Active
+Williams-Doyle,Public,"763 Julie Forks Apt. 944, Nelsontown, ID, USA - 50927-8519",Home,001-761-252-4321,Rejected,Support,xjohnson@example.org,False,TAX60401,TIN,Lu44241,Inactive
+"Allen, Reynolds and Peterson",Partnership,"5321 Williamson Pike, North Jorgeside, AS, USA - 44756-1500",Fax,940-263-5374,Rejected,HR,agonzales@example.net,True,TAX73377,EIN,SM29407,Inactive
+"Zhang, Mcdonald and Miller",Public,"1240 Michael Port, Wrighttown, KS, USA - 74138-6325",Fax,(706)441-6186,Rejected,Support,olsonbrandi@example.net,True,TAX49881,TIN,Pt21501,Active
+Baker Group,Partnership,"2061 Anderson View Suite 449, East Emilyshire, HI, USA - 81925-2419",Fax,+1-225-530-5668x58874,Validated,Support,clinemaria@example.com,True,TAX33682,PAN,iE17517,Inactive
+Parrish-Brooks,Non-Profit,"1590 Laura Manor, Lake Laurenbury, WY, USA - 36077-2963",Fax,(469)540-0968,Approved,Business,kayla85@example.net,True,TAX42268,EIN,sO21565,Active
+"Walker, Rodriguez and Walter",Private,"8688 Cox Centers, West Ashleyland, MN, USA - 13020-1959",Office,521-703-0565,Pending,HR,robleskenneth@example.com,True,TAX71178,EIN,JH00100,Active
+Kerr-Mccarthy,Government,"605 Bruce Junctions, Estesmouth, IN, USA - 95053-4618",Office,559-647-0939x272,In Review,Business,amywilliams@example.org,False,TAX52886,GST,vp19630,Active
+Duran PLC,LLC,"7466 Jonathan Spurs, Justinshire, MT, USA - 30665-9669",Office,2565053193,Pending,HR,daniel57@example.com,True,TAX43339,DUNS,Ee56211,Inactive
+"Patterson, Anthony and Williamson",Non-Profit,"428 Wilson Crossing, Lake James, ID, USA - 94771-3445",Mobile,(646)508-6895,In Review,HR,garciashelley@example.org,False,TAX20070,LEI,RH06079,Inactive
+"Miller, Foster and Cunningham",Private,"716 Mata Springs, Martinezview, MN, USA - 77821-2532",Home,525.635.5746,Approved,Personal,andersonedward@example.com,False,TAX77559,EIN,FF78633,Inactive
+Watson-Jones,Public,"085 Samantha Camp Suite 874, Riceshire, ME, USA - 28323-6349",Fax,(499)495-3381,Validated,Sales,shermandavid@example.org,True,TAX35773,TIN,hY53997,Inactive
+Gutierrez Ltd,Partnership,"96462 Amber Pine, Stephenland, TX, USA - 80977-7747",Mobile,+1-285-392-1587,Validated,Personal,kristine74@example.net,True,TAX42600,EIN,DX76420,Inactive
+Schmidt LLC,LLC,"376 Parsons Avenue, New Allisonside, AZ, USA - 90845-6884",Office,(444)541-7762x069,Rejected,Support,steven12@example.org,True,TAX44643,GST,Sr64638,Active
+Carter and Sons,Government,"33656 Copeland Light Suite 282, Lake Kimberlytown, WA, USA - 48968-5435",Office,338-770-4026x819,Rejected,HR,lking@example.org,False,TAX57148,LEI,Fp43621,Active
+"Moody, Perez and Drake",Partnership,"18083 Karen Groves, Miketon, AL, USA - 76087-3579",Office,+1-460-436-5245x69891,In Review,Support,yhoffman@example.org,False,TAX58795,EIN,lR04314,Active
+Brown Inc,LLC,"045 Megan Motorway Suite 867, North Benjamin, MA, USA - 53212-3101",Fax,(534)326-5479,Rejected,Sales,craiglee@example.net,False,TAX38003,DUNS,Yw84339,Active
+Fry-Moore,LLC,"9581 Johnston Light Suite 889, West Gregory, WY, USA - 94030-4061",Office,725-285-5791x51996,In Review,Sales,johnsonkeith@example.net,True,TAX37642,TIN,al10241,Active
+Wright-Finley,Non-Profit,"259 James Ville Suite 151, North Caroline, CO, USA - 79784-8521",Mobile,870.831.4919x54715,In Review,Business,clarkbrandon@example.org,False,TAX47165,PAN,HA91231,Inactive
+Alexander LLC,Government,"83011 Alexander Wall Suite 953, Port Amberborough, SC, USA - 95662-3545",Fax,(720)794-1460x74751,Pending,HR,cruzkevin@example.com,True,TAX41941,LEI,PO04895,Active
+Lopez Group,Government,"288 Christopher Expressway, Garzashire, PR, USA - 78009-2978",Fax,209.589.3918x590,Approved,Sales,oconnordanielle@example.org,True,TAX59749,TIN,VF94221,Active
+Hernandez Inc,Partnership,"282 Blevins Valleys, West Franciscofurt, DC, USA - 57352-4281",Mobile,356.599.4891x663,Rejected,Business,dianavilla@example.com,True,TAX51709,PAN,xZ44179,Inactive
+"Perry, Robinson and Simmons",Non-Profit,"7167 Robin Viaduct Suite 572, West Bobby, MP, USA - 64307-4506",Fax,(959)744-2285,Rejected,HR,gwilliams@example.org,False,TAX67326,LEI,aI87173,Active
+Morales-Roman,Government,"5841 Turner Club Suite 017, Douglasburgh, NM, USA - 55278-6443",Office,+1-981-515-9083,Approved,Business,katherine45@example.net,False,TAX22301,EIN,iz84343,Active
+"Fisher, Salinas and Simpson",Non-Profit,"270 Logan Oval Suite 141, Port Shari, NH, USA - 11342-1844",Mobile,001-940-712-0870x1287,In Review,Support,bridgesjamie@example.com,True,TAX33071,EIN,NP18287,Inactive
+"Rodgers, Schmidt and Martin",Private,"6683 Brian Forges, East James, MT, USA - 36544-7793",Mobile,513.315.8001x48349,Approved,Support,joyce23@example.net,True,TAX17051,PAN,Jq84059,Inactive
+Hill PLC,Public,"149 Price Mission Suite 171, Jeffreyberg, VA, USA - 59676-3714",Fax,382-495-9585,Validated,Personal,gonzalezangela@example.com,True,TAX45598,PAN,Kg61632,Active
+Pena-Cortez,LLC,"649 Nicole Prairie, Heathermouth, UT, USA - 83836-8156",Home,918.528.1334,Validated,Personal,esparzadavid@example.org,True,TAX23444,PAN,LR09725,Active
+Huang-Collins,LLC,"1930 Johnson Ferry, Sullivantown, NJ, USA - 47829-3267",Fax,848-555-6086x31477,In Review,HR,katherine09@example.com,True,TAX72541,LEI,bw35223,Inactive
+"Cole, Franco and Turner",Government,"75675 Jesus Freeway, North Rachelview, PR, USA - 65671-8991",Fax,(445)456-2366,Rejected,Sales,mariemeyers@example.net,False,TAX80752,LEI,jb17348,Active
+"Smith, Acevedo and Lucas",Non-Profit,"609 Chad Views, Wolfborough, MH, USA - 89252-7129",Office,+1-797-733-0528x4344,Validated,Sales,patelmichele@example.org,True,TAX74896,EIN,sl78966,Inactive
+"Hanson, Green and Torres",Private,"690 Williamson Fords, West Jason, TN, USA - 12327-6524",Fax,2409389457,Rejected,Support,jenniferdavidson@example.com,False,TAX87315,EIN,Dt18012,Active
+Smith Ltd,Partnership,"27412 Michael Trail Suite 345, Port Meganport, GA, USA - 78364-1094",Mobile,847-739-7278,Rejected,HR,fjones@example.net,False,TAX32632,PAN,GI48381,Inactive
+Novak-Willis,Public,"9230 Jennifer Place, Rodgersfurt, RI, USA - 86370-1800",Fax,001-357-884-8287x056,In Review,Personal,thammond@example.net,False,TAX64321,EIN,Sl40644,Active
+Jenkins and Sons,LLC,"334 Johnson Row Apt. 258, Richmondshire, WI, USA - 40583-1939",Mobile,680-384-0890,Validated,Sales,jgillespie@example.com,False,TAX19826,PAN,JC52734,Inactive
+Harris-Pearson,Private,"4395 Peters Harbors, Hoffmanbury, MT, USA - 29746-4838",Office,001-383-960-1009x8582,Validated,Personal,shannon88@example.com,True,TAX37872,TIN,Nv69056,Inactive
+Weber Inc,LLC,"4804 Duncan Haven, East Amberchester, IL, USA - 83833-9708",Home,001-848-870-3946x0239,Validated,Support,ynelson@example.org,True,TAX88573,GST,IU46675,Active
+Garcia-Perez,Private,"66663 James Mountain, Joshuaburgh, CT, USA - 97566-5456",Mobile,220.347.0378,Validated,Support,ywhite@example.org,True,TAX55056,LEI,El06851,Active
+Higgins Ltd,Public,"610 Linda Mall Apt. 942, West Edward, OK, USA - 18822-1559",Mobile,425-608-0018x35284,In Review,Support,cnelson@example.net,True,TAX68883,DUNS,oQ69241,Active
+Thornton-Huffman,Public,"727 Barnes Spur, Simmonschester, AZ, USA - 50107-5520",Home,779.968.6300,Validated,Personal,areed@example.net,False,TAX14711,DUNS,mr12885,Active
+Ortiz-Porter,LLC,"33104 Nichole Ramp, Danielton, NC, USA - 19186-8095",Mobile,2183393834,Rejected,Support,louis64@example.com,True,TAX63855,EIN,BL71389,Active
+"Castaneda, Mcbride and Thompson",Public,"07363 Cervantes Course Suite 317, West Jaredmouth, AR, USA - 48205-2570",Home,(884)301-8649,In Review,Business,robertbryant@example.net,False,TAX67392,DUNS,yY97924,Inactive
+Vasquez Group,Government,"0842 Amanda Views, West Jill, NM, USA - 75504-2559",Office,+1-413-964-4198x55040,In Review,Personal,uhill@example.com,False,TAX75796,DUNS,Zx51723,Active
+Rodriguez Ltd,Partnership,"7262 April Motorway Apt. 177, Douglasbury, SC, USA - 51006-6479",Mobile,926.480.8809,Pending,Business,huynhbrian@example.com,True,TAX38262,GST,xe21547,Active
+Ramirez-Mclaughlin,Public,"441 Michael Isle, Thomasborough, NY, USA - 15858-5979",Fax,522-777-0257x066,Pending,Business,cjones@example.net,True,TAX28793,DUNS,eA76845,Inactive
+Smith LLC,Government,"8094 Conner Fork Suite 387, New Chad, MH, USA - 60150-9348",Office,001-373-713-0166x5383,Validated,HR,jessicaholt@example.org,False,TAX87408,LEI,dV90035,Active
+Nichols-Whitaker,Partnership,"478 Davis Overpass Apt. 449, Youngburgh, FL, USA - 48031-1434",Mobile,(488)608-4614x294,Approved,Support,natasha22@example.com,False,TAX32639,LEI,Cm26064,Active
+"Brown, Taylor and Cobb",Government,"7301 Cory Drive Apt. 832, East Kelly, ID, USA - 46918-5985",Mobile,001-795-711-5102x97403,Approved,Business,sally63@example.com,False,TAX69071,DUNS,Gk13699,Inactive
+Obrien-West,Partnership,"5712 Brennan Extensions, Davidburgh, MT, USA - 46348-8726",Office,001-309-542-4501,Validated,Personal,cortiz@example.com,False,TAX39830,PAN,cg19039,Inactive
+Gonzalez-Simpson,Non-Profit,"1772 Linda Springs, New Katelynfort, AK, USA - 62914-2884",Fax,4025598147,Approved,Support,amyjames@example.net,False,TAX67190,EIN,AX14752,Inactive
+"Shannon, Bond and Williams",Private,"384 Kristin Corner, Juliabury, MT, USA - 76920-2472",Home,(575)328-3495,In Review,Sales,adrianwyatt@example.com,True,TAX62546,PAN,Vh22305,Inactive
+"Johnson, Stone and Mcguire",Partnership,"2869 Shah Trail, New Tyler, UT, USA - 78505-3758",Mobile,+1-992-838-4157,Approved,Sales,nbeasley@example.org,False,TAX50622,TIN,YJ23922,Inactive
+Keith-Weiss,Private,"2063 Gibson View Suite 185, South Yvette, NY, USA - 27652-4759",Office,887-793-7571x5392,Approved,Sales,taylorwalters@example.com,False,TAX65316,PAN,Ub23166,Active
+Spears-Mendez,Government,"501 Melissa Circle, Lake Diana, MT, USA - 90451-9148",Office,+1-587-914-9520,Pending,Sales,ian27@example.net,False,TAX22920,GST,HF24559,Inactive
+Brown-Rodriguez,Non-Profit,"2929 Sandra Forge, South Josephborough, NY, USA - 33788-3758",Office,001-506-786-9558,Rejected,Support,dennis94@example.org,False,TAX90727,LEI,UM72621,Inactive
+"Brown, Campbell and Sullivan",Private,"7524 Robinson Avenue, South Jacquelinehaven, DC, USA - 93653-8466",Mobile,001-633-682-7354,Validated,Personal,justinjenkins@example.com,False,TAX41665,PAN,Ku82170,Active
+"Harrell, Valdez and Garcia",Non-Profit,"672 Rodriguez Ridge Suite 875, New Edward, IA, USA - 73153-2137",Office,(665)925-5892,Validated,Support,rebecca44@example.com,False,TAX10870,TIN,hJ54616,Active
+"Butler, Williams and Wang",Partnership,"15230 Matthew Ways, Kathleenton, NE, USA - 17100-1926",Office,+1-275-271-0545,In Review,Personal,christine94@example.org,True,TAX33099,PAN,IV73923,Active
+"Dyer, Taylor and Tate",Public,"815 Michael Path Suite 414, West Juliamouth, DE, USA - 47151-8521",Home,418.446.4197,Approved,Sales,taylorbrian@example.net,False,TAX47491,TIN,JN38293,Active
+Avery-Mcmillan,LLC,"291 Megan Tunnel, Genemouth, ID, USA - 96784-5956",Mobile,550.357.7409x62067,Validated,Sales,sara23@example.org,True,TAX69347,GST,dT59072,Inactive
+"Brown, Green and Zamora",Public,"56077 White Islands, Cookborough, VA, USA - 26439-7701",Home,692-944-1914x028,Validated,Business,sherrifloyd@example.com,True,TAX70851,GST,Wg96854,Active
+Hartman-Lawrence,Private,"98780 Michael Walks, North Nataliebury, SC, USA - 30491-2354",Fax,236-840-4958x9126,Validated,HR,vanessajackson@example.net,False,TAX74291,EIN,lQ54069,Inactive
+"Green, Phillips and Nguyen",Partnership,"614 Jones Camp, Port William, NV, USA - 34821-2913",Office,001-307-874-8035,In Review,Personal,mayoshelley@example.org,True,TAX23354,TIN,ZB83396,Inactive
+Williams PLC,LLC,"24550 Donna Lake Apt. 416, South Johnbury, KS, USA - 45310-9855",Office,629.903.7631,Approved,Business,danahanson@example.net,True,TAX23917,TIN,Rh84692,Inactive
+"Hayes, Lopez and Diaz",Government,"83015 Tiffany Mount, West Tony, NH, USA - 74939-2683",Home,746-581-4805,In Review,Business,nicholas61@example.org,True,TAX48386,GST,HX13211,Inactive
+Blackburn-Anderson,Non-Profit,"011 Perez Cliff Suite 672, Jenniferview, CA, USA - 53546-9593",Mobile,(913)789-4611x04692,Pending,Support,ngarcia@example.com,True,TAX38893,GST,lb45385,Active
+"Caldwell, Barajas and Patel",LLC,"5325 Richard Fields, Davidhaven, DE, USA - 58619-8384",Mobile,(859)227-6027x75361,In Review,HR,jacob21@example.com,False,TAX44572,DUNS,pw26111,Active
+Delgado-Yoder,Partnership,"3827 Edwards River Suite 700, Lake Michelleside, IA, USA - 39134-7801",Home,(650)426-4082x042,Pending,Support,christinamorales@example.com,False,TAX51505,TIN,wl86149,Active
+Conner and Sons,Partnership,"7371 Clay Parkways Apt. 983, South Roger, KY, USA - 63018-5827",Fax,541-949-6581,Approved,Support,shunt@example.org,False,TAX32612,PAN,zh16313,Active
+Warren and Sons,Partnership,"7485 Nguyen Squares Suite 522, East Richardborough, OH, USA - 37996-9893",Mobile,+1-353-427-4394,Pending,Personal,lisa09@example.net,False,TAX90126,GST,nu08871,Inactive
+Vang-Kelly,Private,"699 James Hollow, Heatherborough, WA, USA - 92016-7340",Office,(838)678-6720x6032,Pending,Personal,howellrussell@example.net,False,TAX70644,DUNS,KY35152,Active
+Alvarez PLC,Partnership,"896 Miller Lane Suite 764, East Kathryn, WV, USA - 21925-2876",Home,541.693.7669x00221,In Review,HR,ufisher@example.net,False,TAX67053,GST,NU36297,Inactive
+Sharp-Clark,Private,"199 Adam Crossroad Suite 869, Martinezton, WI, USA - 13850-7832",Office,(549)214-4657,Rejected,Personal,kwilliams@example.net,True,TAX55028,PAN,nT87427,Active
+Li Group,Public,"34452 Adam Crossroad, Lutzland, DE, USA - 62767-5204",Fax,291-980-7589x754,Pending,Sales,barrycarr@example.com,False,TAX55304,EIN,nF87718,Inactive
+Gonzalez-Mcknight,Government,"3220 Scott Bypass Suite 146, Boothview, RI, USA - 52548-4032",Mobile,811.954.7161x4828,Rejected,Sales,frank76@example.org,False,TAX40480,LEI,MG19091,Active
+"Doyle, Simon and Mendoza",Non-Profit,"16532 Clark Meadows, Rhondaview, FM, USA - 77179-4078",Fax,7449289948,Approved,Support,bleonard@example.org,True,TAX53447,DUNS,vM12807,Inactive
+"Santiago, Rush and Smith",Government,"276 Garcia Loop, Lake Charleschester, MP, USA - 37627-1374",Home,001-682-805-6260x91752,Approved,Business,timothy24@example.net,True,TAX67736,LEI,wj10497,Active
+Contreras-King,LLC,"0819 Melissa Summit, Bradshawside, ND, USA - 14729-2744",Fax,232.259.1914,Validated,HR,rosedorothy@example.org,False,TAX89208,PAN,Qk75607,Inactive
+"Riley, Gallegos and Lewis",Partnership,"0635 Tony Tunnel, Cynthiamouth, RI, USA - 18386-5279",Office,(275)888-1289,Pending,Business,fordjames@example.org,False,TAX71175,PAN,Zr66874,Inactive
+Myers-Bell,Non-Profit,"3792 Archer Plain Suite 764, East Erinstad, VA, USA - 32165-6733",Fax,659.866.7983,Validated,HR,catherine13@example.com,False,TAX65335,LEI,Qj51208,Active
+Hughes-Holmes,Non-Profit,"29315 Harris Bridge, North Robin, WI, USA - 72690-1002",Home,(972)740-8378x61936,Validated,Business,umorris@example.net,False,TAX86249,PAN,Oz89287,Inactive
+"Caldwell, Rodriguez and Cook",LLC,"988 Breanna Lodge, Kruegerville, IN, USA - 76073-2931",Home,001-442-599-3238x94952,Validated,Personal,lucassimmons@example.org,False,TAX19148,EIN,Gh40094,Inactive
+"Rasmussen, Carr and Russell",Public,"3979 Edward Mall Apt. 828, Ortizborough, IL, USA - 32326-2247",Home,452-323-3512x742,Rejected,Personal,traciejames@example.com,False,TAX95185,GST,Ni34924,Active
+Perez Ltd,Partnership,"172 Turner Extensions, South Elizabethstad, MI, USA - 75102-1454",Fax,(975)820-2607x78025,Pending,Support,dsmith@example.org,True,TAX39029,GST,gf22860,Active
+Scott-Villegas,Public,"993 Diaz Gardens Apt. 699, South Lisa, OR, USA - 39563-3154",Mobile,001-538-804-9274x711,In Review,Sales,cjackson@example.org,True,TAX75247,DUNS,QF04353,Active
+"Reid, Casey and Murray",Non-Profit,"03394 Carlson Terrace Suite 644, Kathleenchester, AR, USA - 20781-5245",Home,(620)817-5742x8603,Pending,Personal,baileytammy@example.net,True,TAX82322,GST,Tz29452,Active
+Edwards PLC,LLC,"23365 Robinson Place Apt. 856, Port Christopherberg, GU, USA - 97630-8087",Home,001-911-314-4678x6041,Approved,Business,garyhurley@example.com,True,TAX63850,DUNS,Bj68006,Inactive
+Moreno-Stanley,Non-Profit,"07930 Amy Springs Apt. 130, West Marcus, ND, USA - 10815-5900",Office,836.641.9693,Rejected,Support,gibbsdonna@example.net,False,TAX33026,TIN,gv34203,Active
+Garner Ltd,Non-Profit,"643 Shawn Keys Apt. 519, North Angela, NY, USA - 94270-7424",Mobile,(831)948-9879x226,In Review,Business,masseytiffany@example.com,False,TAX91067,LEI,lb96559,Active
+Jacobs-Richards,Public,"2871 Jacqueline Oval, Kyleville, SD, USA - 72404-8788",Mobile,715.955.8124,In Review,Support,moonkristina@example.com,True,TAX43830,EIN,CZ72302,Active
+Gamble and Sons,LLC,"13138 Cummings Forge Suite 818, Port Carrieshire, NC, USA - 38785-5398",Mobile,628-873-9868x76559,In Review,Personal,peterrussell@example.net,True,TAX30144,TIN,ae11834,Inactive
+Bennett-Lawrence,Public,"2511 Ian Place, Torresshire, MT, USA - 71985-9373",Mobile,589.682.1881x45700,Validated,Business,mia38@example.com,True,TAX10392,PAN,MN42591,Inactive
+Little Group,Non-Profit,"3272 Powell Run Suite 726, East Bonnie, LA, USA - 54955-7055",Home,001-934-811-9295,Rejected,Personal,owilliams@example.com,False,TAX96670,LEI,zV97275,Active
+Fletcher-Anderson,Non-Profit,"6777 Aguirre Shoal Suite 612, North Michael, AK, USA - 94909-7073",Home,295.905.7723x122,Rejected,Support,rcook@example.net,True,TAX29968,EIN,BU54749,Inactive
+Romero LLC,Private,"3525 Natasha Mission Suite 116, Micheleshire, TN, USA - 34288-9231",Office,+1-253-580-5113,Approved,Business,dannybrown@example.net,True,TAX32094,GST,bT80709,Active
+"Castillo, Parker and Mcdaniel",Public,"7847 Daniel Lights, Whitneyton, MT, USA - 83005-9829",Fax,549-879-5749,Validated,Sales,weaverstephanie@example.com,True,TAX14960,LEI,Sd89931,Inactive
+"Charles, Delgado and Malone",Government,"687 Jones Meadows, New Luis, TN, USA - 25905-8238",Mobile,5824616629,Rejected,Sales,alexispowell@example.net,True,TAX25616,GST,nZ96187,Active
+Kelley-Weaver,Non-Profit,"671 Sean Fields Apt. 995, East Stephaniemouth, NJ, USA - 88805-3502",Fax,001-244-546-7100x338,Approved,Personal,debrajordan@example.org,True,TAX72353,GST,rO90680,Active
+Johnson-Sheppard,Private,"8081 Mason Well, Wrightton, NC, USA - 73282-1005",Mobile,001-994-773-0113,Pending,Business,erika52@example.net,False,TAX18486,TIN,Xi89559,Active
+Browning and Sons,Non-Profit,"101 James Walks, New Laura, OH, USA - 85952-8467",Office,977-653-9331x7107,Rejected,Business,ralexander@example.net,False,TAX91287,LEI,QD96118,Active
+Cruz-Mckinney,Government,"70462 Brown Key Apt. 170, Port Shawnhaven, AL, USA - 23195-2848",Home,796-612-0676,Rejected,HR,davidgutierrez@example.com,False,TAX75951,LEI,tf91413,Active
+"Campbell, Hancock and Smith",Public,"5745 Jones Manor Apt. 602, New Paulville, MS, USA - 92234-1236",Fax,331-898-3338,Approved,HR,comptongabriel@example.net,True,TAX21034,EIN,wP78607,Active
+Crawford-Robinson,LLC,"1269 Daniel Centers, Loweside, GA, USA - 93932-8892",Mobile,(597)523-5211x998,Pending,HR,morgancesar@example.com,True,TAX14197,TIN,xG76468,Active
+Austin-Brown,Partnership,"1351 Thompson Turnpike Apt. 360, Dennisfort, AL, USA - 47071-4581",Home,750.452.1561x1846,Approved,Support,doylebianca@example.org,True,TAX65466,EIN,Ky08121,Inactive
+Sparks-Vaughn,Non-Profit,"53881 Myers Trace, Waynemouth, OK, USA - 79260-7972",Mobile,+1-953-483-9771x932,In Review,HR,jacksonamy@example.com,False,TAX40096,EIN,jc93571,Active
+"Nelson, Robinson and Knight",Non-Profit,"56452 Erik Mountains Suite 350, Campbellmouth, TN, USA - 64509-7522",Home,(844)487-9927x85311,Validated,Personal,jessicacollins@example.net,True,TAX74154,PAN,Yj18406,Inactive
+"Everett, Browning and Maxwell",LLC,"97303 Micheal Pass Suite 960, New Sherrytown, PR, USA - 78735-8473",Home,894-323-5812x68782,Approved,Personal,thansen@example.org,False,TAX82708,GST,mu48144,Active
+"Rasmussen, Campbell and Bond",Private,"682 Gabrielle Plaza Apt. 381, North Jennifer, ID, USA - 55989-8314",Home,771-501-2673,Pending,Sales,morganmark@example.org,False,TAX59766,GST,nG78923,Inactive
+Brown-Caldwell,Partnership,"075 Gregory Extensions, Lake Carriechester, CA, USA - 47365-9944",Fax,490-302-6252x94052,Validated,Sales,grossstacey@example.com,True,TAX47780,EIN,aN78091,Inactive
+"Robinson, Williams and Wallace",Private,"2225 Bennett Lakes Suite 382, Brendaborough, AL, USA - 81127-4219",Fax,001-411-606-0002,Approved,Personal,csmith@example.net,True,TAX32789,LEI,yq43699,Active
+"Miller, Johnson and Reilly",LLC,"896 Deleon Brook, New Jamesland, NJ, USA - 46827-2959",Home,(546)515-1986x1930,Validated,Sales,danielsnyder@example.org,True,TAX76638,PAN,Qj81719,Inactive
+Parrish LLC,LLC,"44637 Matthew River, East Carol, CO, USA - 82184-4954",Home,802-784-5648x52723,Pending,Personal,lcarter@example.com,True,TAX20192,DUNS,an92500,Inactive
+"Foster, Herring and Mora",Partnership,"621 Barnes Estate, Robertland, VA, USA - 12820-8904",Fax,(651)651-6615x8459,Validated,Business,samuel78@example.com,False,TAX60239,EIN,pM47353,Active
+Lopez-Velazquez,Government,"131 Kristen Station, Port Taylor, TN, USA - 92861-3225",Home,7208620528,Pending,Business,steven55@example.org,False,TAX82034,GST,zc47947,Inactive
+Doyle LLC,Non-Profit,"8871 Kenneth Greens, Waynemouth, NJ, USA - 29500-5767",Home,001-559-276-2347x06738,Rejected,Sales,wavila@example.org,False,TAX13571,PAN,gV59321,Active
+Robinson PLC,Public,"34914 Michael Stravenue, Melanieside, NE, USA - 37110-8178",Office,(958)562-3529x648,Rejected,Personal,lmaynard@example.com,True,TAX87352,LEI,RZ51072,Active
+Yang LLC,Non-Profit,"89332 Jackson Loaf Suite 780, South Dawnberg, FL, USA - 63417-4878",Mobile,633-314-3507x32759,In Review,HR,calvinyoung@example.com,True,TAX23114,GST,rb35170,Active
+Walker-Li,Partnership,"820 Miguel Roads Suite 843, Lake Kathryn, AZ, USA - 82500-5818",Home,5277600552,Validated,Personal,laurendavis@example.net,False,TAX36376,PAN,MH76005,Active
+Dean and Sons,Government,"68613 Brown Station, Johnstonmouth, NC, USA - 67949-8617",Mobile,6853539203,Approved,Support,leachedward@example.net,True,TAX14514,PAN,Qw14291,Active
+Robles Inc,LLC,"155 Michelle Motorway Apt. 938, Parkermouth, KY, USA - 57374-5384",Fax,001-740-739-3838x2791,Pending,Business,james78@example.net,False,TAX45446,PAN,va40355,Inactive
+Thomas Group,Partnership,"92786 Stephen Divide, South Staceyport, NC, USA - 50298-8911",Home,203-706-8766,In Review,Support,allensandra@example.org,True,TAX86836,GST,AC48245,Active
+Price-Fletcher,Partnership,"39788 Mary Fall, Jeremymouth, CO, USA - 73933-7798",Home,822.635.0204x2993,Rejected,Support,aliciathomas@example.org,False,TAX47561,DUNS,bV83937,Inactive
+Davis Ltd,Partnership,"944 Zachary Spurs Suite 189, South Nicole, VI, USA - 70072-5310",Office,(622)282-0124x7978,Pending,HR,gsingleton@example.com,True,TAX49362,EIN,Jr94717,Active
+Palmer PLC,Public,"3579 Nicole Place Apt. 880, South Williamshire, MN, USA - 29274-3628",Mobile,001-703-617-8709x7486,Approved,Personal,coxrobert@example.net,True,TAX64534,TIN,Gn68014,Active
+Parks Ltd,Private,"98676 Paul Village, New Laura, NC, USA - 31169-9973",Office,920-761-8410x9206,In Review,Business,priscillaherrera@example.org,False,TAX12665,EIN,Ss62194,Inactive
+Simmons Inc,Partnership,"1826 Lewis Mountains, Martinezbury, DC, USA - 11912-2692",Fax,433-994-6772x1601,In Review,Personal,gordon78@example.org,False,TAX61270,PAN,gO85631,Active
+Richards Group,Partnership,"15513 Doris Burg Suite 658, Odonnellmouth, UT, USA - 92134-1218",Home,(438)328-1107x86786,Approved,Support,scottpaige@example.org,False,TAX37314,PAN,ns35324,Active
+"Harris, Alexander and Mcdonald",LLC,"4982 Alexander Shores, Rogersfurt, SC, USA - 92546-8301",Mobile,001-845-965-0187x170,Validated,Personal,beththomas@example.com,False,TAX82067,TIN,Lj66516,Inactive
+"Roberts, Blackwell and Fisher",Partnership,"165 Gonzalez Mountains, Chavezfurt, DC, USA - 84513-4104",Home,539-482-9874,In Review,Sales,theresarichardson@example.org,True,TAX79876,GST,yG00288,Active
+Rich-Copeland,Non-Profit,"15151 Jerome Passage, New Brittneymouth, DC, USA - 72818-1147",Home,8036004201,Approved,HR,hugheschristina@example.net,False,TAX40182,TIN,Gs47759,Active
+"Butler, Roach and Flowers",Partnership,"204 Cindy Port, Lake Carlos, AZ, USA - 85163-9923",Office,839.907.2812x376,Pending,Business,michaelwilliams@example.org,True,TAX88077,GST,ZO08752,Active
+"Rojas, Montes and Good",Non-Profit,"2500 Hammond Creek, Smithhaven, PW, USA - 36193-5038",Office,651-579-8885,Pending,HR,floydtina@example.org,True,TAX56195,LEI,xf09094,Active
+Davidson-Nelson,Private,"6933 David Pines, East Angelaton, GA, USA - 21741-2950",Mobile,(672)570-1486x07892,Pending,Personal,christopher14@example.com,True,TAX17464,TIN,XN21501,Active
+"Stephenson, Davis and Beck",Government,"28434 Glass Extensions Suite 196, Hannaport, UT, USA - 15344-5229",Home,221-746-8966,Approved,Sales,iroy@example.org,True,TAX34419,EIN,qL11036,Active
+Roth and Sons,Public,"510 Edwards Vista, Washingtonfurt, CO, USA - 41036-9546",Mobile,+1-425-439-8271x9790,Validated,Business,jonathon28@example.com,False,TAX65623,GST,eu96889,Active
+Gonzalez-Holloway,Public,"69127 Patricia Villages, Port Kimberlyberg, MH, USA - 14957-3141",Mobile,001-500-470-0595x2561,Validated,Business,michellesmith@example.org,False,TAX27715,PAN,To11174,Inactive
+Garcia-Brooks,Public,"39477 Simmons Green, New John, UT, USA - 90523-9511",Office,2874457322,In Review,HR,xavierolsen@example.com,False,TAX69748,LEI,dn76595,Inactive
+Herrera and Sons,Private,"2166 Connor Garden Apt. 068, North Christy, MT, USA - 73814-4203",Fax,+1-717-282-5232x04135,In Review,Support,susan04@example.org,False,TAX76640,EIN,aw80113,Inactive
+Johnson LLC,Public,"8611 Anne Haven, Millerstad, WV, USA - 75591-3205",Mobile,414-253-3222x716,Rejected,HR,jordanrichard@example.net,True,TAX79924,TIN,FV81137,Inactive
+"Nash, Lawson and Torres",Private,"39438 Timothy Islands, North Brandonview, AZ, USA - 99064-8205",Fax,+1-431-688-2917x2080,In Review,Business,rickfisher@example.com,False,TAX66359,DUNS,Ug68655,Active
+Welch Ltd,Private,"3292 Griffin Rest Apt. 787, West Josephhaven, VA, USA - 76459-5456",Home,+1-897-715-3407x08542,Pending,HR,phillipslarry@example.net,False,TAX20947,LEI,hZ77923,Inactive
+Perkins Group,Private,"05229 Charlene Roads, Lake Anthonyport, WV, USA - 74871-7102",Fax,001-599-321-1291x5375,Rejected,Sales,jamesbrown@example.net,False,TAX52704,DUNS,VD96082,Inactive
+"Austin, Goodwin and Shaffer",Public,"81867 Barrera Union, New Larryside, VA, USA - 17223-5900",Office,+1-204-542-5245,In Review,Personal,perrymartin@example.org,False,TAX57657,TIN,Qr88532,Inactive
+Vasquez-Moss,Partnership,"28831 Nicholas Gardens Apt. 280, Jamesshire, SD, USA - 25968-6316",Mobile,+1-994-334-7815x68636,Rejected,Personal,cruztimothy@example.com,False,TAX57471,DUNS,xf36760,Inactive
+Miller and Sons,Public,"01323 Duncan Groves, New Christopher, NY, USA - 50704-6477",Office,(619)333-5029,In Review,HR,aguilarsheila@example.net,True,TAX67969,PAN,Af96433,Active
+Ward PLC,Partnership,"2152 Turner Gateway Suite 035, Mirandaview, CO, USA - 45578-3883",Mobile,367-388-7692x00306,Pending,Business,antoniojenkins@example.org,False,TAX47469,GST,Ox60931,Inactive
+Hernandez-Roberts,Private,"798 Archer Centers, Whitemouth, NY, USA - 39549-3573",Home,855-870-1814,Approved,HR,tsmith@example.net,False,TAX96046,TIN,hH43082,Active
+"Hess, Garcia and White",Non-Profit,"681 Teresa Lake Suite 923, Bensonbury, DE, USA - 78645-4735",Office,223.628.3718x07328,In Review,Business,pamela94@example.org,False,TAX95944,GST,QB38110,Inactive
+Hobbs Group,Private,"5804 Zuniga Islands, Meganfort, OH, USA - 17041-3791",Office,664.915.2099x1333,Rejected,Personal,erika62@example.net,True,TAX11698,GST,gm42639,Inactive
+Conley PLC,Non-Profit,"71508 Sharp Park Apt. 946, North Danielview, MA, USA - 81281-4473",Mobile,+1-240-428-4175,Approved,Support,crobbins@example.org,True,TAX56402,LEI,sa37174,Inactive
+White Inc,Public,"01324 Reyes Ville Apt. 789, Bellfort, AZ, USA - 52545-4195",Office,2735400798,Approved,Business,rgoodwin@example.com,False,TAX12081,DUNS,Ly63945,Active
+Jacobs-Sanchez,Private,"17866 Robyn Mountains Apt. 191, Lopezfort, NM, USA - 63805-7786",Fax,229.594.2248x83103,Pending,Personal,mdavis@example.net,True,TAX59060,TIN,mz75657,Active
+White-Mayo,LLC,"813 Erica Coves, North Brendan, MS, USA - 56234-4817",Office,367.741.4937x1416,Approved,Business,zachary69@example.com,False,TAX90767,DUNS,yK03650,Inactive
+"Strickland, Shaffer and Walker",LLC,"09771 Christopher Mission, New Amymouth, FL, USA - 50620-6739",Office,872.480.0500x8902,In Review,Support,annette24@example.net,True,TAX85217,EIN,Fd83913,Inactive
+Howard LLC,Private,"028 Miles Way, East Frankview, OK, USA - 84087-3837",Mobile,001-912-667-6758,Rejected,Business,amber45@example.com,True,TAX98224,EIN,Er08964,Inactive
+"Dickerson, Payne and Strong",Partnership,"7815 Michael Plain, Isaacfurt, NH, USA - 27764-2869",Office,274.228.7299x690,Rejected,HR,christopher60@example.org,True,TAX23343,GST,tl59653,Active
+"Mathews, Carey and Jackson",Public,"6483 Webb Brooks Suite 375, East Erinchester, HI, USA - 90730-1658",Office,823.854.7148,Pending,HR,qrivera@example.net,True,TAX54488,GST,Bg25928,Active
+May-Lucas,Public,"6641 Carter Glen Suite 254, Sanchezbury, RI, USA - 24573-9960",Home,+1-751-978-2392x2741,Validated,Business,elandry@example.org,True,TAX28214,GST,Yf24536,Active
+Jones-Murphy,Non-Profit,"7098 Wolfe Bypass, North William, OR, USA - 89428-8937",Office,764-723-9877,Approved,HR,april12@example.org,True,TAX97288,DUNS,ms57407,Active
+"Butler, Watts and Sanchez",Government,"262 Dawn Throughway, Melissaborough, SC, USA - 91825-8027",Office,001-272-769-6343x6375,Pending,Business,kmorrison@example.net,True,TAX99005,TIN,up84531,Inactive
+"Gonzalez, Vincent and Joseph",Partnership,"2901 Cobb Square, Lake Michaelchester, NY, USA - 27322-4846",Home,586-316-7240x268,In Review,HR,keith30@example.org,True,TAX85200,EIN,kn43380,Active
+"Ho, Vargas and Robinson",Private,"283 Luna Junctions, Aguilarview, MA, USA - 45639-2887",Fax,9894667715,Approved,HR,sstein@example.com,True,TAX23416,EIN,pA82647,Active
+Rivera and Sons,Government,"3815 Davis View, Lake Danielchester, NH, USA - 11461-6205",Office,+1-952-473-6707,Rejected,Sales,hstanley@example.org,True,TAX24185,TIN,zp68068,Active
+Richards Group,Public,"1745 David Parks Suite 924, South Sonyaland, AZ, USA - 71136-6593",Home,230-446-7090x4151,Pending,HR,xstone@example.net,False,TAX68657,TIN,Nn78779,Active
+"Christensen, Mcdonald and Garrett",Public,"322 Hale Unions Apt. 090, New Lawrencemouth, NE, USA - 55132-6490",Home,(789)289-6517,In Review,Business,kim06@example.org,True,TAX36435,PAN,Ei18140,Active
+Bailey-Hess,Non-Profit,"9671 Wayne Trace Apt. 765, Michaelfurt, ID, USA - 37795-9072",Home,+1-556-805-1892x0021,In Review,Personal,morrisjacob@example.org,False,TAX62724,PAN,wL24169,Active
+Smith-Monroe,Public,"393 Yesenia Ranch, Whitneyfort, ME, USA - 55933-8616",Mobile,646-992-4280,Rejected,Sales,kathleenking@example.com,False,TAX22433,DUNS,FE53225,Active
+"Francis, Morton and Murphy",LLC,"939 Green Street, New Melanie, MO, USA - 99699-4613",Mobile,436.268.4247,Pending,Support,havila@example.org,False,TAX35888,TIN,mi60946,Active
+Kelly-Walker,Partnership,"4221 Melissa Landing Apt. 329, Lisabury, LA, USA - 21635-4807",Mobile,316-884-9573x21753,Approved,Business,mwu@example.com,True,TAX13540,TIN,eE68845,Inactive
+Fernandez-Hernandez,LLC,"97131 Butler Dale, New Billyland, NE, USA - 72123-7423",Office,(747)551-5192x680,In Review,HR,calebpowell@example.com,True,TAX99569,EIN,UX20012,Inactive
+Mack and Sons,Government,"8905 Crystal Parks, East Hayleyhaven, VT, USA - 12370-9645",Mobile,+1-415-435-9468x0969,Rejected,HR,davidrodriguez@example.net,False,TAX23005,GST,LR70328,Active
+"Owens, Byrd and Wilkinson",Partnership,"62671 Hahn Walk Suite 176, Hernandezland, OR, USA - 21185-3192",Fax,754.454.5927x08731,Approved,Sales,bowersjoshua@example.com,True,TAX87659,PAN,iy42361,Inactive
+Fields-Woods,LLC,"72069 Terry Ramp, North Jamesland, ID, USA - 87014-1247",Office,545.402.6929x5377,In Review,Support,james13@example.org,False,TAX25992,PAN,aY71871,Active
+"Garcia, Beasley and Williams",Private,"6077 Morgan Lane Apt. 340, Jasonside, IL, USA - 18863-7875",Fax,(756)921-7206x34840,Rejected,Support,maryorozco@example.org,True,TAX19930,EIN,IU50709,Active
+Garcia PLC,Private,"277 Horn Ville Suite 303, Wandabury, VT, USA - 42014-9174",Fax,493-435-4351,Pending,HR,ijones@example.net,False,TAX50168,EIN,AC99980,Active
+Hill-Odonnell,LLC,"3402 Meredith Tunnel, Timothyside, MN, USA - 29758-8408",Office,779.522.7157,Validated,Personal,arroyorachel@example.com,False,TAX63019,LEI,xk25368,Active
+"Butler, Miller and Giles",Partnership,"64672 Leah Motorway, New Brianside, WA, USA - 70850-1522",Office,253.512.3486x413,Pending,Business,loganelizabeth@example.com,False,TAX72895,PAN,qm23192,Active
+"Floyd, Burton and Lowery",Partnership,"98153 Zachary Cliff, Albertside, LA, USA - 58395-8262",Home,+1-631-780-1520x233,In Review,HR,martinvictor@example.com,True,TAX16703,PAN,Hm97057,Inactive
+Rodriguez-Johnson,Government,"6256 Freeman Village Suite 128, Ryanbury, ND, USA - 72740-5986",Office,(522)563-3939,Pending,HR,nhowell@example.com,False,TAX96671,GST,ki21932,Inactive
+Henderson-Conway,Government,"9913 Rowe Dale Apt. 190, Gouldland, AR, USA - 74928-5863",Fax,(950)560-6179,Rejected,Sales,vturner@example.net,True,TAX13386,LEI,di54534,Active
+Landry PLC,Partnership,"01791 Brown Trail Apt. 083, Kristifurt, AS, USA - 11047-3562",Home,386-617-3759x7123,In Review,Sales,clarkerika@example.org,False,TAX91830,GST,Oz81102,Active
+"Kelley, Suarez and Morton",Non-Profit,"71994 John Village Suite 498, North Anthonybury, IL, USA - 45450-9698",Fax,729.780.1659,In Review,Support,nguyenchelsey@example.com,False,TAX87929,DUNS,Jg98280,Active
+Fuller-Chan,Government,"382 Cody Manors Apt. 185, Henrystad, SD, USA - 85423-7424",Home,(816)570-2804x872,In Review,Business,lisa28@example.com,False,TAX46723,DUNS,wi43507,Active
+Mcclure Group,Partnership,"085 Christian Cliffs Suite 850, New Savannah, VI, USA - 28689-9020",Office,(594)968-6255x73383,Validated,Business,allennicholas@example.com,True,TAX21540,DUNS,Sb81325,Inactive
+Jordan-Norris,Public,"2754 David Passage, Jenningsbury, AZ, USA - 75441-2155",Office,+1-992-990-5658,Rejected,Support,stonegary@example.org,False,TAX79373,GST,zl91560,Active
+Schneider Group,Public,"7774 Brooks Unions, Johnsonport, CT, USA - 80414-3805",Office,899.999.9582x8103,Pending,HR,karenpage@example.net,True,TAX62934,LEI,oF93482,Inactive
+Williams LLC,LLC,"873 Macias Street Apt. 756, Martinezburgh, IN, USA - 25723-9722",Fax,+1-960-306-0682x8805,In Review,Personal,mmartin@example.org,False,TAX65682,PAN,Ip27004,Active
+"Cobb, Perez and Robinson",Public,"52744 Brown Parks Suite 329, Joshuabury, WA, USA - 78811-8503",Mobile,+1-641-476-3018x990,In Review,Business,holmesheather@example.com,False,TAX68060,DUNS,aY18077,Inactive
+Bowers-Moon,Partnership,"155 Courtney Port Suite 259, North Donnachester, FL, USA - 50431-8921",Fax,245-966-6504x1778,Rejected,Personal,barrymahoney@example.com,True,TAX82847,TIN,Jc85298,Active
+"King, Hayes and Woods",Partnership,"793 Edwards Points, Nelsonport, NY, USA - 91091-2356",Mobile,001-929-979-8743x2475,In Review,Business,jwong@example.org,True,TAX50894,TIN,Zg19039,Inactive
+Rivas PLC,Non-Profit,"4964 Hernandez Lakes Suite 605, New Joseph, KY, USA - 71384-9932",Office,001-716-756-3932x3206,Approved,Support,yhansen@example.net,False,TAX33126,EIN,zu11376,Active
+"Nichols, Phillips and Schneider",Government,"1783 Shaffer Curve Apt. 535, New Johnborough, NY, USA - 74100-4655",Mobile,001-720-294-0786x69083,Rejected,Business,shannon34@example.net,False,TAX18466,PAN,HW49746,Inactive
+Ballard-Carr,Government,"041 Dylan Forges Apt. 440, North Charlesmouth, ID, USA - 67373-2707",Fax,+1-947-971-5684x1520,Rejected,Business,thomassutton@example.org,False,TAX27416,TIN,Vs37410,Active
+Thompson-Morris,Private,"24370 Romero Hills, Brianmouth, LA, USA - 73405-8477",Mobile,001-574-532-9227x195,Pending,Sales,ygreen@example.com,False,TAX78657,PAN,XJ64491,Active
+Howe Group,Public,"830 Medina Vista, Port Donald, FM, USA - 80968-6292",Fax,001-823-561-3491x7650,Pending,Business,laurenhale@example.net,True,TAX97981,LEI,bw49488,Active
+Herrera-Berg,Public,"77858 Thomas Rapid, West Jeffmouth, PA, USA - 43028-5894",Office,(953)607-9884,Rejected,HR,mccanngary@example.com,True,TAX74270,LEI,ES54598,Active
+Bates PLC,Non-Profit,"79321 Lisa Walk Suite 234, Port Michelleborough, UT, USA - 77437-5021",Office,909.864.9447x29485,In Review,HR,wboyd@example.org,True,TAX94647,DUNS,Vv29144,Active
+Brennan Inc,Government,"101 Steven Mission Suite 949, Hannashire, NY, USA - 19255-1816",Office,(201)506-1673x524,Pending,Sales,alanobrien@example.com,False,TAX59649,TIN,JR58928,Inactive
+West Group,Partnership,"8946 Dylan Rapids Suite 166, Jordanchester, ME, USA - 98107-4663",Office,+1-445-745-2777x14914,Rejected,Business,tyler82@example.com,True,TAX92123,EIN,hx35001,Active
+Garcia-Sanchez,Public,"0411 Ruiz Villages Suite 273, Deniseberg, IA, USA - 32598-9220",Office,001-200-933-5909x151,In Review,HR,xmedina@example.net,False,TAX27103,EIN,Bn28253,Inactive
+"Washington, Gutierrez and Santos",Private,"9630 Mccullough Court Apt. 583, Lake Sydney, MO, USA - 14601-8728",Home,3588238822,In Review,HR,jonathanmalone@example.net,True,TAX11835,PAN,WK84961,Active
+Leonard Group,Private,"431 Douglas Loaf, North Glen, WV, USA - 52580-1297",Home,374-339-4629,Approved,Sales,romeropaul@example.com,False,TAX88408,GST,fI52056,Inactive
+Wright-Gates,Public,"64815 Joseph Villages Apt. 550, South Angelborough, TX, USA - 92670-3217",Home,972.298.9367x31581,Approved,HR,carterstephen@example.net,True,TAX81781,TIN,bp46572,Inactive
+Love-Austin,Government,"07353 Alisha Forest Apt. 903, Erinshire, MN, USA - 58614-7863",Mobile,+1-708-359-0395x76336,Rejected,Business,sherry45@example.org,True,TAX40883,DUNS,af07101,Active
+Stokes-Spears,Government,"4688 Stevens Hills, West Davidchester, MS, USA - 20179-1154",Mobile,001-591-432-5648,Approved,Business,lewisedward@example.org,True,TAX94849,EIN,Tm01807,Inactive
+Burns Ltd,Public,"115 Ann Mountain, Baileyton, AK, USA - 63330-8784",Office,(807)960-8317,Pending,Sales,scottsusan@example.com,False,TAX32289,LEI,rJ14703,Inactive
+"Byrd, Rivera and Turner",Partnership,"11958 Cook Tunnel Suite 985, New Amy, UT, USA - 22362-8902",Mobile,756.224.4767x60690,Rejected,Support,joshuathornton@example.com,False,TAX93025,PAN,gm13991,Inactive
+"Walker, Miller and Brown",Private,"94202 Mcdonald Trace, Parsonsland, KY, USA - 85412-8366",Home,(328)506-3389,Pending,Sales,timothy68@example.com,False,TAX25025,GST,wm56785,Active
+Bailey Ltd,Partnership,"53060 Garcia Hills Suite 778, New Trevor, WV, USA - 43648-8284",Mobile,+1-646-405-6118,Rejected,Business,rhernandez@example.com,True,TAX66875,DUNS,TI84090,Inactive
+"Barnes, Martin and Nichols",Non-Profit,"2645 Carrie Knolls, Lake Joshuaside, WY, USA - 87461-5568",Home,(927)827-4250,Approved,Sales,lindseyshaffer@example.org,True,TAX19721,GST,bq36673,Active
+Williams LLC,LLC,"960 Burch Causeway, West Mark, UT, USA - 98888-6873",Fax,+1-893-387-1749x685,Pending,Support,teresa70@example.com,True,TAX12406,PAN,ox65499,Active
+Foster LLC,Non-Profit,"823 Beltran Oval, Port Brandon, UT, USA - 21135-4303",Office,+1-950-838-9498x657,Pending,Business,jennifer12@example.org,True,TAX27187,GST,YB85159,Active
+Torres-Baxter,Non-Profit,"2682 Trevor Island Apt. 373, North Katherineside, KY, USA - 84762-8965",Fax,637-949-0882x4289,In Review,Sales,theresa15@example.org,True,TAX78894,GST,oI38426,Inactive
+"Gomez, Obrien and Holt",Government,"3612 Kyle Isle Apt. 313, South Melissa, TN, USA - 60340-8882",Home,+1-867-388-2331x114,In Review,Business,andrewsanchez@example.net,False,TAX76952,PAN,lE53749,Active
+Burgess Ltd,Private,"124 Walter Vista, Edwardston, MN, USA - 60430-6771",Fax,722-648-2248x528,In Review,Personal,riverasusan@example.net,False,TAX41836,GST,wO88491,Inactive
+Johnson-Klein,Partnership,"214 Kayla Freeway Suite 915, Greerview, VI, USA - 68713-5858",Home,906-754-8490,Rejected,Personal,gcummings@example.org,True,TAX64064,EIN,Fg76437,Active
+"Price, Robinson and Downs",Partnership,"697 Taylor Ville Apt. 302, Port Danielshire, WV, USA - 70954-1296",Fax,001-637-522-1646x617,Rejected,Personal,aprilgordon@example.net,True,TAX59384,LEI,cv86695,Inactive
+"Quinn, Peterson and Hall",Public,"75201 Martinez Grove Suite 382, Nathanieltown, CA, USA - 70114-2762",Office,623.458.4652x161,Approved,Sales,jennifermcgee@example.org,False,TAX24582,EIN,Ya19898,Inactive
+Bell Inc,LLC,"402 Munoz Key, New Heather, WY, USA - 43321-5183",Mobile,+1-463-594-1825x843,Rejected,Support,wperez@example.com,False,TAX64164,TIN,wn39465,Active
+Cooper-Hopkins,Partnership,"0566 Nancy Stravenue Suite 515, Martineztown, AK, USA - 66075-1506",Home,+1-984-690-8896x6115,Validated,Business,lambsamantha@example.org,True,TAX53805,EIN,BC07437,Inactive
+Phillips-Santos,LLC,"1752 Waters Glens Apt. 725, Port George, OH, USA - 42078-1166",Home,(560)446-3779x850,Validated,HR,andersonemily@example.com,False,TAX91121,EIN,gV09125,Inactive
+"Mcconnell, Chung and Moyer",Private,"7007 Nelson Walks Apt. 135, Rhondaburgh, WA, USA - 44853-7413",Home,001-201-559-0854x76083,In Review,Business,williamwhite@example.com,True,TAX85341,TIN,Ks68699,Active
+Pena Inc,Government,"91520 Alexandra Camp Suite 148, Greenland, AZ, USA - 75021-3674",Fax,(363)319-8323x0909,Pending,Support,jonathanwilson@example.com,True,TAX46108,PAN,mR15261,Inactive
+"Mcknight, Bryant and Smith",Private,"792 Taylor Fort, East Lonnieview, DC, USA - 55365-8248",Mobile,+1-272-274-7350x3069,In Review,Business,kristinaerickson@example.com,True,TAX51598,DUNS,UH24316,Active
+"Martinez, Allen and Randall",LLC,"167 Stephen Gardens, Simonbury, HI, USA - 61152-4760",Office,001-235-734-3138x0644,Rejected,Personal,stephensonwhitney@example.net,True,TAX31739,DUNS,EA65294,Inactive
+Weaver Ltd,Public,"993 Craig Forges, Heatherborough, IN, USA - 32056-7707",Fax,+1-424-719-5792x056,Rejected,Personal,caseyspencer@example.net,True,TAX38899,PAN,qj08959,Inactive
+"Villa, Herrera and Bennett",Public,"2652 Fernandez Plains, North Tiffany, MD, USA - 60823-3613",Fax,376.634.0907x8273,In Review,HR,johnstonchristopher@example.com,False,TAX72568,GST,tf58652,Inactive
+Bentley LLC,LLC,"38948 Barber Haven Suite 921, Thompsonville, KY, USA - 11467-9181",Office,001-417-916-3880x560,Validated,HR,dlopez@example.org,True,TAX82515,GST,Mt41539,Inactive
+Hood-Love,Public,"449 Harding River Apt. 381, East Sandra, MH, USA - 93303-7239",Fax,550.753.1488x81610,In Review,HR,yday@example.org,True,TAX97373,DUNS,Fw43259,Inactive
+"Myers, Moore and Johnson",Non-Profit,"202 Rice Harbor, South Craig, MO, USA - 23502-4401",Office,001-604-566-1331x4208,Approved,Business,scott17@example.net,True,TAX97817,GST,yg41339,Active
+"Rose, Diaz and Rosario",Public,"19623 Janet Pike Apt. 687, Nancyland, FL, USA - 15019-1687",Fax,646.502.2336x3238,Validated,Sales,iandrake@example.com,True,TAX52848,EIN,Qg86594,Inactive
+Smith-Wang,Government,"4939 Kurt Falls, Jenniferport, TN, USA - 48379-8222",Mobile,+1-704-693-3278x6647,In Review,Support,elizabethcarter@example.com,True,TAX83285,EIN,WL35083,Active
+Blake Group,Non-Profit,"289 Denise Center, North Monica, MS, USA - 76682-2093",Office,+1-741-726-3112x3393,Validated,HR,jenniferhughes@example.org,True,TAX13423,DUNS,TM92884,Inactive
+Ford-Cooley,Private,"543 Anthony Cliffs Apt. 919, Nancyport, NJ, USA - 69413-7988",Fax,001-648-821-5087x334,Validated,Support,jessicabrown@example.com,True,TAX89503,PAN,ho78470,Inactive
+"Smith, Smith and Ramsey",Government,"2429 Mark Meadow Apt. 003, Port Amberville, WV, USA - 60733-4698",Office,3856587850,Validated,Personal,meyercassandra@example.org,False,TAX33975,TIN,qn12454,Active
+"Rose, Pena and Beck",Private,"719 Howell Square Suite 199, East Zacharyside, MD, USA - 41009-1849",Fax,904.824.7136,Pending,Sales,danielsnicholas@example.net,False,TAX39295,DUNS,Tl30707,Inactive
+Williams-Kelley,Non-Profit,"026 Sanchez Glens Apt. 244, South Jacob, MI, USA - 42712-2293",Office,3822926098,Approved,HR,hernandezmary@example.net,False,TAX43797,GST,oG17450,Active
+Price and Sons,Private,"44660 David Landing Apt. 896, Emilyberg, UT, USA - 76002-8955",Fax,612-939-6059,Validated,Support,pacecarlos@example.org,False,TAX28804,LEI,dx23269,Active
+Rose-Bennett,Non-Profit,"218 Collins Stravenue Suite 264, South Jeanne, WV, USA - 12551-7174",Mobile,972-619-9116,In Review,Sales,bramirez@example.com,True,TAX97031,LEI,Wd69360,Active
+"Fisher, Baldwin and Rogers",Private,"594 Tyler Causeway, East Reginaport, OH, USA - 54244-2704",Office,(989)438-8583x715,Pending,Business,ybates@example.com,True,TAX31369,GST,KT77305,Active
+Lawson PLC,LLC,"64658 Bush Trafficway Suite 287, Sandersmouth, IN, USA - 59300-1868",Home,(999)750-9429,Pending,Support,rodgersjeffrey@example.com,True,TAX13811,GST,HD20637,Active
+"Johnson, Wilson and Mann",Partnership,"637 Charles Loaf, Thompsonmouth, AZ, USA - 30417-6221",Office,001-329-790-4848x9479,Approved,Sales,hchavez@example.com,True,TAX29306,GST,Uu99139,Inactive
+"Dyer, Adkins and Brown",Public,"998 Cole Light, Charlesland, GA, USA - 99434-6111",Office,+1-752-481-0217x611,Approved,Business,dwilson@example.net,False,TAX96694,DUNS,Ax80926,Inactive
+"Maynard, Hansen and Young",Non-Profit,"924 Charles Port Apt. 209, Lake Mariaberg, MP, USA - 60301-8671",Office,(334)724-8546,Approved,HR,gsanders@example.com,False,TAX18782,DUNS,on53321,Active
+Novak LLC,LLC,"20366 Adrian Flats Apt. 008, Port Ryanton, CO, USA - 32360-6467",Fax,(453)635-5512x83103,Approved,HR,tamara69@example.org,True,TAX49323,TIN,ms53687,Active
+Simmons-Rodriguez,Government,"044 Gray Cliff Suite 160, South Derrickchester, WV, USA - 26179-7022",Office,001-795-405-0746x1181,Approved,HR,harry79@example.org,True,TAX61961,GST,AM50269,Inactive
+"Walker, Pratt and Scott",Partnership,"73010 Padilla Union, Danielport, GA, USA - 11503-1877",Mobile,+1-695-926-3758x102,Validated,Sales,alewis@example.com,False,TAX86075,DUNS,Bm35490,Inactive
+Bernard PLC,Private,"5482 Stephens Port Suite 170, South Nicolasshire, WY, USA - 51872-6931",Office,(806)955-8107,In Review,Sales,vmitchell@example.org,True,TAX59009,LEI,xC41840,Inactive
+Smith-Lynch,LLC,"559 Courtney Lights, East Laura, VI, USA - 82687-6035",Home,730.261.9110x2406,Rejected,Business,jessepena@example.com,True,TAX35880,EIN,Ay65937,Inactive
+Jackson-Garcia,Private,"890 Dwayne Squares, Bowenborough, GU, USA - 58693-9310",Fax,354-942-0357,Rejected,Sales,ewatson@example.org,True,TAX87951,GST,ye18910,Active
+"Anderson, Evans and Myers",LLC,"854 Wayne Falls Apt. 369, East Curtis, MS, USA - 61428-1550",Fax,001-907-201-4162x197,Validated,Personal,joel29@example.net,True,TAX89519,EIN,XE32415,Inactive
+Payne and Sons,Public,"96110 Christy Bridge, Lake Deborah, PA, USA - 89738-8308",Home,(396)522-2751x741,Validated,Sales,bstokes@example.com,False,TAX28338,TIN,hs46221,Inactive
+Williams LLC,Partnership,"932 Rachel Forest Apt. 029, Port Rebeccaville, NV, USA - 75660-2938",Home,(911)441-0056,Validated,Personal,danielthomas@example.com,True,TAX84738,GST,mR67488,Active
+Daniels-Martinez,Private,"08668 Hamilton Knoll Suite 327, West David, MA, USA - 24693-3220",Home,2023133496,Approved,HR,carlos51@example.net,False,TAX55317,TIN,jU46438,Active
+Rogers-Gordon,Non-Profit,"93848 Evan Cape Suite 860, Lake Jennifer, NC, USA - 95762-6687",Fax,001-567-482-4444x9159,Validated,Support,rebekah93@example.org,True,TAX26085,LEI,qs26168,Inactive
+Hughes-Morales,Public,"34837 Fletcher Valley, Elizabethville, WI, USA - 43631-4817",Home,941.927.5856x3041,Rejected,Business,acortez@example.com,False,TAX76551,LEI,LG84689,Inactive
+Bryant PLC,Partnership,"9171 Richmond Squares, Lauraburgh, PR, USA - 27952-2390",Home,222-783-4396,In Review,Business,lboyle@example.net,False,TAX74199,PAN,jj39028,Active
+"Wang, Smith and Kim",Non-Profit,"455 Padilla Glens Apt. 603, Wendystad, NY, USA - 29198-6894",Home,(637)452-6082,Rejected,Business,phillip47@example.net,True,TAX37154,EIN,Nl95810,Active
+Carter-Bishop,Private,"94636 Johnson Islands, Port Katherine, MS, USA - 82653-6365",Mobile,(678)833-7872x71663,Pending,Sales,marc51@example.net,True,TAX73972,LEI,xT27986,Active
+Higgins and Sons,Partnership,"51344 Villegas Falls, Marissabury, AZ, USA - 20440-4587",Fax,230-323-9787,Rejected,Sales,william60@example.net,False,TAX30706,EIN,Zh53476,Inactive
+Gomez-Kirk,LLC,"6940 Ford Brook Apt. 473, Lake Chasehaven, UT, USA - 45336-3557",Office,975.565.5682x8129,Approved,Sales,cindykirk@example.com,True,TAX50490,EIN,Kg73452,Active
+Peters-Torres,Government,"600 Gutierrez Land, Crystalland, FM, USA - 87098-4375",Office,477-803-0397,Rejected,Personal,myerswilliam@example.com,True,TAX69167,TIN,nY91319,Inactive
+"Shaw, Frye and Holloway",Non-Profit,"60534 Angel Stream, Hernandezchester, GA, USA - 44055-8827",Office,2247756775,Rejected,Business,rodriguezpatrick@example.com,True,TAX85421,PAN,rB18607,Active
+"Gutierrez, Wilson and Potter",Partnership,"63262 Chen Cliff, Meganton, MS, USA - 82674-8534",Fax,377-394-1384,Approved,Support,msmith@example.com,True,TAX60009,DUNS,Uv43224,Inactive
+Snyder-Mitchell,Non-Profit,"21174 Toni Neck Apt. 957, New Chase, FM, USA - 15729-1101",Fax,448-701-3443,Approved,HR,juliamoore@example.net,True,TAX39541,LEI,YR60697,Active
+Patterson and Sons,Government,"1987 Stewart Valley Apt. 578, South Thomas, VA, USA - 12392-6779",Home,703.674.2656,In Review,Personal,joshuagarcia@example.org,True,TAX18425,GST,Rq13595,Inactive
+"Nguyen, Jones and Clark",Public,"66911 Megan Orchard Suite 577, Tinaland, NJ, USA - 39537-1601",Fax,+1-807-971-0139x506,Pending,HR,ubullock@example.net,False,TAX56895,LEI,eq57571,Inactive
+"Logan, Avila and Rogers",Private,"98406 Nelson Squares, Brittneystad, GU, USA - 33535-7586",Home,+1-527-921-4871x558,Validated,HR,riverawilliam@example.net,False,TAX68257,DUNS,Ee90207,Inactive
+Lee-Gardner,LLC,"15253 Frank Row Suite 078, Valenciaport, AR, USA - 57585-7419",Home,253.544.6762x752,Validated,HR,mmcdowell@example.com,True,TAX25037,TIN,Hu13851,Inactive
+Bates-Ellis,Government,"1646 Adrian Shoal Apt. 000, Markhaven, ND, USA - 85111-9515",Home,218.759.5747x3197,Pending,Sales,jennifer23@example.com,True,TAX86307,LEI,Ys90843,Active
+Johnson-Thomas,Partnership,"03355 Ryan Prairie Suite 558, Alexisburgh, CO, USA - 64771-1558",Fax,951.701.3889x86912,Rejected,Support,joshua21@example.net,True,TAX28719,LEI,FV78147,Inactive
+"Abbott, Johnson and Weeks",LLC,"3965 Kelly Junctions Apt. 557, Lake Billy, NV, USA - 54046-9512",Home,001-273-714-1639x40061,Rejected,Sales,michelle29@example.org,True,TAX46193,PAN,TK97405,Inactive
+Arroyo Inc,Government,"8560 Thomas Port, Kevinchester, ID, USA - 45851-4873",Office,3792222832,In Review,HR,robinharvey@example.org,False,TAX68139,EIN,oY55915,Active
+"Matthews, Gray and Hernandez",Non-Profit,"3237 Gonzalez Turnpike Apt. 229, North Tracyview, MA, USA - 15566-6037",Mobile,9942046661,Pending,Personal,brian83@example.org,True,TAX45347,TIN,mn79911,Inactive
+"Lopez, Rodriguez and Cochran",Private,"77759 Black Gateway, Jameshaven, MD, USA - 55162-5307",Fax,(529)417-1385x41374,Validated,Sales,stephaniepowell@example.net,False,TAX67471,TIN,Ol24880,Inactive
+Graves Inc,Partnership,"250 Emily Parkway Suite 093, Gutierrezfurt, FM, USA - 64578-7626",Office,677-736-3544,Rejected,HR,christopher41@example.com,True,TAX53693,GST,zN75980,Inactive
+Harrison and Sons,Partnership,"16479 Kimberly Station, Hudsontown, TX, USA - 73437-7346",Fax,+1-999-418-1863,Validated,Business,melissa41@example.org,False,TAX65621,GST,eZ89143,Inactive
+Ellis-Morgan,Public,"13503 Andrea Stream Suite 428, Justintown, ND, USA - 60120-7653",Home,594-701-6851,Validated,Personal,cardenasjustin@example.net,False,TAX49813,LEI,KW91615,Inactive
+"Lambert, Arnold and Lewis",LLC,"5782 Lisa Land, Bairdshire, WI, USA - 27541-7656",Home,(874)993-0200x262,Pending,Support,martingary@example.net,True,TAX66198,DUNS,yS77232,Active
+"Miller, Bennett and Lynch",LLC,"309 Claudia Plains Apt. 090, North Anthony, MO, USA - 13965-3779",Office,001-807-291-1519x93837,Approved,Sales,megan98@example.org,True,TAX97071,EIN,cd54970,Active
+Wade-Cruz,Public,"527 Smith Branch Suite 073, Millerview, MA, USA - 47724-2070",Mobile,001-782-866-8846x457,Rejected,HR,brookesmith@example.com,False,TAX64122,DUNS,vr37429,Inactive
+Brooks Inc,Private,"67258 Elizabeth Ridge, South Henry, NJ, USA - 86921-5373",Fax,001-609-866-1883,Pending,Personal,jacksonsarah@example.com,True,TAX18449,LEI,hf44854,Active
+Alvarez-Johnson,Government,"187 Martin Ways, Port Ann, CA, USA - 74145-1945",Fax,(936)527-2573x65255,Approved,Support,chad72@example.org,False,TAX63546,EIN,pt63984,Inactive
+Johnson-Johnson,Public,"030 Martinez Road Suite 991, Brianchester, AR, USA - 10288-9556",Fax,+1-657-780-4973x2932,In Review,Sales,xmoore@example.com,False,TAX48625,DUNS,mp91110,Inactive
+Sanders-Carter,Public,"65730 Coleman Ville, East Nancy, VT, USA - 27702-9820",Mobile,+1-218-837-3770,Rejected,Support,hodgejoan@example.net,True,TAX16239,GST,Ux55053,Inactive
+Hall LLC,LLC,"960 Ramos Flats Apt. 030, Roseborough, PW, USA - 95730-4692",Fax,+1-768-487-2078x1557,Validated,HR,katelyn55@example.net,True,TAX19884,EIN,uf29617,Active
+Martinez-Foster,Government,"8572 Young Branch Suite 148, North Laurie, MO, USA - 24258-9901",Home,988-581-5459x06998,Pending,Personal,maureen81@example.org,False,TAX35033,LEI,MK02263,Active
+Lopez-Powell,LLC,"27725 Reyes Landing Apt. 456, South Brandiville, SC, USA - 11363-5776",Home,001-314-680-2759,Validated,Sales,bradleymoore@example.com,False,TAX93009,PAN,Ce73527,Inactive
+Hull PLC,Private,"94994 Kimberly Gateway, South Teresaport, FL, USA - 86730-3366",Home,(476)236-0788x3200,In Review,Personal,christopherbrown@example.org,True,TAX70666,TIN,OQ08378,Active
+Jones PLC,Government,"4272 Nicole Flats, New Kelseyland, MD, USA - 96139-8816",Home,(494)240-1046x275,In Review,Business,jeffrey08@example.net,True,TAX96280,TIN,oP94516,Active
+Gray-Rodriguez,Non-Profit,"700 Marshall Canyon, North Mary, NH, USA - 79359-9676",Mobile,001-451-744-0848x8198,In Review,Sales,debradean@example.org,False,TAX19855,PAN,fj07647,Inactive
+Williams-Owens,LLC,"800 Debbie Pass, North Michaelmouth, HI, USA - 30368-3761",Mobile,6652797028,Approved,HR,jeffreycummings@example.com,False,TAX82864,PAN,Zk00608,Active
+Herrera-Mays,Non-Profit,"847 Bennett Green Apt. 195, Brownmouth, UT, USA - 12632-7922",Fax,571.554.2250,Validated,Business,taylormeadows@example.net,True,TAX70042,LEI,Rc08563,Inactive
+Wolf-Miller,Partnership,"0661 Coleman Greens, Colemanland, GU, USA - 95935-3830",Home,001-732-251-6768,In Review,Personal,powen@example.net,True,TAX75257,DUNS,Gg06850,Active
+"Franklin, Johnston and Deleon",Public,"36667 Savage Club Suite 052, North Peter, CO, USA - 69431-7021",Office,736.699.1371,Validated,Business,tcurtis@example.com,True,TAX58630,TIN,yK75874,Inactive
+"Hunt, Bowers and Steele",Partnership,"99334 Potter Islands, South Ashley, AL, USA - 46381-5763",Home,+1-374-635-0386x278,Pending,HR,timothykaiser@example.net,True,TAX50143,LEI,oD44371,Active
+Hunter Group,Non-Profit,"5002 Jeanette Alley Suite 413, Pamelafurt, PW, USA - 64845-2964",Fax,210.635.5866x97903,Validated,Sales,mlopez@example.com,False,TAX60345,TIN,MG15463,Active
+Davis Inc,Government,"716 Amanda Prairie Suite 120, Lake Sandra, MI, USA - 69130-1496",Fax,2753941379,Approved,Sales,george73@example.net,True,TAX62343,DUNS,Tm59655,Active
+"Conrad, Reed and Erickson",LLC,"823 Elizabeth Via, North Jeffrey, RI, USA - 13319-7522",Fax,998.766.6278x3890,Approved,Support,michellegarcia@example.com,False,TAX19194,LEI,oA30807,Active
+"Werner, Rose and Patterson",Partnership,"570 Curry Highway Suite 572, Taylorport, PW, USA - 54552-9740",Fax,+1-854-244-1150x70500,Validated,Sales,deckertimothy@example.org,False,TAX62649,PAN,iV53382,Active
+Miller-Chandler,Non-Profit,"927 Amanda Rue, Claytonhaven, TX, USA - 71354-4394",Office,(396)658-3463,Rejected,HR,danielle05@example.org,True,TAX33698,DUNS,ZK01057,Inactive
+"Rodriguez, Matthews and Torres",Public,"875 Steven Meadow, Ryanstad, NJ, USA - 49501-7158",Home,(994)368-4734x7051,Validated,Support,rachel56@example.com,False,TAX66981,TIN,Nl65335,Inactive
+Cruz-Hunt,LLC,"334 Miller Turnpike, New Ronaldbury, CO, USA - 74031-4084",Home,957.855.5554x8787,Pending,HR,patricia84@example.org,False,TAX72428,PAN,Rk71492,Inactive
+"Nelson, Garcia and Norton",LLC,"52996 Nathan Street Suite 925, Martinbury, KS, USA - 32884-6141",Office,680.672.5754x43413,Rejected,HR,thomas23@example.org,True,TAX26561,EIN,eo74717,Active
+"Smith, Gray and Diaz",LLC,"548 Bryant Forges, Port Amberfort, NC, USA - 27536-8314",Home,001-366-736-7741x082,Validated,Personal,amanda09@example.com,True,TAX20884,LEI,uX37578,Inactive
+"Boone, Williams and Robinson",LLC,"931 Wilson Union Apt. 067, West Christopherstad, SD, USA - 42109-5805",Home,001-696-417-1917x0231,Pending,Sales,kelly14@example.net,False,TAX78536,PAN,vp17068,Active
+Johnson-Stone,Private,"974 Madison Fields Suite 817, East Olivia, IA, USA - 97250-6818",Home,001-310-421-1251x90931,Pending,Sales,fdavis@example.com,False,TAX17124,LEI,ku11885,Active
+Johnson Ltd,Government,"39622 Nancy Causeway, Barberbury, OH, USA - 82296-2685",Fax,226-524-8937,In Review,HR,shenderson@example.com,False,TAX92431,LEI,WP69922,Inactive
+Mcintosh-Johnson,Government,"94714 Bruce Island, Aaronbury, KS, USA - 81083-3068",Mobile,+1-494-399-4468x09450,Rejected,Personal,warnerrobert@example.org,True,TAX38049,DUNS,Kv37924,Active
+Rogers-Mclaughlin,Public,"6951 Alvarez Locks Suite 901, New John, NM, USA - 93000-5283",Mobile,001-867-405-4533x216,Validated,Support,melissa40@example.com,True,TAX98800,PAN,qp42786,Inactive
+"Reyes, Reed and Evans",LLC,"169 Daniel View Apt. 220, East Maryview, WY, USA - 86394-6686",Office,001-823-358-0950x1680,Pending,HR,flittle@example.net,False,TAX17805,EIN,HF15997,Inactive
+"Gonzalez, Stevenson and Pearson",Government,"0583 Soto Glens Suite 379, Port Christiechester, TX, USA - 36940-9717",Home,(882)746-0037,Validated,Personal,leslie05@example.org,False,TAX97098,TIN,Zi04298,Active
+"Dixon, Smith and King",Government,"3980 Mary Lodge, New Tiffanyhaven, OH, USA - 49033-2213",Office,263.340.4775x82404,Pending,Sales,lking@example.com,False,TAX17960,PAN,Vh21556,Inactive
+Taylor and Sons,Private,"1011 Turner Port, Mooreshire, NC, USA - 42902-8011",Home,940.249.4054x894,Pending,Support,cwatson@example.com,True,TAX34679,EIN,uU80857,Inactive
+Grant-Allen,Private,"644 Greene Glen Suite 104, Patrickchester, VT, USA - 74467-6865",Mobile,(245)600-4778x15456,Rejected,Sales,nicolas44@example.net,False,TAX40353,LEI,NE59753,Inactive
+Saunders-Smith,Partnership,"686 Maldonado Trail, North Wendyview, OH, USA - 32476-6328",Home,(400)662-2308,Approved,Personal,ddominguez@example.net,True,TAX50482,LEI,GW33968,Active
+"Blackburn, Roberson and Bell",Private,"8013 Wright Cliff, New Jeffreybury, IL, USA - 58268-4935",Office,3672978157,In Review,Support,cramirez@example.org,True,TAX47079,PAN,eE77577,Active
+Rangel-Horn,Non-Profit,"6155 Courtney Green, Kimberlyborough, MN, USA - 17341-7046",Home,(590)858-7268,Approved,Personal,johnhooper@example.org,True,TAX18465,TIN,xW50678,Active
+Hobbs-Thomas,Partnership,"070 Michael Roads Suite 825, Sallyside, NM, USA - 22471-1294",Office,713-293-4585,Validated,Personal,rileyduffy@example.net,True,TAX81176,GST,wm40476,Active
+Brown-Fernandez,Private,"9344 Paula Fall Suite 083, Williamsside, CA, USA - 85133-6437",Fax,400.953.9802,Approved,HR,stevejohns@example.net,True,TAX17596,GST,no87535,Active
+Hanson-Carney,Government,"075 Tyler Gateway, North Martha, MS, USA - 27983-2212",Home,(707)645-6427x074,Rejected,Personal,alexandermoore@example.net,False,TAX14086,DUNS,WC70225,Active
+Jones Ltd,Partnership,"47328 Contreras Greens, Hoodside, FM, USA - 43772-7055",Mobile,(359)315-5079x835,Approved,Personal,kellycisneros@example.org,False,TAX68360,DUNS,uD47901,Inactive
+"Miller, Kramer and Horton",Private,"245 Williams Trace, Port Kenneth, OK, USA - 17202-5142",Fax,268-830-8070,In Review,Business,caseycruz@example.com,True,TAX34175,DUNS,wb59386,Active
+Miller-Porter,Public,"8590 Beard Plains Apt. 040, Port Julia, ID, USA - 31452-5656",Fax,992.546.8028x09199,Validated,Business,stevengibbs@example.net,True,TAX44332,GST,ZV24354,Inactive
+Farrell-Johnson,LLC,"42347 Katherine Fort Apt. 464, West Todd, MA, USA - 72285-4118",Fax,255-424-4052,Rejected,Personal,ikemp@example.org,False,TAX62799,PAN,Qa66801,Active
+"Lester, Rogers and Leon",Non-Profit,"715 Holly Crossing, Lake Erica, NJ, USA - 66474-5217",Fax,392.988.8026,Rejected,Sales,kvaughn@example.org,True,TAX53510,EIN,TP43771,Inactive
+Larson LLC,Private,"346 Bonnie Lock, Hillburgh, NY, USA - 33458-2943",Mobile,2047197935,Pending,Sales,sbradford@example.com,True,TAX37967,GST,hq03670,Active
+Barrett PLC,Private,"4968 Amanda Way, East Randallfort, NC, USA - 95296-5037",Home,(672)457-8271,In Review,Sales,orozcomichael@example.org,True,TAX11444,GST,hY65111,Inactive
+"Brown, Thomas and Haley",Partnership,"492 Walker Turnpike Apt. 091, Diazburgh, IN, USA - 40149-7419",Home,(984)206-7996,Rejected,Support,alexisgarrison@example.org,False,TAX81390,TIN,lF31090,Active
+Perez LLC,Private,"385 Kathy Rapids, Jenningsmouth, MS, USA - 23696-6008",Home,(206)758-4501x811,Approved,Business,chavezjacob@example.org,True,TAX24884,LEI,US55971,Active
+Smith-Newton,Private,"5234 Turner Junction Apt. 028, South Lisatown, GU, USA - 25363-2126",Office,6703555823,Pending,Business,ericksonanthony@example.org,True,TAX94260,LEI,Qb67386,Active
+Brown and Sons,Government,"1814 Mcintyre Isle, Aguilarfurt, RI, USA - 50559-6980",Office,(924)885-0755,Pending,Personal,stonechad@example.org,False,TAX58799,PAN,WK88297,Active
+Johnson PLC,Government,"40544 Jennifer Tunnel Apt. 855, Katieton, TN, USA - 42468-4602",Home,+1-815-422-6992x6436,Rejected,Personal,millsrichard@example.org,True,TAX54627,PAN,Kv25714,Active
+Fields Group,Partnership,"135 Jones Streets, East Henryville, OH, USA - 92861-4571",Fax,(380)970-9983x61528,Rejected,Business,tristan91@example.org,True,TAX48519,PAN,Wl41970,Inactive
+"Zamora, Taylor and Mcdonald",Private,"0795 Courtney Shores Suite 069, Smithport, PA, USA - 27769-5084",Home,(991)742-4950x988,In Review,Support,kevinmay@example.com,False,TAX43243,PAN,El23580,Active
+"Curry, Murray and Anderson",Partnership,"248 Torres Drives Suite 295, Davismouth, NC, USA - 94517-3085",Home,001-305-364-7667x9763,Approved,Support,scottlynch@example.org,False,TAX90211,TIN,Yy62199,Inactive
+Ramirez-Swanson,Public,"09899 Heather Via Suite 911, Jimmyland, MT, USA - 25678-6692",Mobile,5834788280,Rejected,Sales,madisonyu@example.org,False,TAX56213,TIN,uj74614,Inactive
+"Armstrong, Petersen and Mccall",LLC,"102 Carl Corners Suite 750, Cathybury, OK, USA - 37448-4561",Office,(893)817-7482,In Review,HR,kimberly00@example.net,True,TAX88409,LEI,pS24168,Active
+Kirk-Lin,Public,"650 Michelle Landing Suite 039, West Judymouth, MS, USA - 34493-1128",Mobile,7295487681,Approved,Sales,jennifer14@example.net,False,TAX16455,DUNS,aP55833,Inactive
+"Kirk, Griffin and Butler",Government,"36938 Mark Ridge, North Iantown, FM, USA - 10935-5326",Home,(595)710-8219,In Review,Personal,jenkinssamantha@example.com,False,TAX13657,GST,cW79041,Active
+"Neal, Davis and Moore",Non-Profit,"586 Williams Villages, North Johnshire, KY, USA - 84416-4777",Home,(554)898-7781x96928,Approved,Personal,robinsonjoseph@example.com,False,TAX19948,GST,Ln24413,Inactive
+Campbell Group,Partnership,"0980 Nguyen Mission Apt. 341, East Shannonview, ID, USA - 76176-2859",Home,(206)339-5091,Approved,Business,omcintosh@example.net,True,TAX76166,PAN,mX93525,Inactive
+"Williams, Snyder and White",Government,"698 Allison Ridges, Hawkinsstad, AL, USA - 88703-5758",Office,001-972-307-5613x4813,Validated,HR,hoffmanmelanie@example.org,True,TAX38131,TIN,Yr62378,Inactive
+Hudson Ltd,Government,"054 Wood Rue, North Frank, TX, USA - 51726-3582",Home,277.262.7025,Pending,Personal,spearselizabeth@example.net,True,TAX49997,LEI,qc47655,Inactive
+Roberts-Daniels,Partnership,"56709 May Wells Suite 606, Kennethstad, WY, USA - 48281-2868",Office,(980)314-2117x0078,Validated,Support,steven97@example.org,False,TAX22926,GST,Ud94496,Inactive
+Weaver-Reed,Partnership,"89562 Russell Crossing, New Aaronborough, FM, USA - 52460-9709",Fax,(680)627-7040x06698,Validated,Business,elizabethwoods@example.org,False,TAX53940,LEI,Fv21761,Inactive
+"Gomez, Robinson and Oliver",Public,"52791 Anderson Row Apt. 360, Victoriaton, GA, USA - 76387-6278",Fax,341-711-0217x1606,Pending,Sales,wanda21@example.net,False,TAX84293,PAN,up69911,Inactive
+Summers-Jimenez,LLC,"30604 Roman Lodge Suite 688, Lake Rebecca, NJ, USA - 18926-8667",Office,+1-236-896-4645x34076,Pending,Personal,butlerstephanie@example.com,False,TAX29495,GST,EQ89931,Active
+Mills-Watkins,Public,"7521 Clayton Crossroad, East Alexis, CO, USA - 85643-9328",Fax,788-671-6891x5098,Validated,Personal,denisedoyle@example.net,True,TAX27986,TIN,am11688,Active
+Marsh Ltd,Non-Profit,"7813 Matthew Pine Suite 873, Schroederchester, MH, USA - 20352-5848",Mobile,(795)660-1693x94706,Approved,Support,hashley@example.com,True,TAX37593,DUNS,kL35526,Active
+"Mccoy, Paul and Brown",Private,"871 Vincent Ford Apt. 756, Davidview, CA, USA - 62211-6997",Home,(568)250-2957,Pending,Sales,anthonygarcia@example.com,True,TAX11823,PAN,ky97540,Inactive
+"Beard, Johnson and Nichols",Private,"41749 Adam Avenue, Alejandroton, KS, USA - 14510-6217",Office,(626)660-5288,In Review,HR,uhunt@example.net,True,TAX31584,PAN,Ee82338,Active
+Price-Greene,Government,"7097 Berry Ports, Lake Adamstad, CA, USA - 19540-6105",Fax,(732)354-7023,Approved,Support,adamdelgado@example.org,True,TAX73731,LEI,tK46975,Active
+Rhodes-Tate,Public,"53277 Glover Ferry Suite 990, Navarroport, KY, USA - 97800-4458",Mobile,(689)873-1417x94224,Approved,Business,lynn41@example.net,True,TAX86497,TIN,ae52641,Active
+"Garrett, Martin and Wagner",Government,"578 Hall Mission Suite 656, Webbport, MA, USA - 69632-7076",Home,001-603-244-4406,Pending,Personal,leelarry@example.com,False,TAX29297,EIN,eq01952,Active
+"Chandler, Wilson and Palmer",Government,"93717 Renee Inlet, North Ricardoport, KY, USA - 48118-4816",Fax,356-582-9374,Pending,Sales,michael45@example.com,True,TAX50146,EIN,NI00022,Inactive
+Martinez-Stephens,Public,"8672 Heather Corner, Jamesburgh, DC, USA - 24694-8172",Office,766.279.3842,Pending,Sales,spencerjessica@example.org,True,TAX32587,PAN,UH48816,Inactive
+Gallegos LLC,Government,"975 Tyler Curve, East Johnbury, PW, USA - 57462-6604",Fax,(220)243-1062,In Review,Business,omurphy@example.com,True,TAX33633,LEI,lS60007,Active
+"Leonard, Moyer and Cabrera",Government,"1754 Erin Avenue, Fosterview, PR, USA - 83448-6493",Mobile,(865)635-7364x321,In Review,Sales,woodbrenda@example.org,False,TAX85716,PAN,zI58358,Inactive
+"Martin, Hester and Fields",Non-Profit,"5492 Valerie Drives, Wolfchester, IN, USA - 16935-7986",Fax,001-338-855-8933,Validated,Sales,ihernandez@example.org,True,TAX39229,PAN,Bl01878,Inactive
+Jones PLC,Non-Profit,"10530 Joseph Junctions, Jimmytown, FM, USA - 13155-9684",Home,4146445308,Approved,Support,murphytodd@example.org,True,TAX97971,DUNS,yr55369,Inactive
+"Henderson, Lamb and Ferguson",Private,"044 Mike Mountains, Riverafort, HI, USA - 11921-3119",Mobile,(473)698-6247,Pending,Support,woodtiffany@example.org,True,TAX43831,TIN,bZ95987,Inactive
+Rose and Sons,Partnership,"81984 Gonzalez Village, Markmouth, MN, USA - 49588-2926",Home,621-435-4662x921,Approved,Personal,ykim@example.com,True,TAX86958,EIN,EB06547,Active
+"Craig, Haney and Brooks",Non-Profit,"0862 Woods Common Suite 365, West Dylan, GU, USA - 33443-9868",Office,806.548.2438x56287,In Review,Support,paula31@example.net,True,TAX55185,PAN,BR30571,Active
+May-Stewart,Partnership,"71419 Noble Curve, Donaldton, LA, USA - 74196-1771",Fax,+1-921-950-0866x2285,Pending,Business,crystalduffy@example.org,False,TAX45030,EIN,CQ90803,Inactive
+Erickson-Harris,LLC,"096 Alison Lodge, Edwardland, NH, USA - 17163-3689",Home,(433)338-8829x1564,In Review,Business,renee68@example.com,True,TAX38837,LEI,SF46924,Active
+Reed-Lozano,Public,"18860 Shaun Trace Apt. 576, Andreaside, ID, USA - 99124-1065",Mobile,981.373.5427x8225,Pending,Sales,atkinsonmichael@example.org,False,TAX89082,PAN,tw73364,Active
+"Williams, Miller and Huynh",LLC,"12850 Paul Court, Lake Jenniferbury, IN, USA - 33365-3967",Mobile,+1-718-822-4389x1905,Validated,Sales,sarahmcdonald@example.com,True,TAX65932,GST,LK15404,Active
+Lawrence Inc,Partnership,"72732 Ian Inlet, Maryshire, AK, USA - 31263-7718",Office,676-660-9353x244,Validated,Sales,bthomas@example.net,False,TAX87750,EIN,wg17928,Active
+Simpson LLC,LLC,"97693 Maria Estate Suite 101, Lake Stacy, VT, USA - 10619-2463",Office,839.356.8392x11008,In Review,Sales,william20@example.com,False,TAX59404,DUNS,LL46918,Active
+Erickson-Mayer,Partnership,"306 Bonnie Stravenue, Lake Sarahside, VT, USA - 73327-8411",Home,407.919.0933x2428,Rejected,HR,kathy16@example.net,False,TAX93447,EIN,FY04326,Inactive
+"Logan, Serrano and Neal",Private,"1459 Brittany Throughway Suite 167, New Ralphburgh, CO, USA - 35681-6906",Mobile,729.662.3113x16094,Pending,Personal,kaylee81@example.com,True,TAX16580,EIN,Yh02996,Active
+Harper-Johnson,LLC,"019 Timothy Glen, East Lauren, MA, USA - 79453-6158",Home,582-482-4769,Approved,Personal,connoryang@example.org,False,TAX73985,PAN,kb31476,Inactive
+Price Inc,Partnership,"8757 Dean Track Apt. 588, East Anthony, IL, USA - 68235-6592",Office,001-907-313-5596x1430,Approved,Support,simmonsmichael@example.com,False,TAX57551,GST,XC29158,Inactive
+Campbell Inc,Partnership,"63063 Joseph Plaza Suite 478, New Cynthia, AS, USA - 42946-4892",Mobile,(312)485-1434x4733,Pending,Support,michaelharris@example.com,False,TAX61507,TIN,Fw02179,Inactive
+Parsons-Spence,Public,"35439 Jonathan Viaduct, Yatesstad, VI, USA - 56563-9000",Home,953-827-0673x712,Approved,HR,cory69@example.com,True,TAX93859,TIN,hD19116,Inactive
+Vance and Sons,Public,"00367 Jim Union, Yolandaside, MD, USA - 72093-4641",Fax,+1-809-727-5665x5089,Pending,Support,lindseycollins@example.net,False,TAX58358,PAN,xL59614,Active
+"Turner, Hopkins and Smith",Public,"28175 Brenda Road, East Karenborough, AL, USA - 34215-9565",Office,+1-801-634-4856x6149,Rejected,Personal,cruzwilliam@example.com,False,TAX73148,DUNS,Cf78857,Inactive
+"Gray, Martin and Meyer",Government,"748 Steven Alley, Gonzalezport, PA, USA - 12193-2434",Home,(285)489-1663,Validated,Sales,ralph94@example.org,True,TAX16650,PAN,Sv22198,Inactive
+Kelly-Weber,Public,"4492 Diane Street, Reeseville, MO, USA - 23229-6841",Home,503.733.1186,Approved,Sales,jeffrey00@example.org,False,TAX97736,DUNS,dG24297,Active
+King-Johnson,Private,"04487 Hester Ports Suite 396, Lake Ashley, MO, USA - 59761-4228",Home,(211)266-7489x85153,Validated,Business,blake51@example.com,True,TAX67472,EIN,VA00737,Inactive
+"Lee, Collins and Edwards",Partnership,"610 Jose Plain, Johnhaven, WY, USA - 81963-8282",Office,(286)816-2582x658,Rejected,HR,melissa07@example.org,True,TAX22789,DUNS,Nz75695,Inactive
+"Andrade, Cooper and Phillips",Public,"0593 Stephanie Cliff, Morenofort, TN, USA - 29337-4466",Home,+1-615-246-8233x8823,Validated,Personal,glopez@example.com,False,TAX83641,DUNS,VE68788,Inactive
+Stein-Brown,LLC,"853 Joseph Landing Apt. 102, Jessicahaven, TN, USA - 17741-9652",Office,631.903.8828,In Review,Business,dylangarcia@example.org,False,TAX98257,GST,iL87821,Active
+"Rojas, Wright and Harrington",Private,"9663 Sandra Corner Apt. 004, North Rachelview, MO, USA - 47055-1002",Office,2775747309,Pending,Support,loriwatson@example.org,True,TAX58412,LEI,ZB73550,Inactive
+"Ray, Ho and Fisher",Government,"4488 Stewart Glens Suite 514, Brianland, KS, USA - 55289-8894",Fax,519-929-1583,Rejected,Sales,mooremichelle@example.org,False,TAX12509,EIN,kN37116,Active
+Greene LLC,Non-Profit,"48540 Wilson Canyon, South Samanthachester, MD, USA - 80939-7928",Fax,001-897-390-9175x88335,Approved,Business,carol81@example.org,False,TAX65776,LEI,To92205,Inactive
+Fuentes-Oliver,LLC,"256 Kristopher River Apt. 453, Stevensonmouth, AL, USA - 86938-2367",Mobile,+1-933-909-3059x633,Rejected,Sales,ihaynes@example.org,False,TAX28054,PAN,xi79445,Inactive
+Taylor and Sons,Non-Profit,"819 Lopez Light Suite 605, Pattersonchester, ND, USA - 69465-9680",Office,+1-839-948-2592x860,Rejected,Support,sherrybarnett@example.org,False,TAX68934,GST,qU17018,Inactive
+Sharp Ltd,Partnership,"258 Mark Junction, North Michael, AL, USA - 41925-6149",Fax,881-791-5213x8469,In Review,Sales,adrian16@example.net,True,TAX99956,TIN,wy37899,Inactive
+Hayes-Richards,Public,"412 Chavez Turnpike Suite 063, Port Dawnmouth, VA, USA - 75742-6802",Mobile,+1-725-270-2336x9423,Rejected,Sales,ldavis@example.org,False,TAX83003,LEI,uU33470,Active
+Davis Ltd,Non-Profit,"1666 Anthony Glen Suite 969, Thompsonville, HI, USA - 19117-8923",Office,+1-839-756-7984x44749,In Review,Personal,williamwalker@example.org,False,TAX24036,GST,Ka51325,Active
+Holden-Riley,LLC,"66931 Richard Place, Cherryshire, GU, USA - 18351-3894",Office,707.663.7902,Approved,HR,danielle72@example.net,False,TAX13156,TIN,xj93616,Active
+Franco Inc,Government,"542 Stokes Motorway, Kruegermouth, PW, USA - 44546-3643",Home,274-964-3824x1544,Pending,Support,elizabethdavis@example.com,False,TAX35300,DUNS,eb83149,Active
+Smith-Fitzgerald,Public,"118 Perkins Common, Jessicachester, NC, USA - 62391-9243",Home,825-967-2273x215,Validated,HR,rogersarthur@example.org,True,TAX15766,LEI,Ps42975,Active
+Levy-Smith,Public,"2039 Mueller Junction, Edwardstown, VI, USA - 94360-7435",Fax,001-211-504-7084x51814,Rejected,Business,klawrence@example.com,False,TAX36926,PAN,Hq53798,Inactive
+Mayer-Watson,Private,"77935 Acosta Flats, Boydbury, IN, USA - 40626-2258",Mobile,8654581616,In Review,HR,pittschristopher@example.net,False,TAX59412,LEI,lk22796,Active
+Huber-Carter,Partnership,"460 David Springs, Meganside, MD, USA - 52926-1419",Mobile,9753390159,Validated,Support,jameszimmerman@example.org,True,TAX33276,LEI,zP68625,Active
+"Summers, Humphrey and Rosales",LLC,"218 Rodriguez Neck Apt. 667, Geraldfort, TX, USA - 60537-9282",Mobile,(394)763-9835,Rejected,Sales,madeline95@example.com,False,TAX13354,GST,rA52826,Active
+Chavez PLC,Public,"985 Nicholas Roads Suite 516, South Jacobfurt, KY, USA - 49370-6151",Fax,+1-920-854-5290,In Review,Support,rebecca94@example.com,False,TAX86570,TIN,Fa87188,Inactive
+Harris PLC,Government,"7062 Sarah Tunnel, Rodriguezshire, NH, USA - 58450-3021",Office,001-563-283-0883x522,In Review,HR,brooksmeghan@example.net,False,TAX99306,DUNS,kQ83069,Inactive
+"Romero, Miller and Stewart",Non-Profit,"2153 Patricia Union, Melissatown, ID, USA - 10114-7706",Office,262.284.1789x1998,Validated,HR,joshua61@example.org,False,TAX39835,EIN,sq09515,Inactive
+Mckinney LLC,Public,"4634 Griffin Street Suite 261, North Trevortown, FL, USA - 40601-1125",Office,894.271.0854,Validated,Business,jamie43@example.net,True,TAX46052,EIN,tF99304,Inactive
+"Williams, Brown and Combs",Non-Profit,"263 Houston Estates Apt. 109, Morganhaven, NY, USA - 26693-5319",Office,+1-355-726-9370,Approved,Support,nelsonjavier@example.org,False,TAX76086,LEI,CM37046,Active
+Moore Ltd,Private,"0751 Felicia Rest Apt. 093, Medinafort, CA, USA - 60442-6001",Mobile,728.302.6717x90590,Validated,Business,tiffany85@example.com,True,TAX53330,GST,vW04380,Active
+Fry LLC,Partnership,"4834 Flores Terrace, South Don, GU, USA - 37244-1089",Fax,+1-687-778-4936x023,Approved,Personal,andrewwoods@example.org,True,TAX20540,DUNS,Yw16720,Active
+Sanchez-Carpenter,Partnership,"06302 Andrea Parks, Jenniferville, UT, USA - 16263-3624",Office,535.940.3893x9091,Validated,Business,sarah59@example.com,True,TAX60304,DUNS,gF78763,Active
+Smith-Solis,Non-Profit,"38932 Yu Divide Apt. 567, South James, LA, USA - 99611-5780",Office,990-291-1653,Approved,Personal,ghawkins@example.com,True,TAX64520,LEI,CC33415,Inactive
+Livingston-Jackson,Public,"3811 Anthony Ports, Lake Matthew, MS, USA - 73073-3621",Fax,322.960.5306x86421,Rejected,Support,wallacemichael@example.net,True,TAX80711,EIN,lC85193,Inactive
+"Rivera, Lee and Ward",Private,"7777 Donald Greens Suite 414, Gillton, VT, USA - 95535-8640",Home,001-989-834-0775,Validated,Support,andrewlopez@example.net,False,TAX49585,PAN,cP99416,Inactive
+Hill-Garcia,Private,"47183 Christine Manor Apt. 294, Duffystad, NJ, USA - 28676-6188",Fax,377.841.1526x3009,Rejected,Personal,robinsonkenneth@example.com,True,TAX11048,GST,SQ11875,Inactive
+Perry LLC,LLC,"43154 Kaylee Fords Apt. 614, Henryfurt, VI, USA - 53897-3976",Mobile,936.941.0408x623,Approved,HR,daniel12@example.net,False,TAX24508,DUNS,An09429,Inactive
+Johnson-Brennan,LLC,"4789 Rachel Crescent, Port Jessicafurt, IN, USA - 89903-7913",Office,(305)802-3747,Approved,Sales,hullmary@example.net,True,TAX58552,LEI,hR13568,Inactive
+Taylor Inc,Partnership,"7959 Wagner Vista, New Eric, FL, USA - 59279-7145",Office,812.586.4933x4282,Validated,Sales,keith61@example.org,False,TAX18325,TIN,dz04259,Active
+Gordon Ltd,Non-Profit,"420 Pierce Park Suite 972, Phillipstad, DC, USA - 40042-2025",Fax,+1-612-809-8576,In Review,Sales,tateaustin@example.org,False,TAX96449,TIN,Xb07919,Active
+King LLC,Non-Profit,"58482 Elizabeth Estates, Hannahhaven, CT, USA - 90061-2526",Office,462-434-7011x52867,In Review,Support,jennifer05@example.org,True,TAX60534,PAN,Uo06709,Inactive
+Riggs-Curry,Public,"7165 Cook Mountains, Gabrielmouth, MN, USA - 38985-1827",Fax,319.782.9439,Approved,Personal,yolandahenson@example.org,True,TAX67427,DUNS,gL87771,Inactive
+Parker LLC,Government,"3093 Jennifer Isle Apt. 720, Littlehaven, ID, USA - 97290-2716",Home,988.797.0116x736,In Review,Personal,millerdaniel@example.org,False,TAX22904,TIN,ey75205,Inactive
+Villarreal LLC,LLC,"3408 Rivera Corner, Vanessaville, TX, USA - 70351-7829",Office,(628)734-7186,Approved,HR,garyboone@example.org,False,TAX60148,LEI,zx03848,Inactive
+"Villa, Woodard and Robinson",Government,"670 Adam Coves Apt. 074, Victorbury, CA, USA - 48914-3204",Office,(774)321-0097,In Review,HR,deannathomas@example.net,False,TAX45226,PAN,zb85781,Active
+"Parker, Woods and Holt",LLC,"350 Cherry Inlet Apt. 097, South Mariahaven, AZ, USA - 89144-8457",Home,(938)745-8308x4217,In Review,Business,sroberson@example.org,True,TAX72540,LEI,qn22869,Active
+Hamilton Ltd,LLC,"0587 Tracy Avenue Apt. 372, Jacksonfort, CO, USA - 91716-9857",Home,925.410.6425,Validated,Sales,downsashley@example.org,True,TAX54952,EIN,mu89631,Active
+Nicholson and Sons,Partnership,"6592 Allen Orchard, Daniellestad, TX, USA - 78036-1996",Home,(460)238-3137x0415,Approved,Personal,butlersheena@example.com,False,TAX48144,TIN,aO37401,Inactive
+"Thompson, Mcintyre and Jones",Private,"488 Taylor Orchard, Torresborough, AL, USA - 95107-4202",Fax,001-866-630-4816x211,Approved,HR,andreathompson@example.com,True,TAX32644,PAN,jw69966,Inactive
+Murphy-Gibson,Private,"5809 Linda Mills, West Angel, SC, USA - 72983-4449",Home,424-729-8546x44592,Pending,Support,dhanna@example.org,False,TAX35135,LEI,Hi33226,Inactive
+Stevens-Adams,Non-Profit,"67719 Terry Flats, West Vincenthaven, NH, USA - 39865-1887",Mobile,991-340-6893,Rejected,Personal,ellissarah@example.net,False,TAX30075,DUNS,dR36770,Active
+Andrews-Singh,Non-Profit,"8652 Glen Lane, Millerland, VI, USA - 60687-3967",Fax,463.847.7492x9896,Pending,Support,watsontraci@example.com,True,TAX85855,TIN,Mc13035,Inactive
+"Allen, Cross and Berry",Private,"1485 Bates Plains, Joneschester, IN, USA - 47070-9459",Home,271-855-4344x4478,Approved,Business,sandraperez@example.org,True,TAX36503,TIN,xI39324,Inactive
+"Gonzalez, Ruiz and Larson",Government,"0994 Lynn Meadow Apt. 554, East William, WA, USA - 80945-9623",Mobile,(216)576-8563,Validated,Support,aperry@example.org,True,TAX91714,DUNS,kD93819,Inactive
+"Marks, Spencer and Norton",Private,"9049 Morrow Ramp, Smithchester, MO, USA - 87455-8024",Fax,947.316.9400x87112,Rejected,Sales,jonesbrian@example.net,False,TAX83923,EIN,lQ93619,Active
+Nelson Inc,Government,"3385 Tanner Villages Apt. 858, Wanghaven, TX, USA - 95464-9425",Office,(541)708-7680,Validated,Personal,jordancatherine@example.org,False,TAX26948,EIN,aL32966,Active
+"White, Rodriguez and Waller",Public,"7043 Gabriel Lake Suite 005, Rubioview, HI, USA - 86381-6221",Home,001-389-639-3518x971,Validated,Personal,carloshenry@example.com,True,TAX65207,TIN,Fo12600,Active
+Roy PLC,Government,"46949 Weiss Brook, Zimmermanmouth, FL, USA - 32574-1095",Office,619-893-4763,Approved,Support,steven10@example.net,True,TAX11173,PAN,ZL70533,Inactive
+Clark-Gordon,Government,"73905 Mills Manors Suite 985, Lake Thomaston, VT, USA - 28252-4622",Fax,(822)962-8912x44628,Pending,Business,omar29@example.org,True,TAX42068,PAN,qS41527,Active
+"White, Martinez and Romero",LLC,"764 Owens Mountains Suite 231, Randallhaven, IA, USA - 32602-2151",Mobile,572-556-2977x5763,In Review,Sales,daymegan@example.com,False,TAX73419,LEI,YV11861,Active
+Aguilar Ltd,Public,"8717 Felicia Shoals Suite 026, Chadberg, PW, USA - 35664-9861",Office,594-292-5296x7513,Rejected,Support,rhondacontreras@example.org,True,TAX46092,PAN,ND88623,Active
+Alexander-Delgado,Non-Profit,"7393 Ross Expressway, Greerhaven, MO, USA - 59882-4453",Mobile,(765)590-6968x920,Validated,Personal,boydtimothy@example.org,False,TAX37053,LEI,vT80218,Active
+Bowen Group,LLC,"606 Lopez Trail Apt. 153, South Faith, KY, USA - 36382-3886",Mobile,(356)323-1490x337,Pending,Business,alexanderwatkins@example.org,False,TAX49989,DUNS,Wa90779,Inactive
+Waters-Chavez,Government,"54981 Amanda Skyway, North Derrick, DE, USA - 83037-9331",Mobile,+1-258-883-0275,Rejected,Personal,johnsondaniel@example.org,False,TAX85877,PAN,DU14945,Active
+"Turner, Sims and Nelson",Non-Profit,"66974 Skinner Courts Apt. 275, Henryport, NY, USA - 75582-9282",Fax,+1-356-495-8081,Pending,Support,morgandavid@example.org,True,TAX87060,DUNS,IN64855,Active
+Gray Group,Non-Profit,"585 Fernandez Mountains, Fisherburgh, KY, USA - 80937-1527",Mobile,(954)413-6819x162,Rejected,Business,perrybaker@example.net,False,TAX96307,TIN,Oy75394,Inactive
+"Williams, Vang and Parker",Private,"534 Arnold Viaduct, Christopherport, PR, USA - 16931-9238",Home,001-912-301-2514,Validated,Support,juan31@example.net,True,TAX65005,PAN,eL40974,Active
+Chang Ltd,Public,"038 Lindsey Well, Bennettmouth, IL, USA - 89035-4474",Mobile,(619)696-5621x911,Approved,Personal,zhernandez@example.net,True,TAX72798,GST,LX46129,Active
+Martinez-Miller,Public,"76034 Kimberly Meadow Apt. 225, West James, LA, USA - 48731-2166",Home,968.253.4035,Rejected,Personal,odonnellanthony@example.com,False,TAX92370,TIN,rO57593,Active
+Valentine-Thompson,LLC,"5165 Debra Bridge Apt. 621, Lewisburgh, GA, USA - 24637-2965",Office,912.248.2320,In Review,Support,greenjack@example.org,False,TAX32203,PAN,Vv67919,Inactive
+"Turner, Chapman and Schwartz",Non-Profit,"83838 Erickson Place Apt. 885, West Cynthiamouth, WV, USA - 77901-4929",Fax,(363)579-5589x6743,Approved,Business,wgarcia@example.com,False,TAX45701,TIN,lI17711,Inactive
+Holmes-Roman,Private,"54643 Cheryl Skyway, New Rebeccaside, FL, USA - 98422-8592",Home,751-508-1927,Rejected,Support,youngdavid@example.com,True,TAX49294,PAN,Tz65483,Active
+Townsend LLC,LLC,"819 David Square Suite 477, West Ryan, KY, USA - 77217-5991",Office,001-760-986-0637x2747,Approved,Business,andrewobrien@example.org,True,TAX21287,PAN,rh98426,Inactive
+Owens Inc,Partnership,"50779 Cole Brooks Apt. 523, Lake William, ND, USA - 46347-8870",Fax,+1-215-475-8130,Validated,HR,gregorygonzalez@example.org,False,TAX97709,LEI,hT20315,Active
+"Mathews, Ryan and Cowan",LLC,"090 Jesse Meadow Suite 463, Georgeview, NE, USA - 86540-1725",Mobile,865.716.4162x832,In Review,Sales,marcking@example.org,False,TAX66422,GST,EJ57108,Inactive
+"Bell, Mcclure and Acevedo",Non-Profit,"0614 Lawrence Stream Suite 875, Port Emmaview, GU, USA - 15430-9461",Fax,+1-989-831-8110x88337,Validated,Support,matthewvasquez@example.org,True,TAX77185,PAN,UZ36339,Inactive
+Hays-Griffin,LLC,"327 Tammy Isle, Bradleyland, DE, USA - 91316-8959",Office,337-667-9047x78561,Pending,Personal,gina61@example.org,True,TAX17250,GST,Mh12710,Inactive
+Simmons-Rodriguez,Private,"512 Meghan Crescent Apt. 540, Williamview, CO, USA - 31667-2912",Fax,(900)447-7861,Rejected,Personal,turnermark@example.org,True,TAX60017,GST,uI50725,Active
+"Beck, Moore and Waller",Private,"760 Clark Fork Apt. 536, Churchbury, DC, USA - 93341-9367",Home,487.630.2768,In Review,Support,aphillips@example.org,True,TAX96489,TIN,cF16412,Active
+Villanueva Group,Government,"3181 Deborah Pass, Port Daniellefort, DE, USA - 99507-9462",Mobile,323.533.9854,In Review,HR,mckenzierebecca@example.org,False,TAX80360,GST,Ua86431,Inactive
+"Johnson, Hickman and Fields",Private,"06637 Diaz Freeway Suite 040, Rebeccamouth, MA, USA - 12653-1661",Mobile,367.764.1593,Pending,Personal,medinakevin@example.net,False,TAX10600,EIN,mV84158,Inactive
+Jackson PLC,Private,"18358 Dalton Camp, New Thomaston, GA, USA - 69534-9276",Mobile,(602)935-3880,Pending,Personal,irodriguez@example.org,False,TAX84566,PAN,Ce83904,Active
+Hancock-Wiggins,Public,"5741 Welch Port, Lake Rachel, UT, USA - 13056-8809",Office,(354)446-3773x345,Validated,Business,andrewmeyer@example.org,False,TAX91346,EIN,Gc52149,Active
+Moreno and Sons,Partnership,"1752 Lindsey Orchard Apt. 965, Port Thomas, MO, USA - 68063-8823",Fax,(225)501-3987x72634,Pending,Support,shortmelissa@example.org,False,TAX49306,EIN,pE77521,Active
+"Abbott, Gibson and Young",Public,"3337 King Course Apt. 078, South Nancyberg, OH, USA - 77848-9327",Office,200-991-4948x270,Rejected,Personal,jenniferfreeman@example.org,False,TAX17635,PAN,bT03140,Inactive
+Johnson-Thomas,Public,"75034 Brown Islands, North Kenneth, NV, USA - 92974-5455",Home,+1-438-974-7928x940,Rejected,HR,emmawelch@example.org,False,TAX10505,EIN,Hs58524,Inactive
+Brooks-Hernandez,LLC,"0175 Jackson Cape Suite 046, West Aaron, MH, USA - 80698-3988",Office,691.801.7598,Validated,Sales,nrodriguez@example.com,False,TAX16056,TIN,QF25359,Active
+Rice and Sons,Government,"3882 Palmer Views Apt. 765, North Katiefort, SD, USA - 61973-8330",Fax,(361)562-3053x6281,In Review,Personal,qfrey@example.net,True,TAX41322,TIN,sN52042,Inactive
+"Lin, Blair and Lewis",Public,"54014 John Avenue, Luisview, GU, USA - 99006-9813",Mobile,6053139706,Validated,Sales,sandersbrandon@example.com,False,TAX28071,TIN,UI55186,Inactive
+"Hunter, Poole and Lopez",LLC,"5060 Hickman Ville, Laurenville, RI, USA - 39237-8999",Mobile,001-710-314-0421x9684,In Review,Sales,qlang@example.org,False,TAX22872,EIN,zy14492,Inactive
+Cantu-Stevens,Partnership,"0019 Heather Crest Apt. 974, Rodriguezland, MA, USA - 49999-1463",Fax,+1-662-581-6381,Pending,Personal,aguilarangela@example.org,False,TAX18435,PAN,lc24687,Inactive
+Parks-Olsen,Non-Profit,"816 Smith Pass Apt. 424, Sarastad, IA, USA - 90238-2350",Fax,+1-592-230-4950x6482,Pending,Support,yjohnson@example.com,False,TAX44699,GST,NG01682,Inactive
+Peterson Group,Government,"2746 Jennifer Stravenue, New Dennis, OK, USA - 75527-7042",Mobile,001-524-263-5930x4853,Approved,HR,rowesydney@example.org,False,TAX45995,GST,Yt24411,Inactive
+Harvey-Steele,Partnership,"315 Richard Mountain, West Sandraside, NH, USA - 24244-9534",Mobile,923-590-5240,In Review,Business,aharvey@example.org,False,TAX82625,DUNS,Tl67567,Active
+Mcmillan-Zimmerman,Government,"40088 Dustin Route Suite 850, New Vanessa, SC, USA - 45423-5876",Office,919-493-1611,Pending,Business,richardmolina@example.com,False,TAX40000,EIN,Bj43122,Active
+"Lozano, Carter and Davis",Government,"3940 Foster River Suite 799, West Theresaville, SD, USA - 75450-2484",Mobile,(346)332-1972x344,Pending,Sales,leachwendy@example.net,False,TAX76658,DUNS,gp88445,Active
+"Hudson, Rivera and Fernandez",Non-Profit,"6656 Justin Extension Apt. 275, Cherrystad, NJ, USA - 89364-7882",Home,+1-473-734-3500x634,In Review,Personal,davisstephen@example.org,True,TAX23863,TIN,oR01717,Active
+Huber Group,Non-Profit,"876 Villanueva Pass, Port Tonybury, AR, USA - 23287-3930",Mobile,648.258.1969,Approved,Business,laura44@example.net,True,TAX10110,LEI,se07843,Active
+"Thompson, Dudley and Ramos",LLC,"74602 Hopkins Run, West Kimberlyshire, MN, USA - 71113-7661",Fax,+1-637-998-5198x8108,Approved,HR,jenkinsjoseph@example.org,True,TAX57309,PAN,Fo99635,Active
+Long-Shelton,Government,"3436 Johnson Wells, East Juan, AR, USA - 57942-3588",Office,306.875.9439x88876,Rejected,Personal,brownjeremy@example.com,True,TAX36743,EIN,eq35113,Inactive
+Gonzalez-Higgins,Government,"8408 Veronica Springs, Kathrynberg, IA, USA - 11385-6050",Home,(766)647-0841x503,Approved,Support,craigjoel@example.org,False,TAX42216,LEI,qO53554,Active
+Shaw Inc,Private,"08271 Hunt Summit Apt. 982, Loriburgh, CA, USA - 56759-5374",Fax,(978)760-3348x4528,Pending,Personal,charlene14@example.org,True,TAX33372,DUNS,so01516,Active
+Turner Inc,Private,"968 Abigail Union, Hatfieldhaven, OR, USA - 15240-2093",Fax,730.495.9646x26279,Approved,Business,stephaniecrosby@example.org,False,TAX42851,DUNS,oc29937,Active
+Sims Ltd,Public,"042 Hill Union Apt. 600, New Melissa, ME, USA - 20270-3147",Office,(798)277-4223x1817,Approved,Support,ashley21@example.net,False,TAX21919,TIN,bD57464,Inactive
+Wade Group,LLC,"693 Ferrell Well Suite 904, Hallshire, SD, USA - 43238-9656",Fax,001-945-244-3295x8154,In Review,Personal,tiffany53@example.com,True,TAX79324,DUNS,Io31428,Active
+"Ramirez, Hughes and Rodriguez",Partnership,"08848 Jose Station Suite 358, New Eric, ME, USA - 39751-8967",Mobile,001-961-721-2737,Approved,Personal,allisonsimmons@example.org,True,TAX71234,DUNS,Eu03649,Active
+Murray-Harper,LLC,"134 Timothy Meadows Suite 173, Jonesview, OH, USA - 57602-9759",Fax,(627)217-0823,Rejected,Personal,maycaitlyn@example.org,False,TAX22852,GST,iN46466,Inactive
+"Davis, Coleman and Olson",Public,"8767 Michele Court, North Jack, AS, USA - 82596-5985",Home,272-668-3858x4728,Rejected,Support,anthonygarcia@example.org,False,TAX21675,EIN,aG33341,Active
+Lawrence LLC,Government,"69381 Howard Flat Suite 031, Port Mary, DC, USA - 92752-3948",Mobile,+1-563-320-9167x594,Approved,Sales,vargasamy@example.com,False,TAX61601,GST,oy65240,Inactive
+Green-Walker,Government,"6342 Courtney Skyway, South Veronica, TN, USA - 27996-2784",Home,+1-456-819-6150x7101,Pending,Business,harrisangela@example.net,True,TAX64221,DUNS,Cx77860,Active
+Phillips-Brown,Public,"750 Michael Port Apt. 099, Stevenland, GA, USA - 87820-4366",Office,7058459722,Approved,Personal,ssmith@example.org,False,TAX59664,EIN,yr04468,Inactive
+Lee-James,Non-Profit,"84214 Hoffman Row, North Jason, MS, USA - 44373-7578",Home,602-760-3370x66719,In Review,Sales,larryharris@example.com,True,TAX32662,LEI,GE22150,Inactive
+Stewart-Wyatt,Government,"49107 Dennis Lights, North Nicoleberg, WV, USA - 48384-2390",Fax,623.470.0989x77172,In Review,Support,uritter@example.org,True,TAX99250,EIN,fx90039,Active
+"Flores, Thomas and Murray",Partnership,"19306 West Plaza Apt. 968, Lake Davidtown, UT, USA - 14950-8685",Home,711.482.8846x2013,Pending,Support,iaguilar@example.net,True,TAX30635,PAN,tl50754,Active
+Chen-Hickman,Government,"21510 Nicole Lock Apt. 616, Tinahaven, FL, USA - 80748-2168",Mobile,+1-684-481-1091x26774,Pending,HR,calderondonna@example.org,True,TAX54835,TIN,Ms82821,Inactive
+Simon-Miller,Partnership,"6545 Samantha Prairie, South Patricia, WY, USA - 13290-5870",Mobile,(961)506-8831x729,Validated,Support,brandyspears@example.net,False,TAX86952,LEI,sd74326,Inactive
+Porter-Miller,Government,"14884 Shawn Extension Suite 409, Lake Bianca, OH, USA - 28357-5014",Home,+1-652-933-7343x87698,Approved,Support,phillipbailey@example.com,False,TAX28716,PAN,qR37290,Active
+"Moore, Zamora and Casey",LLC,"026 Chambers Fields, Julieton, TN, USA - 81287-4575",Home,+1-918-967-2069,Pending,HR,martindana@example.org,True,TAX11415,LEI,ej31483,Inactive
+Garrett-Roach,Private,"0501 Laura Branch, Bryantfurt, FM, USA - 82698-5205",Mobile,001-314-449-9407x7855,Pending,HR,reynoldssherry@example.net,False,TAX68505,GST,UL71032,Active
+Ochoa-Delgado,Government,"332 Lance Fords, East Seanport, PR, USA - 47089-4257",Mobile,426-393-6305,Pending,Personal,patelanthony@example.net,False,TAX97140,GST,fX39534,Inactive
+"Cabrera, Johnson and Mann",Public,"59011 Michael Locks Suite 485, New Tiffany, NC, USA - 54162-9883",Mobile,001-282-463-5476x869,In Review,Sales,adamwatson@example.org,False,TAX14430,PAN,pn48439,Inactive
+Smith-Bates,LLC,"01784 Lopez Shoals Apt. 707, South Ashleyberg, OK, USA - 68776-2148",Home,999.722.1136x1184,Validated,Support,obarry@example.com,True,TAX55781,LEI,KA01075,Inactive
+Rose PLC,LLC,"463 Lucas Springs, Rodgersstad, PA, USA - 46000-6918",Mobile,891-612-7516x72019,In Review,HR,vvega@example.org,True,TAX71797,PAN,nb45661,Active
+Werner and Sons,Government,"3831 Mccullough Grove Suite 560, New Amy, AL, USA - 68760-1004",Mobile,874-210-9040x523,Validated,Personal,davisjared@example.net,True,TAX79014,TIN,JO72157,Inactive
+"Rodriguez, Taylor and Stewart",Government,"0964 Valencia Orchard, Port Robert, MA, USA - 73059-1205",Fax,(801)604-7648,Approved,Sales,patrickryan@example.net,True,TAX42051,PAN,Ee76166,Inactive
+"Gonzales, Washington and Gray",Non-Profit,"243 Stephen Way, East Amychester, PR, USA - 11806-7682",Mobile,9696598814,Approved,HR,cooperrussell@example.org,False,TAX27426,LEI,yM29629,Inactive
+Johnson Ltd,Government,"8064 Ramirez Ways, North Jimmyside, WV, USA - 46870-6672",Mobile,001-401-483-5942,Pending,Support,ericramirez@example.com,True,TAX98919,TIN,UX24789,Active
+"Gomez, Wolf and Rice",Private,"951 Mcbride Curve, Kristenport, WI, USA - 21892-3228",Mobile,974.463.2089,In Review,Support,pottertroy@example.com,True,TAX10688,TIN,ye32373,Inactive
+Stewart-Larson,Private,"32849 Wallace Lock Suite 059, Port Alexander, GU, USA - 14874-4216",Office,001-268-929-2667x4864,Validated,Support,blairtheresa@example.com,True,TAX25696,GST,Gy88676,Active
+Osborn Inc,Partnership,"99454 Leonard Burg, Jamesfort, MD, USA - 78589-3994",Mobile,4963886051,Rejected,Business,cummingscynthia@example.org,False,TAX63547,GST,EE77235,Active
+Harvey-Owens,Partnership,"44817 Sonia Shores, Jamiefurt, GA, USA - 15496-1651",Mobile,+1-790-209-7863,Approved,Support,jasminfoster@example.com,True,TAX55457,DUNS,um69778,Active
+"Ramos, Martinez and Thompson",Government,"190 Quinn Isle, West Kevinchester, NV, USA - 83397-7058",Home,+1-461-760-4399,In Review,Business,ehenderson@example.net,True,TAX11152,GST,iQ71822,Active
+"Allen, Parker and Vasquez",Partnership,"26340 Barbara Ramp, Snyderton, IN, USA - 60378-3170",Office,7064885170,Rejected,HR,jennifer26@example.net,False,TAX18535,EIN,hD72631,Inactive
+Price-Williams,LLC,"593 Tammy Stravenue Apt. 958, South Kimberlymouth, MP, USA - 12155-8024",Mobile,(907)768-5108x10661,Validated,Sales,potterbilly@example.net,True,TAX25923,PAN,DW48168,Inactive
+Cook-Peters,Public,"59088 Smith Station, North Timothy, AR, USA - 28353-9864",Fax,690-683-4936x304,Rejected,Support,rmckee@example.org,True,TAX89643,TIN,GF82448,Active
+"Garcia, Ramirez and Cuevas",Public,"4885 Parks Junction, East Alexis, TX, USA - 64906-2066",Office,948-602-9234,Pending,Sales,joshua41@example.net,False,TAX60909,DUNS,Dd60706,Inactive
+Beasley-Green,Private,"1590 Sharp Highway, East Josephtown, PW, USA - 87255-5510",Home,001-765-273-3657x148,Approved,Business,kayla24@example.net,True,TAX85998,TIN,Dl17938,Active
+"Thomas, Smith and Martin",Public,"403 Michael Ford, South Erikachester, MS, USA - 87735-4302",Home,216-273-8442x1868,Validated,Personal,vallen@example.net,True,TAX72720,TIN,XZ05704,Inactive
+Hunter LLC,Public,"0151 Jessica Way, West Daniel, MS, USA - 99643-7760",Mobile,5316494094,Rejected,HR,michael42@example.org,True,TAX48140,TIN,Br71427,Inactive
+"Gonzalez, Martinez and Richardson",Partnership,"68688 Jones Drives Suite 403, East Stephenmouth, GA, USA - 15251-3286",Fax,(954)738-4004x7935,In Review,Support,michelle84@example.org,False,TAX98112,GST,nG74542,Inactive
+Watkins Inc,Non-Profit,"9820 Martinez Stream, Lake Kyle, MS, USA - 94331-2653",Office,8199391237,In Review,Support,amanda40@example.org,True,TAX53870,PAN,BR93372,Inactive
+Snyder-Ward,LLC,"6673 Martin Plaza Suite 660, West Matthewport, ND, USA - 96568-2779",Fax,001-320-510-5579x94477,In Review,Sales,browndonald@example.com,False,TAX75063,DUNS,DC11241,Inactive
+"Miller, Powell and Nelson",LLC,"76268 Cynthia Plaza Suite 105, Wrightberg, OK, USA - 72445-1372",Mobile,001-427-975-6769x421,In Review,HR,ronaldwebster@example.net,False,TAX65290,DUNS,lX70278,Active
+"Green, Campbell and Lucas",Government,"03151 Brown Circles, Smithside, OK, USA - 33667-3065",Mobile,3656172599,Pending,Business,paulward@example.com,True,TAX14717,LEI,KI38689,Inactive
+Hill-Lawson,Public,"13037 Reyes Greens Apt. 473, Lake Michael, LA, USA - 39200-8801",Office,001-479-372-5456x6140,Approved,Personal,jonathanfrost@example.net,True,TAX14363,LEI,KV60308,Inactive
+"Williamson, Boyle and Perez",Non-Profit,"41117 Melissa Junctions Suite 375, New Amber, CT, USA - 92872-9515",Home,857-731-2346x95008,Pending,HR,edwardschmidt@example.com,True,TAX85042,EIN,lZ58770,Active
+Miranda LLC,Government,"326 Hernandez Spurs Apt. 854, South Jenniferbury, MA, USA - 61088-5885",Office,8125463590,Validated,Support,oparker@example.com,True,TAX29706,DUNS,uZ68967,Active
+"Duncan, Dixon and Huang",LLC,"2085 Hayes Ranch, Normanport, AS, USA - 47531-4832",Fax,923-259-9885,In Review,Business,marquezwilliam@example.org,False,TAX84417,GST,tG25150,Active
+Vaughan-Shaw,Government,"0344 Andrews Wall Suite 674, Port Amberton, WA, USA - 98774-3515",Home,551.947.6573x628,Validated,Personal,nancy55@example.net,True,TAX50318,PAN,vd60583,Active
+Davis and Sons,Government,"81462 Wolf Island Suite 520, Port Erin, RI, USA - 14341-4568",Mobile,001-805-426-7096x090,In Review,Sales,vmiller@example.org,True,TAX61109,TIN,ad48835,Active
+Park-Zimmerman,Government,"448 Chapman Ford Apt. 898, Berrychester, VI, USA - 90630-1176",Fax,(598)805-7668x283,Rejected,Business,alyssarobinson@example.org,False,TAX61467,GST,hI67761,Active
+"Martin, White and Serrano",Public,"51936 Tammy Shore Apt. 263, New Gordon, MI, USA - 75086-6409",Mobile,315-766-7411x70512,Validated,Business,adrian14@example.net,False,TAX75201,TIN,Kc46732,Inactive
+"Butler, Khan and Johnson",Public,"827 Aguilar Overpass, Lake Amy, TN, USA - 23277-2415",Mobile,7944219632,Approved,Personal,danielsaaron@example.net,False,TAX12975,TIN,AL04783,Active
+"Ruiz, Cameron and Long",Public,"786 Lewis Crescent, New Thomasmouth, ME, USA - 73291-2209",Home,936.989.1316,In Review,Sales,jose38@example.org,True,TAX45348,PAN,Iv42462,Inactive
+Newton PLC,Non-Profit,"53673 Marshall Path, Aaronmouth, OH, USA - 47060-9924",Fax,642-777-4094x51310,Validated,Support,william98@example.com,False,TAX25923,GST,LW18382,Inactive
+Smith LLC,Private,"523 Peck Hollow Suite 083, West Davidtown, MH, USA - 88506-2805",Office,(876)578-0701x6140,Rejected,Sales,paigeflynn@example.org,True,TAX30060,GST,Xi47306,Active
+"Smith, Hamilton and Wilkins",Government,"7123 Shaffer Dale Suite 061, Duffyfort, HI, USA - 91473-5601",Mobile,+1-570-493-6263,Validated,Personal,williamsgrace@example.com,False,TAX65028,LEI,uh49237,Active
+Briggs Ltd,Partnership,"305 Castaneda Garden Suite 543, Kaiserfurt, CT, USA - 49619-8427",Home,610.448.0350x093,In Review,Business,edward67@example.com,True,TAX56965,TIN,EX94232,Inactive
+Ware PLC,Public,"8237 Christopher Stravenue, East Beverly, MI, USA - 18969-2847",Mobile,423-361-3316x549,Approved,Personal,meghan20@example.net,False,TAX19913,TIN,QW94392,Inactive
+Meyer PLC,Private,"039 Steven Locks, East Juanmouth, CT, USA - 65801-6313",Office,001-611-660-5057,In Review,Personal,robertroth@example.com,False,TAX52616,TIN,hZ90666,Inactive
+Dunn Inc,Private,"38443 Michael Haven Apt. 461, Hunterland, MO, USA - 61359-1813",Mobile,(515)445-0378,In Review,Support,bakersuzanne@example.org,True,TAX56490,TIN,FS13235,Active
+"Murphy, Jimenez and Stephenson",Public,"743 Laurie Brook Apt. 232, Riosberg, MO, USA - 20657-7892",Mobile,(417)539-5491x136,Pending,Support,vbowman@example.net,True,TAX42636,TIN,Wm97468,Active
+Richardson-Watts,Partnership,"2597 Wright Key Apt. 241, Lisaville, GU, USA - 18020-1368",Mobile,7282790256,Validated,Sales,hendricksalejandra@example.net,False,TAX20525,LEI,en95697,Inactive
+Brown PLC,LLC,"258 James Ferry, Michaelchester, PA, USA - 39384-1221",Fax,267.527.7601,Rejected,Personal,yjackson@example.com,True,TAX30052,DUNS,Eh96766,Inactive
+Moreno Inc,LLC,"5297 Herrera Union Suite 641, Newtonmouth, IL, USA - 83624-7409",Home,+1-359-338-9073x26005,Rejected,Business,mathewmurphy@example.net,True,TAX32246,LEI,sO12974,Active
+"Thompson, Wilson and Poole",LLC,"60374 Jason Dam Apt. 963, New Joe, MS, USA - 88336-5805",Fax,(977)320-6517,Approved,Business,william53@example.org,False,TAX71464,GST,On31872,Inactive
+"Guerrero, Sawyer and Smith",Private,"675 Shelly Corners Apt. 475, Mistychester, PR, USA - 32245-9758",Mobile,873.601.4553x275,Approved,Business,vwhite@example.org,True,TAX91937,EIN,Mn01841,Inactive
+Duncan-Miller,Public,"5627 Ramirez Fords Suite 695, Loriview, MP, USA - 34439-2126",Mobile,+1-827-574-4766,Approved,Personal,sthompson@example.com,True,TAX72638,PAN,Ld05217,Active
+Costa-Porter,Partnership,"55778 Thomas Coves Suite 607, South Neil, NM, USA - 47182-7791",Office,6864533238,Validated,HR,grossmichael@example.com,True,TAX51745,GST,mo87294,Inactive
+"Jordan, Dyer and George",LLC,"664 Brown Meadow Suite 895, Deborahstad, VA, USA - 66210-6890",Mobile,(441)252-5846,In Review,HR,sbraun@example.org,True,TAX80748,PAN,TI15740,Inactive
+Bright-Barnes,Partnership,"605 Bryan Forge Suite 254, Schroederhaven, RI, USA - 74382-1349",Fax,295-651-0926x6092,In Review,Personal,rileygregory@example.org,False,TAX35153,TIN,jx23425,Active
+Williams Group,Public,"6752 Jacobson Mount Suite 236, West Cindy, AL, USA - 83310-1166",Mobile,(393)470-5651,Approved,Support,bakerconnie@example.org,False,TAX11701,GST,Dz82288,Active
+Thornton-Sanders,Partnership,"264 Susan Extension, East Jeffery, NY, USA - 82695-9507",Office,(985)894-9608x81013,Validated,Support,dcarlson@example.org,False,TAX33175,PAN,Mg95470,Inactive
+Woods-Bennett,Government,"7708 Snyder Trail Apt. 365, Lake Jeromeport, CT, USA - 23708-8281",Office,872-658-3452x6569,Pending,HR,hunter45@example.com,True,TAX66923,PAN,vW83191,Inactive
+Meadows Ltd,Public,"3663 Stout Ford, South Anthony, HI, USA - 42612-2605",Home,760.269.0887,In Review,HR,oscott@example.net,True,TAX52688,LEI,OC49712,Active
+Gibbs Inc,LLC,"5800 Bonnie Plains Apt. 559, Robbinsbury, KY, USA - 75194-6359",Mobile,+1-263-630-7646x05214,Pending,Personal,jeffrey21@example.com,True,TAX86486,DUNS,Km55839,Inactive
+Davis-Rodriguez,LLC,"7729 Haley Plaza, Stevenmouth, DC, USA - 36049-1510",Office,001-396-218-6564,Rejected,Personal,zchambers@example.com,True,TAX24891,LEI,rQ45858,Active
+Mccormick-Davidson,Private,"28567 Fowler Drives Apt. 992, Port Julia, SD, USA - 11346-2537",Office,9922089098,Approved,Support,michelle04@example.org,True,TAX54404,EIN,IL28028,Active
+Morrow Group,Non-Profit,"5937 Hunt Rapids Suite 278, Scottport, PW, USA - 75831-5530",Mobile,838-515-1844,Validated,Support,jacksonalyssa@example.org,True,TAX35511,LEI,nq22729,Active
+Ramsey-Hawkins,Non-Profit,"0213 Anthony Oval Apt. 998, East Morganview, ID, USA - 90318-2598",Home,941-861-7240,In Review,Personal,kwu@example.net,False,TAX42801,PAN,Ef35662,Active
+Barber-Atkinson,Partnership,"7934 Rivera Fields, Jessicaview, SD, USA - 54501-3564",Fax,(353)486-5757x11833,Pending,Sales,larsencrystal@example.com,False,TAX32047,LEI,mg79244,Active
+"Hodge, Johnston and Chang",LLC,"325 Joseph Corner Suite 303, South Samantha, UT, USA - 10782-6775",Fax,+1-543-461-6768x4270,Pending,Sales,john46@example.net,True,TAX93150,EIN,mo65816,Active
+Velasquez-Scott,Private,"440 Young Spurs, Port Williamshire, MS, USA - 41257-7937",Home,001-809-856-3887x28741,Validated,Support,stuartstacy@example.com,True,TAX69963,LEI,jk50861,Inactive
+Hanson-Bryant,LLC,"023 Ward Crossing Suite 397, Port Scottchester, CT, USA - 82354-8942",Fax,+1-443-544-3633x189,Rejected,Sales,zwoodward@example.com,True,TAX50417,GST,JL77230,Active
+Moore Ltd,Non-Profit,"4317 Justin Village Apt. 329, East Susanside, KY, USA - 12447-3523",Mobile,7257697841,In Review,Support,ohoffman@example.net,False,TAX82661,TIN,TF36170,Active
+"Thompson, Watson and Marshall",Government,"654 Hector Roads Suite 467, Francisville, WI, USA - 99406-5508",Fax,352.461.7940,Pending,HR,cunninghamcharles@example.org,False,TAX21620,PAN,RZ70759,Active
+"Dawson, Williams and Christensen",Government,"440 Santos Harbor Suite 537, New Melissafort, NJ, USA - 79031-3117",Fax,(479)355-7222x77386,Pending,Personal,ysmith@example.net,False,TAX80244,EIN,Vy58093,Inactive
+"Wilson, Smith and Rodgers",Government,"5190 Mcmahon Keys Suite 507, West Michael, NH, USA - 38084-6779",Fax,+1-285-717-2287x401,Validated,Business,robinsontimothy@example.net,True,TAX39121,TIN,BF97055,Active
+Perry-Peterson,Non-Profit,"332 Edward Terrace, North Elizabeth, MP, USA - 90652-4236",Office,243.590.0091x9238,Rejected,Sales,wallsveronica@example.net,False,TAX27615,EIN,zE78442,Active
+Lewis-Hernandez,Public,"633 Gary Curve, North Joshua, ID, USA - 28953-8436",Mobile,214.340.6870,Pending,Support,richardarcher@example.com,True,TAX50108,GST,Yv49935,Inactive
+Gilbert-Vaughn,Government,"752 James Vista, Mullinsberg, NE, USA - 38738-1553",Office,001-584-442-8563,Approved,Personal,parkerkenneth@example.org,False,TAX90955,DUNS,Jh77730,Inactive
+"Snyder, Bean and Hayes",Partnership,"7739 Chad Station, Silvaland, MO, USA - 49986-5452",Home,001-398-310-1871x032,Approved,Sales,nicholas13@example.com,False,TAX42893,DUNS,xL94719,Inactive
+"Carter, Mcintyre and Rodgers",Partnership,"129 Caleb Route Suite 358, New Loristad, UT, USA - 17713-7064",Fax,447.315.4273x1188,Pending,Sales,daniel57@example.net,False,TAX11908,LEI,WM94368,Inactive
+Thomas-Figueroa,Partnership,"32406 Rodriguez Corner Suite 809, Ashleyburgh, CT, USA - 37873-6561",Fax,+1-781-517-9030,Approved,HR,uarias@example.org,False,TAX27701,DUNS,qi28210,Inactive
+Gutierrez-Eaton,LLC,"68336 Adam Stravenue, Greenemouth, OH, USA - 65755-1451",Home,202-466-8489x1455,Validated,Support,vpowers@example.com,False,TAX70991,LEI,lM45856,Inactive
+"Braun, Fletcher and Steele",Partnership,"667 Brown Knoll Suite 919, North Lindseybury, MT, USA - 94592-3326",Mobile,3258973000,In Review,Business,jennifer57@example.net,True,TAX23972,PAN,nG49395,Active
+Moore-Davis,Public,"28643 Mary Stream, New Fernando, FL, USA - 75586-7008",Home,226.293.5593x9825,In Review,Support,schmidtjames@example.net,False,TAX13698,GST,VB67479,Active
+Henry LLC,Government,"78489 Linda Ramp Suite 312, Danaberg, GU, USA - 21381-4757",Fax,802-650-6001x9712,Rejected,Personal,lindseyjuan@example.net,False,TAX87796,PAN,RS00483,Active
+Brown-Wilson,Private,"393 Anderson Branch Apt. 750, Andrealand, PW, USA - 26117-3449",Home,001-882-633-3642x41922,Pending,Business,james82@example.org,True,TAX56785,EIN,qF41234,Active
+Bradshaw Group,Non-Profit,"684 Amanda Drive Suite 610, Port Maria, MO, USA - 39622-6621",Fax,(263)879-6340,Rejected,HR,ronald90@example.com,True,TAX91054,EIN,PY10048,Inactive
+"Ball, Hayes and Warren",Private,"964 Dennis Falls, Robertschester, KY, USA - 87024-5902",Home,342-627-0031x1337,Validated,Business,thomasjoseph@example.org,False,TAX94419,PAN,DL73657,Active
+Foster-Hernandez,LLC,"7712 Kelly Ferry, Fosterbury, DE, USA - 63727-8679",Home,777.612.0686,Rejected,HR,brittanypeck@example.net,True,TAX38578,GST,cX49813,Inactive
+"Chambers, Ward and Collins",Partnership,"54653 Gibson Harbor Suite 624, Larsenville, IN, USA - 30467-4797",Home,266-816-4492x902,Pending,Business,tonydaugherty@example.com,False,TAX79564,TIN,tU55586,Active
+Perez-Cook,Government,"14694 Maddox Common Suite 507, Yangshire, GU, USA - 69268-2954",Fax,001-666-921-6797x100,Approved,Sales,dduncan@example.net,True,TAX10433,LEI,kZ57130,Active
+Clark-Thomas,Partnership,"512 Austin Lodge, North Ethan, KS, USA - 88704-8462",Mobile,648-235-5867,Rejected,Personal,vingram@example.org,False,TAX72664,GST,hZ18784,Active
+Pena LLC,Non-Profit,"6960 Howard Mountain Suite 164, Mullinsfurt, TN, USA - 31733-8009",Office,(429)211-1675x94462,In Review,HR,scotttodd@example.net,True,TAX67841,EIN,lf94065,Active
+"Rogers, Howard and Coleman",Government,"933 Martinez Burgs Suite 457, East Matthew, KY, USA - 53652-3005",Home,921.867.2673x70951,Approved,Personal,everettkelsey@example.com,True,TAX64843,PAN,On04395,Active
+Hartman-Parks,Partnership,"364 Kelly Villages, Port Jennifer, ND, USA - 43492-1864",Home,001-845-968-3433x74489,In Review,Sales,christopherdorsey@example.net,True,TAX37619,GST,OF89854,Active
+Gomez and Sons,Public,"20993 Wanda Motorway Suite 065, Paulbury, MA, USA - 50581-3818",Mobile,001-352-887-6182x956,Approved,Business,halvarado@example.org,False,TAX89731,GST,Xi70867,Inactive
+Mayer PLC,Partnership,"8694 Ward Unions Apt. 393, South Brittany, VI, USA - 78520-5210",Office,997-561-2764x38171,Approved,HR,jeffreygonzales@example.net,True,TAX50197,DUNS,Es47409,Active
+"Goodwin, Thomas and Marsh",Public,"67941 Peters Knolls, Edwardsport, WY, USA - 94862-8152",Home,6848235158,Rejected,Personal,diane72@example.com,False,TAX44237,GST,cf49985,Inactive
+"Thornton, Robbins and Whitaker",Public,"22526 Mark Views, Bruceland, SD, USA - 59556-2345",Mobile,(371)400-6488x51285,Pending,Business,dferguson@example.org,True,TAX15321,PAN,QL91696,Inactive
+Boyer Inc,Partnership,"39384 Michael Spring Suite 650, Suzanneside, DC, USA - 17782-1121",Fax,823.979.3805,Validated,Support,brooke49@example.org,False,TAX29623,LEI,uL95190,Active
+Tyler-Garrett,Public,"814 Derek Locks, Heberthaven, DE, USA - 69161-2262",Office,+1-917-926-7969,In Review,HR,fletchermicheal@example.net,False,TAX53495,DUNS,sr28930,Active
+Newman-Morgan,Private,"26019 Chelsea Locks Apt. 453, Crawfordmouth, AK, USA - 43032-5957",Fax,001-710-901-6078x85544,Validated,Sales,christopher03@example.org,True,TAX83141,TIN,SH66328,Active
+Hernandez PLC,LLC,"85390 Adams Knoll Suite 046, Lake Reneeview, VT, USA - 76515-5659",Fax,(577)848-3490x917,Rejected,HR,elizabeth43@example.net,True,TAX33497,TIN,nv02731,Active
+Holt Ltd,Private,"8287 James Plain, East Christinaside, OR, USA - 98953-1072",Mobile,698.941.6010,Pending,Support,mfoley@example.net,False,TAX44248,GST,fT99419,Active
+Hunter PLC,Public,"15775 Sims Lane, Robertport, NE, USA - 41592-9069",Office,2517384895,Pending,Personal,rebecca18@example.org,False,TAX21566,EIN,Kf24473,Active
+Nguyen Group,Private,"631 Michelle Gardens, North Jason, GA, USA - 49895-8902",Mobile,935-627-8233,Rejected,HR,john80@example.com,True,TAX71496,TIN,bs32974,Inactive
+"Brown, Massey and Murphy",Partnership,"83472 Suzanne Island, Dianaview, DE, USA - 51702-6914",Fax,6435125059,Pending,HR,ryansanchez@example.org,False,TAX62184,DUNS,oy74521,Inactive
+Winters Inc,LLC,"854 Susan Ridge Suite 990, West Patrickton, AK, USA - 28780-6923",Mobile,001-352-343-6236x734,Approved,Personal,alyssa93@example.net,False,TAX25404,EIN,IO41087,Active
+Trevino Inc,Non-Profit,"083 Frye Crescent, Port Jenniferbury, MN, USA - 23015-5088",Office,3337523682,Approved,Personal,humphreytamara@example.org,False,TAX79513,EIN,GR40710,Inactive
+Hatfield-Stevens,Partnership,"8693 Hardy Burg, East Lauraport, VA, USA - 75844-1569",Mobile,5037076327,In Review,Support,webbkevin@example.com,True,TAX77977,LEI,Xi88051,Inactive
+"Woods, Smith and Kennedy",Partnership,"7779 David Fall, Cherylburgh, FM, USA - 89922-2943",Home,6657299746,In Review,Support,obrienalison@example.org,False,TAX29959,GST,fX34710,Inactive
+Blevins LLC,Non-Profit,"13848 Jacobs Lane Apt. 532, Bethview, WA, USA - 52711-8174",Mobile,001-437-851-2161,Approved,Sales,floresmichael@example.net,True,TAX64283,GST,fK24731,Inactive
+Harris-Kelly,Public,"679 Pamela Well Suite 825, Stevenville, RI, USA - 27564-9272",Home,(254)589-0904,Validated,Support,peterscheryl@example.com,True,TAX31615,GST,YA50561,Inactive
+Holmes Inc,Private,"128 Anderson Shoals Apt. 345, North Patrick, MN, USA - 70088-5311",Office,001-581-605-2250x4981,Validated,Support,fernandezxavier@example.org,False,TAX32843,GST,Oi45005,Active
+"Myers, Thomas and Tucker",Public,"33163 Maria Harbor, Hunterside, MA, USA - 21231-1815",Mobile,(448)559-5548,Validated,Personal,delgadomolly@example.org,True,TAX18826,EIN,jV62305,Active
+Allen Group,Partnership,"26645 Seth Highway, West Katherine, WA, USA - 46903-9494",Home,357.519.1823x034,In Review,HR,sburnett@example.org,True,TAX72919,EIN,mp87625,Active
+Carter-Davis,Public,"4289 Ramirez Mountain Apt. 905, Port Anthony, OR, USA - 86928-9260",Fax,001-987-329-3554x10381,Approved,Support,monica15@example.com,False,TAX88703,GST,Pt81568,Active
+"Harper, Jordan and Miller",LLC,"1620 Atkinson Ferry, New Lisaville, KS, USA - 49944-9946",Home,001-282-719-5145,Pending,Support,murphyashley@example.org,True,TAX86701,PAN,AA73372,Active
+Curtis-Fernandez,Government,"2771 Smith River Apt. 747, South Anthony, OR, USA - 84816-3528",Mobile,537-544-5877x90203,In Review,HR,amy59@example.net,True,TAX83958,GST,IA57020,Inactive
+Rhodes PLC,Private,"62043 Jones Parks Apt. 860, Hollandmouth, NC, USA - 53840-3433",Office,+1-946-338-6186x53168,Rejected,Business,nguyenkristen@example.net,False,TAX25858,GST,FW97989,Inactive
+"Rubio, Johnson and Mccarthy",Public,"409 Eugene Mews Apt. 156, Brewerside, CT, USA - 85296-7749",Fax,001-281-629-9768x6368,Rejected,HR,kristen95@example.com,True,TAX86066,LEI,Nl69905,Active
+Gordon-Vaughan,Partnership,"00238 Douglas Park Suite 531, New Shannon, MP, USA - 24212-5272",Mobile,(946)228-7607,Rejected,Business,stewartjacob@example.net,True,TAX10392,PAN,zS21378,Inactive
+Mccoy Ltd,Private,"26394 Spence Spur Suite 133, Port Tarashire, PA, USA - 89806-2801",Fax,001-246-684-5701x00748,Pending,HR,victorbailey@example.com,False,TAX51073,DUNS,wk68339,Inactive
+Jenkins-Mccall,Government,"810 Nicholas Ports, Williamsside, ND, USA - 13440-4277",Office,8398291956,In Review,HR,jeff92@example.net,True,TAX68102,GST,lf27930,Inactive
+"Kim, White and Miller",Public,"93068 Lopez Vista Apt. 469, West Sara, MD, USA - 31768-1539",Office,294.770.6320x3048,Approved,Support,ballardderrick@example.com,False,TAX35014,LEI,oS00114,Active
+Hart PLC,Partnership,"542 Jones Ford Apt. 360, Ronaldborough, MP, USA - 82946-2038",Mobile,001-878-984-6733x45806,In Review,Sales,transhawn@example.org,True,TAX38643,GST,aQ54496,Inactive
+"Walker, Gutierrez and Bruce",Non-Profit,"429 Robinson Way Apt. 764, New Haleymouth, TN, USA - 42842-8864",Home,475.551.6263,Pending,HR,zacharymendoza@example.net,True,TAX66511,PAN,IC51031,Active
+"Brown, Fowler and Cherry",Public,"103 Watts Canyon, Murilloburgh, GA, USA - 24545-4113",Office,001-853-306-0247,Pending,Sales,bradley56@example.com,True,TAX27328,DUNS,Sf61443,Inactive
+Anderson-Conley,Government,"91595 Randall Burgs, South Carolynside, AK, USA - 17932-2605",Fax,3379381510,Validated,Sales,jeremyward@example.net,True,TAX26702,DUNS,mP82921,Active
+Chambers-Gonzales,Private,"6990 Ramos Club Apt. 009, Thomasfurt, WI, USA - 20648-2663",Fax,+1-959-814-3527x390,Pending,Support,jacqueline37@example.net,False,TAX62616,DUNS,aG00410,Active
+Doyle-Figueroa,Private,"253 Denise Mission, Faulknerton, KS, USA - 60248-6263",Mobile,4696687067,Pending,Sales,robert22@example.net,True,TAX65670,TIN,oa40266,Inactive
+Bray Inc,Government,"13518 Daniel Heights, Chambersmouth, WA, USA - 53887-8177",Fax,(596)512-0591,Approved,Sales,charlene20@example.net,True,TAX23536,EIN,cb79038,Inactive
+Frank-Mitchell,Private,"3155 Victoria Groves Apt. 638, Lozanoville, AZ, USA - 55207-1438",Fax,254-467-8343,Approved,Business,fwilson@example.com,True,TAX49657,EIN,sS70807,Active
+Ramirez-Bryan,Non-Profit,"61121 Yvette Causeway, Brownport, DC, USA - 21846-1269",Home,(709)908-9574,Approved,Support,heatherwright@example.com,True,TAX94179,DUNS,qx55457,Inactive
+Gross PLC,Partnership,"384 Mary Springs, South Anthony, NY, USA - 72940-5750",Mobile,6694013823,Pending,HR,gregory78@example.net,False,TAX65761,EIN,Tp92393,Inactive
+Rojas-Ross,LLC,"4814 Susan Brook, South Shawn, NV, USA - 52192-3530",Home,465.606.2782,Validated,Support,annettehanson@example.net,True,TAX46074,TIN,Ui30030,Inactive
+"Reed, Macias and Kelley",Partnership,"9311 Eduardo Extensions, Levyfort, WI, USA - 16976-3125",Mobile,582-228-7289,Validated,Business,rachel65@example.com,True,TAX99029,GST,JU98012,Inactive
+Murillo-Thompson,Private,"80519 Rodriguez Mission Suite 151, Hernandezberg, MP, USA - 71389-9600",Mobile,880.862.5324x1112,In Review,Sales,evansjeremy@example.net,False,TAX87080,EIN,oa57842,Active
+"Parker, Parker and Allison",Partnership,"473 Sloan Locks, Port Deniseton, MP, USA - 39508-8415",Office,+1-481-712-5262,Approved,HR,josephdurham@example.com,False,TAX94270,EIN,zf11322,Inactive
+"Finley, Lee and Stewart",LLC,"1188 Lynn Land Suite 683, Joannbury, GU, USA - 47363-8970",Office,001-995-634-7859,In Review,Personal,james86@example.com,True,TAX25695,EIN,YB52665,Inactive
+Barton PLC,Partnership,"2506 Perez Gardens Suite 530, Kennedytown, PR, USA - 23258-6931",Mobile,711-280-4512x5460,In Review,Personal,daniellestevens@example.net,False,TAX94107,LEI,NK73586,Active
+Barker-Kim,LLC,"15385 Morgan Glens Suite 665, Mcclureville, TN, USA - 38760-5489",Fax,996.277.8636,Rejected,Personal,matthewmolina@example.org,False,TAX37559,DUNS,XB75007,Active
+Smith-Henderson,Partnership,"6496 Amy Plain Apt. 215, Torresstad, MN, USA - 79637-3683",Office,001-990-750-2074,Rejected,Support,thompsonkatherine@example.net,True,TAX13907,EIN,vu86080,Inactive
+Brown Ltd,Government,"671 Mcgee Fort Suite 783, Karenburgh, TX, USA - 49110-4494",Office,+1-432-330-1380,Approved,HR,mollyrice@example.org,False,TAX28867,GST,DI25866,Active
+Dunn-Gregory,Government,"81652 Douglas Ferry, Richardmouth, ID, USA - 29192-9561",Office,(449)467-0684,Validated,Personal,nlevine@example.net,False,TAX81481,EIN,gY30869,Inactive
+"Barrett, Perez and King",Partnership,"450 Harris Locks Apt. 271, Rodriguezfort, ME, USA - 53373-8290",Office,691.864.4330x272,In Review,Support,garciaronnie@example.org,True,TAX84408,PAN,ml43153,Active
+Miller PLC,Private,"358 Chapman Loop, Anaport, HI, USA - 70098-2045",Home,734.461.1415x23620,Validated,HR,kristin13@example.net,False,TAX51576,DUNS,uw27276,Active
+Moore Ltd,Government,"1939 Keith Square Suite 237, New Heidi, DE, USA - 39448-9130",Fax,623.870.7846,Validated,HR,gmanning@example.org,True,TAX71309,GST,uj42587,Active
+"Cain, Quinn and Carrillo",Private,"017 James Trafficway Suite 659, Lake Hannah, OH, USA - 39828-5630",Mobile,296.507.6416x682,In Review,Personal,tiffanygibson@example.org,True,TAX78797,GST,fo27532,Active
+"Thomas, Cervantes and Ford",Non-Profit,"891 Dawn Viaduct, South Tamara, MA, USA - 92516-6999",Mobile,+1-994-612-4551x644,Rejected,Sales,usuarez@example.com,True,TAX63714,GST,rI14070,Active
+Allen-Moore,LLC,"827 Rogers Fork, West Dustinhaven, CA, USA - 25209-6358",Fax,3085049486,Rejected,HR,brendamitchell@example.com,True,TAX17365,PAN,sU18362,Active
+Jones and Sons,Partnership,"673 Scott Motorway Apt. 840, Rebeccafurt, PR, USA - 43235-5171",Office,725-628-3272,Validated,Personal,jessicawilliamson@example.org,True,TAX55836,PAN,Sc29107,Active
+Green PLC,Partnership,"77715 Alexis Viaduct Suite 917, South William, PW, USA - 26084-6673",Office,(428)283-8302,Validated,Sales,nicholslauren@example.com,False,TAX77691,PAN,ED02347,Active
+"Gibson, Poole and Carpenter",Government,"0079 Kelley Dam Suite 484, Ashleyburgh, KY, USA - 84228-9287",Home,964-374-7990x59418,Validated,Sales,shannon00@example.org,False,TAX86576,DUNS,SP78736,Active
+Montgomery-Hansen,Non-Profit,"677 Schneider Locks Suite 441, Leachmouth, NV, USA - 40918-8202",Fax,481-474-9085,Rejected,Sales,meghan57@example.net,False,TAX42087,PAN,bP31416,Inactive
+"Kelly, Adkins and King",Non-Profit,"6164 Lee Circle, East Mary, IA, USA - 28260-7185",Office,001-784-390-7302x47143,Rejected,HR,erinwilliams@example.org,True,TAX45160,EIN,sv12936,Inactive
+Ramirez-Harris,Public,"348 Simmons Plaza Apt. 151, West Dominicfort, IA, USA - 45615-2964",Mobile,578.358.8575x722,Rejected,HR,bbrowning@example.org,True,TAX62457,PAN,YM00077,Inactive
+"Zimmerman, Bauer and Diaz",Public,"00422 Tammy Island Apt. 789, Lake Amymouth, RI, USA - 88872-9756",Fax,4672177669,Validated,Sales,rsmith@example.net,False,TAX42138,PAN,GE65343,Inactive
+"Baker, Fuentes and Davis",Non-Profit,"7251 Wright Islands, Port Amanda, VA, USA - 78385-4273",Home,001-536-409-3454x430,Rejected,Sales,rbeasley@example.org,True,TAX56435,DUNS,rD38812,Inactive
+Snyder-Martin,Government,"5954 Leonard Orchard, Desireebury, MP, USA - 53357-9755",Mobile,3976206660,Pending,Personal,christopherwang@example.com,False,TAX54019,PAN,bz44931,Active
+"Deleon, Johnson and Rivas",LLC,"288 Robert Extensions Suite 128, Lake Benjaminfort, PR, USA - 99620-1278",Mobile,290-968-5770x191,Validated,Sales,rogersjose@example.net,True,TAX72493,EIN,fg98499,Active
+Yoder-Bryant,Non-Profit,"80588 George Inlet Apt. 910, Shannonport, AR, USA - 72263-5021",Mobile,001-779-799-0280x68272,Pending,Business,bethany98@example.com,True,TAX70606,PAN,pe35258,Inactive
+"Parrish, Salazar and Wiggins",Public,"91322 Kevin Loop Suite 982, Caitlynhaven, IL, USA - 55714-5703",Fax,479-657-2001x595,Approved,Support,chad77@example.org,False,TAX71296,EIN,ZC43919,Active
+"Terry, Carrillo and Flores",LLC,"220 Washington Islands Suite 727, Duranville, VA, USA - 31153-4538",Office,4446480762,Approved,Business,hollywilson@example.com,True,TAX12057,PAN,Rj90896,Inactive
+Ramirez and Sons,Private,"12052 Curtis Square Apt. 762, North Sandrahaven, GU, USA - 87769-4754",Fax,(946)368-8387,Pending,HR,marquezevelyn@example.com,False,TAX98052,EIN,Gu28571,Active
+Hood PLC,LLC,"24446 Cuevas Grove Apt. 742, North Oscar, OR, USA - 93282-9911",Mobile,001-989-464-9940x50542,Rejected,Sales,ewinggina@example.com,False,TAX53761,PAN,vX99493,Active
+Lara-Jones,Government,"05955 Olson Circle Apt. 769, Port Amanda, UT, USA - 47754-1353",Home,(674)830-5167,In Review,Business,amberwood@example.net,False,TAX16845,LEI,UL41922,Active
+"Goodman, Gomez and Jackson",Public,"350 Jeremy Ridges Suite 146, Burtonborough, CO, USA - 57052-5341",Fax,3986616398,In Review,Sales,sharon52@example.net,True,TAX52463,LEI,la70795,Inactive
+"Allison, Hopkins and Silva",Government,"6559 Gardner Knolls Apt. 410, Robertsshire, KS, USA - 45873-6490",Office,001-724-953-2960x8906,Approved,Personal,huffmansusan@example.com,True,TAX49286,EIN,OI37089,Active
+"Butler, Mata and Beck",Non-Profit,"88974 Mary Vista, Port Stephenview, ID, USA - 90063-3873",Mobile,453-242-4065x76732,Pending,Support,sharoncarter@example.com,True,TAX27858,DUNS,ux95651,Inactive
+Mcneil-Yates,LLC,"7549 Michael Shoals Apt. 155, Douglastown, ID, USA - 73418-6693",Home,726-252-4009,Validated,Support,lindsayscott@example.com,False,TAX38442,PAN,SY97933,Inactive
+Hernandez Ltd,LLC,"343 Trevino Prairie, Jefferyhaven, MO, USA - 15963-9141",Home,822-776-1024,Approved,HR,janiceking@example.net,False,TAX92985,LEI,TE30141,Inactive
+Newton-Perez,Government,"0675 Bradley Prairie, North Jessicamouth, GA, USA - 83652-1312",Home,522.328.5192x31384,In Review,Business,gillespiecorey@example.org,True,TAX24058,GST,VJ49426,Active
+Welch-Campbell,Private,"8707 Jamie Parkway, New Thomasburgh, AS, USA - 99078-7656",Office,719-815-4665x2438,Pending,Sales,gregory93@example.com,False,TAX74587,DUNS,Uo33950,Inactive
+Howard Ltd,Non-Profit,"712 Melissa Field Apt. 149, East Matthew, AL, USA - 16254-8922",Fax,7387836537,Pending,Support,janet38@example.org,True,TAX27485,TIN,rf54820,Inactive
+Bates Group,Government,"0726 Vincent Islands Suite 662, Donaldview, KY, USA - 32685-3172",Home,527.785.9794x7086,Approved,Business,ujohnson@example.com,True,TAX59986,GST,ae17973,Inactive
+Hughes-Kennedy,Public,"47238 Tyler Streets, Gilbertfurt, MS, USA - 23135-7825",Home,001-572-445-0411x65546,Pending,Personal,morrismichaela@example.net,True,TAX64274,GST,QE37902,Inactive
+Thompson Ltd,Government,"62699 Jillian Shoals Apt. 719, New Kari, WI, USA - 59450-5611",Home,001-990-924-5633x1981,Rejected,HR,hoodmolly@example.com,True,TAX91080,LEI,SH54525,Inactive
+Collins Inc,Private,"96726 Victor Avenue Suite 460, Boydland, PA, USA - 39281-8182",Fax,(710)934-3873x896,Approved,Personal,chelseawilliams@example.net,True,TAX34311,GST,NS77552,Inactive
+"Walker, Castillo and Luna",Government,"00003 Curry Springs, Gardnerfort, UT, USA - 24754-6971",Mobile,932-920-0358,Pending,Business,tylermontes@example.org,False,TAX99713,EIN,wo37782,Inactive
+Combs Ltd,Partnership,"274 Jason Crescent, Jordanburgh, MN, USA - 57977-9640",Fax,(494)629-4615,Approved,HR,spencergriffin@example.net,False,TAX12547,DUNS,iq28823,Inactive
+Townsend-Oneal,Government,"5865 Bradley Points Suite 692, Lake Keithborough, UT, USA - 56552-3762",Home,9132260811,In Review,Sales,adrianskinner@example.org,False,TAX65153,LEI,EG20417,Inactive
+Santos-Baldwin,Partnership,"44076 Rebecca Stream, Lake Christyhaven, FM, USA - 96762-3624",Fax,(521)953-3217,In Review,Business,jamesanderson@example.org,False,TAX23853,DUNS,xo95192,Active
+Collins Ltd,Partnership,"9513 Dustin Gardens, Dudleystad, WY, USA - 80688-9834",Mobile,568-228-7879x7891,Pending,HR,adrian19@example.net,False,TAX88652,GST,PZ93568,Inactive
+Mcdonald-King,Private,"295 Smith Manors, New Dawn, UT, USA - 87593-6624",Fax,(843)432-6245x07394,Pending,Support,herreraellen@example.net,False,TAX70427,TIN,PZ67007,Inactive
+Dean-Mcguire,Public,"90509 Wolf Island Suite 617, Margaretburgh, MO, USA - 97114-3454",Office,001-436-657-3382x302,Pending,Personal,pmiller@example.org,True,TAX58544,TIN,ue14281,Inactive
+"Walton, Walker and Gill",LLC,"703 Jackson Throughway Suite 623, North Davidhaven, CO, USA - 98323-6043",Home,(531)208-2872,Pending,Sales,veronica75@example.net,True,TAX72982,LEI,XG03568,Active
+Wise Inc,Government,"348 Hamilton Ways Suite 807, Port Adam, DC, USA - 22458-5663",Home,904-750-9522x57130,Validated,Personal,pamela47@example.net,False,TAX66395,LEI,MW60930,Inactive
+Mckinney LLC,Private,"6322 David Coves Apt. 228, Hillhaven, MN, USA - 72454-7754",Mobile,894-566-1162,Validated,Sales,michaelgonzalez@example.com,True,TAX22105,LEI,Ia78357,Inactive
+"Johnson, Russell and Perkins",Public,"10183 Wilson Skyway, Leonardview, AR, USA - 46131-9736",Office,645.712.2586x06545,In Review,Business,uking@example.com,True,TAX88326,GST,Jp85417,Active
+Chandler-Hurst,LLC,"8906 Daniel Inlet, South Makayla, GU, USA - 44183-7784",Fax,(822)283-9474,Validated,Business,obarnes@example.net,True,TAX88316,TIN,Ed05955,Inactive
+Williams-Thompson,Partnership,"721 Sawyer Corners, West Reginaburgh, KY, USA - 36966-4522",Fax,843.325.2021,In Review,Sales,myersmary@example.net,True,TAX87676,LEI,Lz29752,Inactive
+Barr-Meadows,Public,"0940 Tucker Isle Apt. 663, Patriciaport, PA, USA - 59917-7211",Home,+1-238-312-6075x05193,Approved,HR,pzimmerman@example.com,True,TAX67104,EIN,JW62136,Inactive
+"Dillon, Mcconnell and Sanchez",Public,"76863 Reyes River, Brandonview, PR, USA - 19870-5052",Home,(472)612-3690x730,Pending,Business,jennifer66@example.org,True,TAX27402,LEI,ya52491,Inactive
+"Richards, Warner and Gill",Partnership,"27664 Emily Heights Apt. 866, Markston, NV, USA - 99996-7311",Fax,001-831-409-3059x51725,In Review,Sales,alyssadudley@example.org,True,TAX23985,EIN,tC68258,Inactive
+"Sullivan, Williams and Acevedo",LLC,"8528 Ayala Summit, Villegasberg, MO, USA - 22233-4775",Fax,001-351-207-6055,Rejected,Personal,codyfitzgerald@example.com,False,TAX98066,TIN,uW37976,Inactive
+Henderson LLC,Partnership,"413 Rodriguez Track Apt. 113, West Jasonmouth, OR, USA - 37475-1260",Fax,441-835-1848x444,Validated,HR,mitchellsarah@example.net,True,TAX37074,GST,ii70865,Active
+Jones and Sons,Non-Profit,"0239 Alisha Lane, Port Jademouth, DC, USA - 67344-9747",Mobile,943.685.3611,In Review,Sales,kathleen25@example.com,True,TAX37642,TIN,ue27712,Inactive
+Nielsen-Stevens,LLC,"308 Kaitlyn Harbors Apt. 077, Lake Crystalport, MS, USA - 38179-2109",Home,296-639-0686,In Review,Personal,michellecaldwell@example.net,True,TAX22728,TIN,JF54019,Inactive
+"Fischer, Hicks and Sparks",LLC,"637 Mann Centers, West Shawnafurt, AZ, USA - 58146-7396",Home,(292)328-1534x40998,Validated,Sales,whitesusan@example.org,True,TAX79184,PAN,rG88137,Inactive
+"Mathis, Willis and Oconnor",Non-Profit,"978 Susan Mount Suite 643, North Patrickberg, NY, USA - 63236-3869",Fax,001-692-800-9872,Approved,Sales,agray@example.org,False,TAX53099,LEI,fi13281,Inactive
+"Dennis, Roth and Thomas",LLC,"903 Glenn Road Suite 014, North Carol, CA, USA - 58192-7331",Mobile,587.408.3882x97415,Pending,Personal,hernandezmatthew@example.net,False,TAX76810,PAN,ju45862,Inactive
+"Wood, Lloyd and Coleman",Private,"02860 Smith Burgs Apt. 996, East Heather, MP, USA - 66884-4209",Office,001-299-680-5816x29060,Pending,Personal,debra52@example.net,False,TAX47265,TIN,id03349,Active
+"Graham, Campbell and Gomez",Private,"8785 Elliott Coves Apt. 210, Johnsonborough, AS, USA - 80570-5171",Home,(590)685-7512x188,Rejected,Sales,nicole06@example.org,True,TAX40591,LEI,Wr22752,Active
+Carroll-Ramos,LLC,"59194 Jim Trace Apt. 202, Jacksonport, NM, USA - 41387-2300",Home,+1-869-642-9894x04790,In Review,Personal,fashley@example.org,True,TAX66926,LEI,LX04044,Inactive
+"Green, King and Robinson",Private,"154 Matthew Views, Jimshire, HI, USA - 86363-4135",Home,5884357821,Rejected,Support,ssmith@example.org,False,TAX93409,PAN,yL64051,Active
+Smith-Reynolds,Private,"55004 Ashley Glens, Jodymouth, TN, USA - 91045-6995",Office,(725)506-5801,Validated,Personal,brandonsmith@example.org,False,TAX91366,PAN,fl68751,Active
+"Hayden, Gonzalez and Hayes",Public,"874 Elizabeth Garden, Phillipsberg, MS, USA - 99088-2555",Mobile,7297551786,Validated,Personal,hannahmiller@example.org,True,TAX36226,GST,ZF81855,Active
+Stevens PLC,Partnership,"546 Pitts Ranch Apt. 638, Lake Dylan, MS, USA - 96195-7082",Home,(616)630-7097x88571,Rejected,Business,bettypowell@example.net,True,TAX11346,PAN,WZ58622,Active
+Koch PLC,Private,"9255 Grimes Route Apt. 318, Mendezburgh, TN, USA - 32506-4928",Mobile,797.550.9841x631,Rejected,Personal,slowe@example.com,False,TAX15313,PAN,EG78948,Active
+"Tate, Johnson and Lawrence",Public,"2523 Lisa Pass, South Michelle, MA, USA - 30747-7240",Mobile,001-603-832-2608x06988,Rejected,Sales,fosterjoseph@example.org,False,TAX54246,GST,HY50281,Active
+Miller-West,Government,"82808 Emily Rapids Apt. 430, Velasquezport, ND, USA - 31799-9581",Fax,(312)503-3357x7801,Pending,Personal,gaineswilliam@example.net,True,TAX80385,GST,qs87926,Inactive
+"Webb, Smith and Weber",Public,"306 Amy Place Apt. 910, Matthewville, SD, USA - 31814-3589",Mobile,381-595-5735x63241,Validated,Business,baileymichelle@example.com,False,TAX98721,PAN,WI94531,Inactive
+Little-Harris,Partnership,"259 Martinez Squares Suite 850, Montoyaland, SC, USA - 75801-8513",Home,001-915-902-3742x134,Approved,Sales,fordelizabeth@example.net,False,TAX42720,GST,ls62144,Active
+"Williams, Holden and Smith",LLC,"1176 Gail Corners, Sheltonfort, WV, USA - 78297-6614",Mobile,539-505-1386,Pending,Personal,jesse57@example.net,True,TAX29203,GST,HJ59957,Inactive
+West-Phillips,Government,"63057 Richard Lakes, North Joel, FL, USA - 68802-4444",Office,(916)463-1058x66312,Approved,Personal,ujohnson@example.org,True,TAX64526,GST,Ye30340,Active
+Cordova-Jackson,Public,"29195 West Fields Suite 407, Gavinport, ME, USA - 59548-5314",Mobile,+1-640-473-4093x958,Pending,Business,christina19@example.net,False,TAX65736,EIN,Eo21828,Inactive
+Phillips-Leon,Government,"3446 Smith Crescent, Lake Alexander, NM, USA - 48878-9388",Mobile,(496)373-5538x636,Pending,Business,aliciamartin@example.net,True,TAX43993,TIN,dU82793,Active
+"Brown, Johnson and Johnson",Private,"72006 Stephanie Locks, Lake Jesse, WI, USA - 44187-8475",Fax,+1-841-759-4873x6437,Approved,Business,james41@example.org,True,TAX39427,TIN,xl77170,Inactive
+"Olson, Williams and Vazquez",Partnership,"537 Atkins Loaf, Lake Neilborough, PW, USA - 93430-9777",Office,001-491-895-5939,Validated,Support,fhood@example.com,True,TAX62684,PAN,SP35643,Active
+Swanson Group,Non-Profit,"95610 Dennis Skyway Apt. 803, South Jeremymouth, WV, USA - 58159-8774",Home,001-322-786-2664,In Review,Personal,michaelwalton@example.com,False,TAX50438,EIN,lE40719,Active
+"White, Hudson and Johnson",Public,"968 Cobb View Apt. 399, Lake Jeremy, ND, USA - 39709-8220",Home,(549)813-0884x3206,Pending,Support,danielle78@example.net,False,TAX64727,GST,Wj91671,Inactive
+Hunter-Lyons,Government,"45174 Ashley Overpass Suite 535, North Crystalton, UT, USA - 45946-6859",Office,(955)976-5603x2183,Approved,Business,cameron35@example.com,True,TAX80491,PAN,Uc30427,Inactive
+Howard-Gonzalez,Partnership,"51382 Samuel Pines Apt. 053, Christopherborough, MT, USA - 71835-2124",Home,(873)524-9074x9608,Pending,Sales,derrick41@example.org,True,TAX57367,DUNS,EN76127,Inactive
+Moyer and Sons,Partnership,"972 Castro Bypass Suite 767, Kyleburgh, PA, USA - 66831-4815",Mobile,3836944479,Validated,Business,thomasjohnson@example.com,False,TAX41402,EIN,Kd64836,Inactive
+"Atkins, Flores and Castaneda",Government,"94071 Taylor Common Apt. 502, New Debra, NJ, USA - 96511-1299",Fax,393-888-6137x172,In Review,Sales,butlermichael@example.net,True,TAX61695,EIN,ra15290,Inactive
+"Henry, Barr and Smith",Non-Profit,"0496 Sawyer Island, Salinasshire, MT, USA - 86881-7897",Office,001-616-988-7403,Approved,HR,millerphilip@example.com,False,TAX44192,EIN,yJ00233,Inactive
+"Joseph, Little and Riley",Partnership,"7971 Carter Dale Suite 871, Lake Rachel, OK, USA - 78080-5827",Home,(221)923-1880x459,Pending,Personal,lauranewton@example.com,False,TAX63854,EIN,Vp27984,Inactive
+Hayes-Ward,Public,"4706 Olson Summit Apt. 884, North Jasonport, UT, USA - 36055-9614",Office,+1-617-316-6780x92951,In Review,Business,blopez@example.org,False,TAX20630,EIN,QM01515,Active
+Bender Inc,Partnership,"548 Martin Forge, Port Kristi, AS, USA - 77065-1274",Home,745.329.7170x34674,Rejected,Personal,stacy23@example.org,False,TAX12422,PAN,Mc03947,Active
+"Sanchez, Newton and Brown",Public,"5307 Welch Lock, New Robertport, FL, USA - 53356-3779",Fax,3426461511,Approved,Personal,summerhampton@example.org,True,TAX49487,LEI,zG10669,Active
+Davis-Curry,Government,"85784 Murphy Lake, Paulburgh, GU, USA - 11307-8752",Mobile,(339)408-9757,Validated,Personal,sarah11@example.net,False,TAX11686,PAN,eD70417,Active
+"Martinez, Wilson and Baker",Government,"495 Sullivan View, Markside, NH, USA - 69367-4570",Office,+1-498-586-0075x16164,Rejected,Sales,nelsonjessica@example.com,True,TAX63606,PAN,JC65879,Active
+Wilson-Pearson,Partnership,"7282 David Island Suite 653, Taraton, MT, USA - 19959-3055",Mobile,666.647.4621,Pending,Sales,lauren93@example.net,True,TAX21851,EIN,Ws59298,Active
+Harvey and Sons,LLC,"09480 Brandi Radial, East Christine, CO, USA - 76033-5217",Home,(910)946-7326x63375,Rejected,Sales,qherman@example.net,True,TAX51973,DUNS,ap29297,Inactive
+Miller Inc,Non-Profit,"516 Danielle Gardens Apt. 744, Guerrerohaven, VA, USA - 71727-6791",Fax,861.832.9761x064,Approved,Personal,amberallen@example.com,False,TAX64142,TIN,Ns75489,Inactive
+Owens-Warren,LLC,"2128 Keith Ports Suite 856, Walterview, VA, USA - 96539-5023",Office,(558)420-3095x87848,Approved,Business,bookerkristopher@example.net,False,TAX59223,TIN,GL70001,Inactive
+"Fleming, Gill and Smith",Government,"17021 Reeves Row Suite 340, Wallfort, MP, USA - 64987-5424",Mobile,983-599-1394x7801,Pending,Personal,maryacevedo@example.com,True,TAX11374,GST,kn19641,Active
+Frost-Jones,Government,"8128 Kenneth Underpass Apt. 565, Jenkinsville, PR, USA - 24391-8188",Mobile,001-286-641-8030,Pending,Business,bobby00@example.net,False,TAX48241,LEI,Fh04029,Inactive
+Jones Ltd,Public,"87347 Oneal Corners Suite 637, Andreamouth, MI, USA - 44834-2971",Fax,206-376-4070x099,Pending,Support,whitneysantos@example.org,True,TAX24281,TIN,fS24360,Inactive
+Perry Inc,Government,"5869 Martin Mount, Johnstad, OH, USA - 64220-1409",Home,001-571-803-5856x3314,Approved,Support,pearsonvictoria@example.org,False,TAX28578,GST,uV44068,Active
+Good-Parker,Partnership,"44716 Matthew Prairie, North Lindamouth, DC, USA - 91583-1182",Home,5254337677,Pending,Sales,rodrigueztodd@example.org,False,TAX59793,TIN,nX16192,Active
+Pugh-Lawrence,LLC,"21288 Crystal Trace, West Davidland, PW, USA - 90199-6226",Fax,963-339-2998x806,In Review,Support,pmartin@example.com,False,TAX20289,LEI,Mn69607,Inactive
+Rios-Smith,Public,"463 Navarro Villages, Jenniferburgh, TN, USA - 11538-5173",Home,001-628-253-3947x9620,Approved,Business,matthew15@example.com,True,TAX57310,EIN,wM56279,Active
+Freeman Inc,Non-Profit,"70274 Anthony Turnpike, Collinsfurt, GU, USA - 45261-8002",Office,(637)383-8366,Rejected,Sales,nleblanc@example.org,False,TAX75007,PAN,gk48176,Active
+Miller Inc,Government,"0572 Joshua Street, East Brittneyshire, PA, USA - 63497-8392",Fax,605.616.7348,Rejected,Personal,zachary02@example.net,True,TAX58786,PAN,wv89411,Inactive
+Ross PLC,Government,"173 Gomez Vista, Stanleyton, OR, USA - 10790-8208",Office,+1-811-759-5981x3462,Pending,Business,nicolemeyers@example.org,False,TAX66558,EIN,Rf29501,Active
+"Cruz, Joseph and Kelly",Government,"263 Wayne Shoals, Charlenefort, KY, USA - 51464-2259",Mobile,001-810-596-5320x85929,Approved,Personal,calhoundavid@example.net,False,TAX75963,GST,PQ85165,Inactive
+"Smith, Thomas and Taylor",LLC,"8643 Brandon Causeway, East Laceyshire, NV, USA - 10192-2603",Office,862.936.0778x83022,Approved,Sales,alanjackson@example.org,True,TAX82160,LEI,ZB13211,Inactive
+"Jones, Bailey and Spence",Private,"50838 John Way, North Kristen, ND, USA - 84353-8429",Fax,+1-769-511-6745x575,Rejected,HR,james76@example.net,False,TAX46688,DUNS,YE95356,Active
+Riley Ltd,Non-Profit,"799 Osborne Lights, Adamchester, IA, USA - 37166-6067",Mobile,7923655208,Approved,Support,haleycook@example.com,True,TAX38255,DUNS,aJ66400,Inactive
+Johnson-Martinez,Non-Profit,"26234 Walsh Mill, West Eric, MI, USA - 67589-8177",Fax,227.321.7251x915,Rejected,HR,kyle30@example.com,True,TAX34048,PAN,eP04957,Active
+Tate-Mills,Public,"219 Nathan Falls Apt. 076, Webbmouth, NE, USA - 59277-4378",Home,001-910-397-0234x08104,Pending,Support,josemckee@example.net,True,TAX65717,TIN,BW30401,Active
+"Potts, Martinez and Perry",LLC,"933 Copeland Viaduct, Kristinaton, UT, USA - 95063-7251",Fax,001-496-431-1293x93397,Pending,Business,heathermooney@example.org,True,TAX92750,TIN,gs52001,Inactive
+"Williams, Guzman and Williams",Government,"54797 Catherine Locks Suite 690, East Sandraborough, WY, USA - 57822-5188",Fax,(719)734-1001,Validated,Support,elizabethtaylor@example.org,True,TAX55258,LEI,yv47369,Inactive
+"Boyer, Webb and Terry",Private,"291 Johnson Street Apt. 852, Port Jeanne, AL, USA - 60562-1082",Mobile,704.874.1640x35323,Validated,Sales,cphillips@example.org,False,TAX59221,PAN,Ub82111,Active
+"Humphrey, Dickerson and Marshall",Public,"25969 Young Ville Suite 899, Reedport, PR, USA - 33884-3810",Office,(810)591-5786x011,Rejected,HR,perrygregory@example.org,True,TAX56564,PAN,mR40235,Inactive
+Hall-Powell,Public,"2668 Sanchez Alley Suite 622, Wilsonville, OR, USA - 40351-8837",Office,976-838-9057,Approved,Sales,lisa46@example.com,True,TAX93597,PAN,wf97785,Active
+Garcia-Taylor,Government,"809 Mary Circle Apt. 375, Shafferside, SC, USA - 45119-6956",Fax,795.684.0595x78501,Rejected,HR,rwalter@example.com,True,TAX55046,GST,vT15235,Inactive
+Rodriguez-Lindsey,Public,"7263 Thompson Run Suite 841, East Natalie, MP, USA - 22973-8759",Mobile,(911)279-0398x42154,In Review,HR,kyleparker@example.org,True,TAX41459,EIN,YQ84330,Active
+"Miller, Murphy and Hunt",Private,"915 Douglas Mount Suite 929, Solisstad, MP, USA - 58710-7657",Office,311-909-5169,Pending,Business,spencealexis@example.net,False,TAX76456,EIN,oV00816,Inactive
+"Garcia, Garcia and Mckinney",LLC,"775 Alexander Pines, South Brooke, CT, USA - 25246-9651",Home,780.779.5719x9828,Approved,Support,dominguezkathleen@example.org,True,TAX12033,PAN,FT99265,Active
+Hart Group,Private,"54081 Claudia Run, Kristifurt, SD, USA - 16053-3686",Mobile,432-465-0627x1645,Pending,Business,mbrown@example.com,False,TAX89533,GST,hw96980,Inactive
+Dickerson PLC,Public,"98862 Saunders Lock Apt. 902, South Claireland, WY, USA - 66563-7178",Fax,(809)554-1039x39961,Pending,Personal,jamie20@example.net,True,TAX35391,DUNS,JY61985,Inactive
+"Dominguez, Fritz and Perry",Public,"44397 Terri Shoals Suite 150, West Elaineberg, VT, USA - 23236-5311",Office,337.845.6054,Rejected,Support,amymorris@example.com,False,TAX58679,EIN,MS27715,Active
+James-Rogers,Public,"6259 Reyes Parks, West Joseph, VA, USA - 75942-1178",Office,788.292.2377x0627,Pending,HR,jessica95@example.org,True,TAX25679,LEI,ZV87368,Active
+Lamb-Rich,Private,"8301 Parsons Orchard, West Julieland, NM, USA - 58786-1287",Office,+1-711-814-0955x99529,Validated,Support,salasmartha@example.net,True,TAX95403,GST,MM84822,Inactive
+Lewis-Joseph,LLC,"35410 Kelli Plaza Suite 374, Port Sarahtown, FL, USA - 88837-2041",Home,593-954-0951x33598,In Review,Support,vangelizabeth@example.com,False,TAX66307,GST,ZB58807,Active
+Salinas-Nguyen,Government,"0396 Johnson Shores Apt. 652, Amandamouth, AK, USA - 90257-8002",Fax,659-872-1759x9425,Pending,HR,nancy10@example.org,True,TAX11246,LEI,Pv03075,Active
+Kelly Inc,Partnership,"231 Hood Trail, East Kelli, AL, USA - 48404-2222",Fax,+1-604-870-4182,Pending,Personal,mcculloughrobert@example.org,True,TAX44219,LEI,pl29695,Active
+Moore LLC,LLC,"3000 Austin Underpass Apt. 761, Lake Desiree, SC, USA - 60987-5979",Home,+1-785-371-0340x7319,Rejected,Sales,whitekimberly@example.com,False,TAX48143,DUNS,cw65462,Inactive
+Fowler Inc,Government,"3547 Jackson Passage Apt. 002, Thomashaven, NV, USA - 63573-6125",Home,(732)864-9255,Approved,HR,juliaosborne@example.com,False,TAX26796,TIN,YU47333,Inactive
+"Williams, Alexander and Allen",Private,"87313 Calhoun Lock, North Renee, ME, USA - 96182-4981",Office,+1-627-931-5140x013,In Review,Support,clairesloan@example.org,False,TAX33373,LEI,Xe03051,Active
+Weaver LLC,Partnership,"9948 Young Station Suite 635, Kingshire, WY, USA - 11351-2458",Home,440.559.3077x79690,Rejected,Business,millermelinda@example.net,False,TAX26887,EIN,Tj51720,Active
+Reed Inc,Non-Profit,"46497 Brian Shores Apt. 065, East Susanhaven, KY, USA - 47020-6317",Fax,001-568-650-7472x3904,Pending,Personal,robertowright@example.com,True,TAX70417,TIN,hd52691,Inactive
+Castro and Sons,Partnership,"6883 Nelson Fords Apt. 867, New Steven, MA, USA - 74625-3944",Home,941-394-8528x439,Rejected,Personal,hallalexandra@example.com,False,TAX85788,EIN,kJ81591,Inactive
+"Wood, Gonzales and White",Non-Profit,"84134 Amy Dale, Port Larrymouth, MD, USA - 89025-3838",Fax,509.839.4089x382,Rejected,Sales,thomaswelch@example.net,True,TAX87939,LEI,ci41997,Inactive
+"Perry, Washington and Rose",Private,"1279 Phillips Spring, East Aprilbury, OK, USA - 20874-1077",Home,(684)925-1675,Validated,Business,madisonstone@example.org,False,TAX75267,GST,iA70932,Inactive
+Davis Group,Government,"43698 Palmer Stravenue, Browningville, UT, USA - 79176-8391",Office,677-604-0328x29379,Validated,Sales,kevinwebster@example.org,True,TAX54360,GST,CK05838,Inactive
+Johnson-Kemp,Non-Profit,"33370 Charles Pass Apt. 306, Dustinborough, AK, USA - 43583-8627",Home,001-210-284-1284x64189,In Review,HR,jason80@example.org,False,TAX53528,PAN,sV26836,Active
+"Nguyen, Villanueva and Flynn",Private,"918 Shane Squares, Port Madisonshire, PR, USA - 44215-8217",Home,(866)420-1909,Rejected,Personal,scarter@example.com,True,TAX51644,PAN,WR17904,Inactive
+Bailey Group,Public,"4205 Nash Walks, East Ginaport, FL, USA - 93012-8122",Mobile,+1-502-712-5412x189,In Review,Sales,reginaramirez@example.org,True,TAX35077,LEI,TU88786,Active
+Walker-Burton,Non-Profit,"34043 Brian Cliffs, Johnsonberg, NH, USA - 80167-4244",Fax,(353)498-2978x421,Validated,Sales,wjohnston@example.com,True,TAX83734,DUNS,uV62535,Active
+Becker and Sons,Government,"1959 Allen Ranch, Davidshire, TN, USA - 91232-8180",Office,9908482764,Pending,Personal,stacy75@example.org,False,TAX53020,EIN,Jj11379,Inactive
+Torres and Sons,Private,"19055 Allison Fort Suite 486, South Kathleenstad, CO, USA - 43277-2216",Fax,(864)339-8808,Rejected,Business,aguilarthomas@example.net,False,TAX75111,LEI,qW43517,Inactive
+Williams-Molina,LLC,"13927 Lopez Forks Suite 294, Ronaldville, TN, USA - 83914-7441",Office,973-852-4626,Pending,Support,josephdaniels@example.com,True,TAX23327,DUNS,xA32144,Active
+"Rich, Holden and Richards",Partnership,"211 George Springs, North Cassandraland, MO, USA - 11937-6081",Fax,6853088997,Approved,Sales,daniellang@example.net,False,TAX86938,TIN,Ey30981,Inactive
+"Reyes, Hill and Hester",LLC,"38223 Andrews Mill Suite 639, South Tanya, NJ, USA - 44275-2628",Home,615-748-1887x6378,Validated,Business,sparker@example.net,False,TAX35943,PAN,Ji17470,Active
+Frost Ltd,LLC,"59693 Adrian Viaduct Suite 746, West Jessicabury, MS, USA - 90255-5259",Mobile,559-927-5249,Validated,Support,kimberly91@example.net,True,TAX84150,EIN,Nh15853,Active
+Jones Group,Non-Profit,"0197 Weiss Spur Apt. 905, West Michelle, MS, USA - 60454-8526",Fax,001-907-937-1135,Pending,Personal,samanthaosborne@example.com,True,TAX85298,GST,lI09868,Active
+"Conley, Harvey and Vazquez",Public,"85234 Autumn Alley, Matthewfort, VI, USA - 61966-7475",Mobile,994.728.3338,Rejected,Support,kim84@example.com,True,TAX71567,LEI,CV73327,Inactive
+Smith Inc,Partnership,"57673 Andrea Gateway Apt. 201, East Davidchester, SC, USA - 92986-3033",Office,(748)613-2687x11123,In Review,Support,kenneth63@example.com,True,TAX72899,LEI,Nh54363,Inactive
+Allen Inc,Government,"78108 Samantha Meadow, Rachelburgh, KY, USA - 94339-4592",Office,677.657.4148x4007,In Review,Personal,nrusso@example.org,True,TAX19846,EIN,ct72159,Active
+Pearson Inc,Partnership,"2881 Parker Crescent, Austinview, FL, USA - 99638-7882",Office,(380)722-5686x3831,In Review,Personal,smithlaura@example.net,True,TAX91228,PAN,hR22072,Inactive
+Caldwell-Wright,Government,"25039 Ryan Wells Apt. 821, Vasquezmouth, WA, USA - 94113-3988",Fax,001-709-464-5208x32798,In Review,Business,hallchristopher@example.org,True,TAX22846,LEI,ch54090,Active
+Gray Group,Private,"570 Amy Square Suite 599, Carlstad, NM, USA - 44943-1119",Office,001-862-309-5067x203,Validated,HR,jjohnson@example.com,True,TAX32515,EIN,Ul06510,Inactive
+"Camacho, Liu and Mayo",Partnership,"847 Dawson Trace, Kramermouth, KS, USA - 18578-8039",Office,7954281981,Rejected,Personal,thomasdiana@example.com,False,TAX68954,DUNS,un47063,Inactive
+"Miller, Burke and Williams",Private,"774 Gonzalez Extension Apt. 638, Mooneyborough, MP, USA - 28509-3037",Home,(964)319-3498,Approved,Support,gallowayarthur@example.org,True,TAX23559,DUNS,RP14717,Inactive
+Thomas PLC,Partnership,"26123 Amanda Common, Lake Carol, IA, USA - 93058-1461",Office,(945)777-7114x36031,In Review,Business,garciarobert@example.com,False,TAX14288,PAN,zz54006,Active
+Byrd Group,Public,"34527 Carter Estate, West Jason, MP, USA - 72347-7013",Fax,950-517-3154x5339,Rejected,Personal,chadandrews@example.net,False,TAX47258,LEI,iR25505,Inactive
+Stevenson Group,LLC,"52000 Michael Landing Apt. 568, Port Kevinbury, AK, USA - 43840-9513",Office,(445)442-6942x65876,Validated,Business,baileymelanie@example.org,False,TAX36969,EIN,vA86909,Inactive
+Adams Ltd,Private,"24502 Clark Views Apt. 140, Wrighthaven, KS, USA - 18602-1288",Home,+1-466-282-1316x2115,Validated,Business,charlesdunn@example.org,True,TAX81134,LEI,rH78818,Active
+Kim PLC,Private,"3685 Christopher Extensions, New Karabury, MN, USA - 18708-9850",Office,264.403.2411,Validated,Support,asloan@example.net,True,TAX86953,PAN,Ci43662,Inactive
+Scott-Cook,Non-Profit,"07789 Howard Pines, New Anne, DC, USA - 84679-9611",Fax,(350)542-7539,Approved,Business,james59@example.net,True,TAX78554,GST,Nz86217,Inactive
+"Bradford, Davis and Jones",LLC,"4773 Jonathan Station, Port Dominiquefort, IA, USA - 12125-1502",Home,+1-692-898-5631x1727,Rejected,HR,chelsea44@example.org,True,TAX76907,DUNS,qM48684,Inactive
+Carter-Davis,Government,"124 Crystal Dale, South James, OK, USA - 66900-9555",Home,001-781-368-3371x81009,Validated,HR,englishaustin@example.org,True,TAX91707,DUNS,LS06004,Active
+Duffy PLC,Non-Profit,"51915 Denise Neck, Port Bianca, ND, USA - 10105-2185",Home,(859)242-7706x996,Validated,Business,woodsteven@example.com,True,TAX30811,EIN,st10833,Active
+Smith LLC,Private,"67423 Heath Springs Suite 397, Medinachester, VT, USA - 71822-2236",Home,298.738.7353,Validated,HR,richard57@example.org,True,TAX75540,LEI,GU09048,Active
+Gross PLC,Partnership,"34572 Jason Walks Apt. 929, North Amy, NE, USA - 10959-7406",Fax,804-742-2882x5835,Rejected,Sales,tammydickerson@example.net,False,TAX74213,TIN,eZ59705,Active
+"Delgado, Miller and Gomez",LLC,"939 Autumn Squares, Richardview, NH, USA - 88990-1986",Home,854.483.1782x72584,In Review,Support,mlarson@example.org,False,TAX97516,LEI,xi30673,Inactive
+Gilmore-Blevins,Partnership,"6190 Torres Spur Apt. 359, Wongfurt, OR, USA - 85780-5493",Fax,316-831-2108x0756,Pending,Support,christopherhensley@example.com,True,TAX81809,EIN,jK46675,Active
+Williamson-Myers,Non-Profit,"8008 William Coves Apt. 299, West Jason, SC, USA - 88070-9952",Home,(513)907-0064x73989,In Review,Personal,debbie94@example.org,True,TAX47178,EIN,tk34866,Inactive
+Johnson-Phillips,Government,"365 Emily Ford, Campbellmouth, CO, USA - 88770-4796",Mobile,(677)396-4265,Approved,Support,catherine63@example.com,False,TAX14356,LEI,Sh87065,Inactive
+Holmes LLC,Partnership,"59098 Cole Walks, Watkinsland, AR, USA - 20580-9609",Home,718-790-8935,Rejected,Sales,alex52@example.com,True,TAX30857,TIN,rQ68270,Inactive
+Goodwin-Berry,Public,"951 Taylor Grove, Phillipsstad, SC, USA - 48538-9993",Home,001-585-939-4884x266,Pending,Personal,william29@example.org,False,TAX83016,EIN,ff44754,Inactive
+"Wilkins, Morrison and Moreno",Public,"693 Miller Glens Suite 917, Brownshire, NV, USA - 43023-6104",Mobile,799-388-8615,Approved,Business,erikawhite@example.com,False,TAX20624,TIN,Yg34997,Inactive
+"Lawrence, Durham and Fletcher",Government,"39821 Timothy Cape Suite 773, West Maria, IA, USA - 22870-7370",Office,589-578-8740x824,Pending,HR,kellerphillip@example.net,True,TAX30724,DUNS,Bi14086,Inactive
+"Ortiz, Mitchell and Hernandez",LLC,"366 Michael Parkway, North John, IN, USA - 81005-2381",Home,001-867-758-2262x5650,Pending,Business,ecamacho@example.net,False,TAX21577,LEI,tu96814,Active
+Reid Ltd,Non-Profit,"581 Garcia Lock Apt. 103, Gregorychester, MT, USA - 77443-5169",Fax,001-938-228-2530x80170,Rejected,Personal,tjoseph@example.net,True,TAX16052,TIN,up46987,Inactive
+"Campbell, Tanner and Moore",Non-Profit,"5804 Chelsea Haven, Stewartside, MD, USA - 64248-6422",Mobile,3472358475,Validated,Sales,april98@example.net,True,TAX81454,LEI,Zg62679,Active
+Burns Inc,Non-Profit,"16439 Dixon Ramp Apt. 365, Port Allison, MS, USA - 38498-5738",Fax,+1-859-968-2672x030,Validated,Support,jacobwilson@example.net,False,TAX81883,PAN,Ws74372,Inactive
+"Lee, Cobb and Roy",LLC,"075 Larson Motorway, Christophermouth, VT, USA - 14388-1087",Mobile,372.326.3805x73636,Pending,HR,michael88@example.com,False,TAX55899,LEI,Lj17761,Active
+Foster Group,Public,"401 Kevin Stravenue, Bakerview, TN, USA - 70454-8532",Office,001-279-295-5145,In Review,Personal,peter70@example.com,False,TAX10257,LEI,Xm38440,Inactive
+"Mcconnell, Manning and Munoz",Private,"351 Mendoza Freeway, East Kyleton, NJ, USA - 80656-1352",Fax,001-234-436-5358,Pending,Business,johnsonjustin@example.com,True,TAX57495,PAN,Lc48258,Inactive
+Miller-Barnes,Government,"84270 Benjamin Gateway, North Jose, MO, USA - 31402-1779",Home,482.236.5602x37554,Approved,Support,michaelblake@example.net,True,TAX47197,DUNS,iQ23136,Active
+Wilson-Lynch,Public,"1244 Simpson Unions, Reedton, UT, USA - 24889-2269",Home,838-427-9167x576,Approved,Support,brandi23@example.org,False,TAX34952,EIN,kf80156,Inactive
+Gonzalez LLC,Government,"44678 Felicia Oval, New Elizabethmouth, KS, USA - 45118-1652",Office,001-563-619-4405x0193,Approved,Personal,davidwells@example.com,False,TAX65036,PAN,cK48821,Inactive
+"King, Vasquez and Jones",LLC,"81776 Diamond Point, New Devin, CT, USA - 43447-6147",Office,001-629-329-9545x15357,Pending,Personal,kanecarrie@example.org,False,TAX79401,PAN,FB47131,Inactive
+"Mccullough, Green and Hill",Government,"47462 Matthew Crossroad Suite 448, Osbornland, WA, USA - 56233-6687",Office,5128432612,Validated,Support,lynchdarlene@example.com,True,TAX18486,PAN,XD25307,Active
+Barnes-Frey,Non-Profit,"30923 Wang Extension, Dylanview, MA, USA - 78168-5475",Home,2212711187,Pending,HR,rhondaluna@example.com,False,TAX95968,EIN,ZA38311,Inactive
+"Dunn, Davis and Powell",LLC,"6117 Chen Corner Apt. 730, South Alexandriaville, SC, USA - 63468-9425",Fax,+1-804-969-3800,Pending,Support,cameron72@example.net,True,TAX87649,LEI,Wb31943,Inactive
+Williams-Rodriguez,Government,"70799 Nelson Drives Suite 123, Dennisview, VI, USA - 97981-2109",Mobile,767.968.3617x925,Pending,Business,bradyjamie@example.net,True,TAX85481,LEI,Th68817,Inactive
+Johnson-Young,LLC,"299 Butler Course, Rogersfort, VA, USA - 14415-1216",Office,620.562.7702,Rejected,Personal,danielsemily@example.net,True,TAX93534,TIN,vr32736,Inactive
+Murray and Sons,Government,"6790 Costa Lodge, Banksstad, GA, USA - 89260-1350",Fax,001-521-856-5653x6685,Approved,Personal,aliciaharper@example.com,False,TAX61055,PAN,kb46130,Active
+"Foster, Hayes and Bell",Partnership,"566 Perez Rest Apt. 033, Stevenmouth, IN, USA - 28885-6480",Mobile,503-849-0620x812,Approved,HR,spencerjoshua@example.org,True,TAX27685,TIN,SX74684,Inactive
+Stout-Woods,Partnership,"2503 Rachel Hills Apt. 662, Kathleenton, NY, USA - 34858-6426",Home,+1-379-845-2076x585,In Review,Business,jenniferroach@example.net,False,TAX74723,TIN,zO46282,Active
+"Smith, Gonzalez and Moreno",Government,"45157 Dixon Flat Apt. 008, Torresburgh, TN, USA - 37454-7880",Fax,+1-727-704-2702,Approved,Personal,davidtrevino@example.net,True,TAX92858,EIN,qa87749,Active
+"Lane, Hudson and Wilson",Government,"08891 Bailey Square Apt. 506, Rodgersfurt, MP, USA - 93342-8000",Mobile,001-883-484-0192x29781,Rejected,Support,sheppardscott@example.com,False,TAX69179,PAN,Es87290,Inactive
+Young LLC,Partnership,"1922 Aguilar Lodge Apt. 396, West Carla, PR, USA - 22734-4578",Office,622-536-4082x33756,Rejected,HR,josejohnson@example.org,True,TAX73522,GST,NA62748,Active
+Elliott-Hopkins,LLC,"4928 Sharon Key, Dannyland, GU, USA - 29589-8780",Office,658-834-2591,Validated,Business,jholmes@example.net,True,TAX54386,GST,FD37727,Inactive
+White PLC,LLC,"1465 Katherine Land Apt. 353, Port Dianeside, NV, USA - 51490-9516",Mobile,511-495-6093x034,Pending,HR,castanedamarcus@example.org,False,TAX91474,LEI,Xn92209,Active
+Young Ltd,Government,"86281 Carl Highway, Lindseyburgh, WV, USA - 10715-2404",Mobile,+1-621-967-2996x450,In Review,Personal,hullangela@example.com,False,TAX56476,PAN,KR25245,Inactive
+Brown-Freeman,Partnership,"16254 Jillian Forges Suite 325, Kariview, MI, USA - 45345-6077",Home,(297)806-7908,Validated,Sales,xsanchez@example.org,False,TAX38460,TIN,bd95124,Inactive
+Brown-Ward,Non-Profit,"680 Cindy Trail Apt. 481, Dustinberg, RI, USA - 93456-2971",Fax,523-408-2458x74743,Validated,Support,pflowers@example.com,True,TAX27546,DUNS,pW64965,Active
+Mullen LLC,Government,"0006 Clayton Drive Apt. 481, Romeroview, WI, USA - 93104-6826",Office,+1-222-229-3401x39545,Validated,Business,daniel97@example.net,False,TAX88880,TIN,Xi28788,Inactive
+Nguyen Inc,Partnership,"612 Jordan Circle Suite 140, Nathanielbury, DC, USA - 80005-9913",Mobile,739.868.9025x3532,Validated,Sales,wdavis@example.org,False,TAX41883,GST,iW61998,Active
+Jackson-Singh,Public,"89187 Carson Curve Suite 278, Castilloside, CA, USA - 86135-6635",Office,716.933.0694,Approved,Personal,weavernicholas@example.org,True,TAX63674,DUNS,kQ30854,Inactive
+Jennings-Kelly,Partnership,"59500 Berry Spur Suite 594, Jonesstad, WA, USA - 48412-1930",Home,(627)983-1960x582,Approved,Personal,james65@example.org,True,TAX45418,LEI,jN37636,Inactive
+"Edwards, Pope and Reed",Partnership,"3416 Thomas Loop, Whiteshire, DE, USA - 15310-8793",Home,397-889-0126,Validated,Business,gchaney@example.net,False,TAX93310,LEI,HS75050,Inactive
+Dixon-Hale,Government,"1795 Beasley Track, Royside, CA, USA - 65403-3989",Home,6363134128,Pending,Business,hhammond@example.com,False,TAX12014,PAN,Lw87874,Active
+Schmidt Ltd,Private,"789 Gilbert Road, Gayland, NH, USA - 29369-4934",Fax,558.337.0930,In Review,Business,garcialuis@example.org,True,TAX53300,PAN,XC86778,Inactive
+"Adkins, Brown and Bell",Non-Profit,"4474 Thompson Groves Suite 604, Port Tyler, IN, USA - 78302-5774",Fax,(483)745-9430x7013,Pending,HR,penny54@example.org,False,TAX74504,LEI,Fn63996,Inactive
+"Harris, Pittman and Valenzuela",Public,"2258 Alisha Streets, South Jessicaberg, MT, USA - 56817-8194",Home,525-516-6262x9076,Rejected,Personal,stephanie81@example.org,False,TAX13402,TIN,IZ50725,Inactive
+Gonzalez-Chen,LLC,"777 Kim Square Apt. 904, New Robin, AL, USA - 61422-7680",Fax,001-244-853-4296x875,Validated,Business,michealwoods@example.org,False,TAX79163,GST,li23440,Active
+Henderson-Knight,Government,"351 Jones Ford Suite 106, Katherineberg, DC, USA - 31729-8018",Office,+1-768-657-0084,Validated,Personal,diazjoshua@example.org,False,TAX68969,GST,SY77725,Active
+Mcdaniel-Taylor,LLC,"6691 Adam Pass Suite 937, Sancheztown, MS, USA - 68882-6803",Fax,545.515.7644x1072,Pending,Support,vargasdeborah@example.net,False,TAX75541,TIN,uv83544,Inactive
+Love Ltd,Partnership,"2651 Guzman Lake Apt. 051, Port Drewberg, NE, USA - 52916-9575",Home,7258699185,Approved,Business,angelakennedy@example.net,False,TAX52026,TIN,jP10346,Inactive
+Miller Group,LLC,"9073 Burgess Underpass, Port Hollychester, ME, USA - 82123-1275",Home,691.573.0466x575,Pending,HR,timothy28@example.org,False,TAX30819,GST,HQ77117,Inactive
+Watkins-Jackson,Government,"1719 Aaron Walk, Chavezmouth, PW, USA - 59447-4710",Home,(612)716-9625,Rejected,Business,derek05@example.net,False,TAX14580,EIN,ad08550,Inactive
+Brown-Burton,Government,"84361 Timothy Forge Suite 083, New Terriside, WY, USA - 71217-9178",Home,779.838.9788x18934,Rejected,Sales,erichutchinson@example.com,True,TAX78080,DUNS,TQ84308,Inactive
+Ritter-Russell,Private,"91421 Kerri Creek Apt. 135, Arellanofurt, CT, USA - 53462-2939",Home,+1-609-946-8002x3405,Pending,HR,petergarcia@example.net,True,TAX89897,GST,GP59596,Inactive
+"Williams, Smith and Tran",LLC,"4485 Maria Roads, South Brittany, PR, USA - 34655-1710",Office,001-828-737-7952,In Review,Sales,rebeccablair@example.net,True,TAX86174,DUNS,og34326,Inactive
+Martin-Santiago,Public,"8194 Bowers Village, Port Jamesfurt, CT, USA - 41278-1623",Home,772-622-9558x57313,Approved,HR,jason86@example.com,True,TAX72611,LEI,NR16585,Inactive
+Vaughn and Sons,Public,"323 Forbes Streets Suite 406, East Austin, MT, USA - 65451-1077",Mobile,001-351-772-7324x399,In Review,Business,sean53@example.org,True,TAX32907,GST,bq17313,Active
+"Gallagher, Taylor and Harris",Partnership,"282 Short Garden Apt. 664, Meaganland, VI, USA - 86737-5884",Office,(728)804-8544,Rejected,HR,jeffreymays@example.net,True,TAX68561,PAN,mM27702,Active
+Robinson-Miller,Partnership,"039 Price Dam Apt. 900, Lake Rachel, AK, USA - 11451-6752",Fax,851.740.0404,Pending,Business,pvega@example.net,False,TAX81111,DUNS,XQ66363,Active
+Haynes LLC,Non-Profit,"29694 James Course Apt. 542, Dannyberg, IN, USA - 72129-9957",Home,+1-824-252-3627x60358,Approved,Personal,james30@example.net,False,TAX77795,EIN,nu24772,Inactive
+Hall-Pena,Public,"475 Bartlett Skyway Suite 237, North Thomashaven, SD, USA - 37658-8334",Office,(650)603-4544x3929,Approved,Support,stokesshane@example.net,True,TAX58580,GST,LD08548,Active
+Bray LLC,Private,"40635 Diana Fork, Carterborough, AS, USA - 32368-3435",Home,+1-521-919-1720x96177,Rejected,Sales,dandrews@example.com,False,TAX88987,LEI,lA84021,Active
+"Montoya, Pham and Shields",Non-Profit,"9923 Crystal Spring, Kyleshire, FM, USA - 90014-7205",Home,277.380.1759x592,In Review,Sales,sara14@example.org,True,TAX51411,TIN,ko41709,Inactive
+Dickson Ltd,LLC,"4492 Kevin Square, Port Douglasburgh, PW, USA - 42296-3840",Mobile,(819)616-9630,In Review,Personal,christina33@example.org,True,TAX68045,DUNS,yH18145,Active
+"Reynolds, Patterson and Greene",Government,"81796 Jessica Station, Lake Jessica, WI, USA - 57072-8226",Office,514-449-6160x28608,Pending,Personal,stevecurry@example.org,True,TAX55441,PAN,Zv47147,Active
+"Shields, Davis and Drake",Non-Profit,"0179 Christopher Trail Suite 694, South Jennifershire, MT, USA - 16074-8876",Home,406-259-8525x3464,Approved,Business,claytonemily@example.net,False,TAX83166,LEI,bO25083,Inactive
+Green-Brown,Government,"6211 Eric Mills, Lake Drew, OK, USA - 19088-2684",Office,879-819-0970x70678,Rejected,Personal,rebecca56@example.net,True,TAX17623,EIN,pm31831,Active
+Foster-Pittman,LLC,"48815 Villarreal Port, Peterberg, MD, USA - 50357-9661",Fax,3108870687,In Review,Sales,veronicastephens@example.org,False,TAX53940,TIN,xx48405,Inactive
+"Jordan, Blake and Bishop",LLC,"437 Cook Prairie, Port Shannon, GA, USA - 26962-6919",Mobile,672-201-8746x4835,Rejected,Personal,elizabeth75@example.net,True,TAX56758,PAN,oD41569,Inactive
+Fletcher-Wallace,Government,"696 Stephanie Streets Suite 753, North Mary, AL, USA - 14416-1569",Fax,+1-445-802-9481x52938,In Review,HR,jenniferglenn@example.com,True,TAX65142,TIN,lP41482,Inactive
+"Stevens, Miller and Williamson",Private,"517 Tyrone Dam Suite 697, Josephshire, RI, USA - 27234-9530",Office,+1-566-394-9423x22631,Rejected,Support,melissa54@example.com,False,TAX19082,TIN,Du48080,Inactive
+Ross-Phillips,Private,"135 Marcus Hill, Lorifort, DC, USA - 92141-7948",Home,512-507-3157x0714,In Review,Support,millerjeremy@example.com,True,TAX86240,GST,oY46503,Inactive
+Bartlett-Swanson,LLC,"524 Terry Way, Bakerton, KY, USA - 55280-4852",Mobile,364-950-9567x6301,In Review,Support,parkerronald@example.net,True,TAX51867,TIN,ng01666,Active
+Stone Inc,Private,"3208 Erickson Roads Apt. 157, North Kellystad, RI, USA - 81104-8014",Home,(345)532-8482x023,Approved,Business,zwells@example.org,True,TAX84163,GST,Ej13007,Inactive
+Chang PLC,Government,"0380 Thomas Vista, West Melissa, AZ, USA - 26957-8551",Office,867-293-1268x2470,Approved,Support,steven73@example.org,True,TAX61071,LEI,dS26738,Active
+Barnes LLC,Government,"0160 Jennifer Lakes Apt. 403, Michaelchester, IA, USA - 57413-6163",Mobile,001-822-497-8397x979,Validated,Support,pmurphy@example.org,True,TAX14698,LEI,cp37481,Active
+Villanueva Inc,Public,"34168 Eric Lodge Apt. 900, Loweryburgh, GA, USA - 62784-6813",Office,5923357658,In Review,HR,danamccarthy@example.com,False,TAX59299,GST,so25845,Active
+Cardenas-Nicholson,Non-Profit,"249 Blevins Ranch Suite 353, New Jacob, PA, USA - 52015-1573",Fax,001-315-592-1346x22941,Rejected,Personal,christopher70@example.org,False,TAX71872,DUNS,yW08787,Inactive
+Middleton PLC,Public,"9626 Mckee Cove Suite 381, Port Cindy, DE, USA - 60207-4666",Fax,450.381.0561x6760,Pending,Business,kristylong@example.org,True,TAX72196,TIN,wS26990,Inactive
+"Soto, Chan and Nguyen",Private,"56124 Bailey Loop, South Michael, OK, USA - 36315-8847",Office,(505)457-9399x429,Pending,Sales,rayjohn@example.com,True,TAX40945,GST,Qn56838,Active
+Knight LLC,Non-Profit,"92518 Brianna Corner Suite 141, Lake Arianaborough, VT, USA - 67396-8177",Mobile,+1-609-462-2056x1555,Pending,Personal,nathan38@example.com,True,TAX62204,PAN,ON63670,Inactive
+"Madden, Marshall and Bryant",Private,"6551 Olivia Parkway Apt. 434, North Phillip, KS, USA - 77888-2176",Mobile,(242)530-2102x110,Rejected,Support,robert39@example.com,False,TAX13345,DUNS,nP26434,Inactive
+"Cruz, Gonzalez and Miller",Public,"9093 Darren Path Apt. 712, Amberhaven, SC, USA - 63866-9254",Mobile,(261)815-9699,Rejected,Sales,cynthiarichmond@example.org,True,TAX63754,GST,Kn59624,Inactive
+Mayo-Miller,LLC,"57283 Todd Islands, Port Johnview, AS, USA - 52471-6358",Office,+1-251-406-7197x44164,Pending,Sales,craigluis@example.com,True,TAX77572,LEI,xl64731,Inactive
+Williams Ltd,Government,"7515 Greene Stream, Henryborough, PR, USA - 22229-9344",Office,+1-415-499-9094,In Review,Sales,william02@example.net,False,TAX61527,LEI,bx25004,Active
+"Bell, Wheeler and Powell",LLC,"72563 Frazier Lake, East Stephaniechester, PR, USA - 46774-5284",Office,725.577.7602x87994,Validated,Business,leekaren@example.org,False,TAX85323,EIN,yf31941,Active
+Rivera PLC,LLC,"4828 Melanie Ports Apt. 660, Thomashaven, AL, USA - 92854-6497",Office,584-724-4501,In Review,Support,john95@example.org,True,TAX50334,EIN,px97270,Inactive
+May-Le,Government,"18362 Christian Forge, Isabelbury, SD, USA - 25367-6061",Office,(331)623-1321,In Review,Sales,kleinmegan@example.net,False,TAX28033,DUNS,lZ52468,Inactive
+"Mckenzie, Miller and Lloyd",Private,"3337 Gomez Row Apt. 680, West Paula, NC, USA - 34835-3039",Home,539.465.6162x63626,In Review,Business,fmyers@example.net,False,TAX92287,LEI,ON83161,Active
+Wheeler Ltd,LLC,"697 Julie View Suite 703, Port Edward, WY, USA - 96454-2374",Home,(786)245-5088x2195,Pending,Business,livingstonlogan@example.org,False,TAX13524,LEI,by19270,Active
+Hess-Brown,Government,"1482 Haas Expressway Suite 578, North Amy, MH, USA - 50359-7323",Office,(563)617-1610x5537,Approved,Sales,roytiffany@example.org,True,TAX45681,DUNS,QF37611,Inactive
+"Dixon, Davis and Martinez",Public,"262 Adams Tunnel, East Lisa, DE, USA - 64519-3414",Home,923-449-2992x40253,Pending,Support,stewartkristen@example.net,False,TAX32338,DUNS,us44313,Inactive
+"Wheeler, Phillips and Lester",Non-Profit,"553 Timothy Passage, South Josephton, MT, USA - 99020-5037",Office,5507805740,In Review,Business,swilliams@example.org,False,TAX23123,PAN,mZ43124,Active
+Woodward-Anderson,Government,"0772 Sherman Green, Belltown, MD, USA - 35376-8680",Office,+1-298-805-5645x1873,Validated,Sales,deleondon@example.org,True,TAX28945,TIN,IT78683,Active
+Austin-Mcdowell,LLC,"4328 Yoder Vista, Alexandermouth, VA, USA - 28788-8161",Fax,780-316-2551,In Review,HR,craigbrown@example.com,False,TAX72330,DUNS,KW64917,Inactive
+"Jones, Lawrence and Beck",LLC,"50649 Scott Parks Suite 971, Mauriceside, CO, USA - 10411-5362",Home,(437)371-8637x1677,Approved,Support,fphillips@example.com,True,TAX87901,LEI,xR88551,Active
